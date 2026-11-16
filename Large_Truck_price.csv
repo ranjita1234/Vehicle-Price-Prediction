@@ -1,0 +1,3001 @@
+Truck_Name,Year,Selling_Price,Present_Price,Driven_kms,Fuel_Type,Selling_type,Transmission,Owner
+DAF XF,2010,26.88,22.49,278851,Diesel,Individual,Automatic,1
+MAN TGS,2015,15.25,25.73,156093,Diesel,Individual,Automatic,2
+Isuzu Giga,2022,18.43,33.22,205655,Diesel,Dealer,Manual,2
+Hino 500,2008,10.8,37.54,143885,Diesel,Dealer,Automatic,1
+DAF XF,2007,18.98,44.49,129538,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2017,21.55,49.65,112014,Diesel,Individual,Automatic,3
+Tata Prima,2013,21.42,31.67,69523,Diesel,Individual,Automatic,2
+DAF XF,2010,16.65,21.42,160285,Diesel,Dealer,Manual,0
+Isuzu Giga,2016,16.31,44.04,251615,Diesel,Individual,Manual,1
+Hino 500,2006,12.13,38.13,267043,Diesel,Dealer,Automatic,1
+MAN TGS,2007,17.34,25.96,155879,Diesel,Dealer,Manual,0
+Isuzu Giga,2007,11.99,34.84,140629,Diesel,Individual,Manual,0
+Isuzu Giga,2016,25.33,42.27,298950,Diesel,Individual,Automatic,0
+Tata Prima,2019,29.33,43.11,295560,Diesel,Individual,Automatic,0
+Volvo FMX,2013,29.4,34.99,126830,Diesel,Individual,Manual,3
+Hino 500,2012,27.3,29.16,285013,Diesel,Dealer,Automatic,2
+Scania,2015,22.02,49.21,95538,Diesel,Individual,Manual,2
+Isuzu Giga,2020,24.02,39.9,97310,Diesel,Individual,Manual,3
+Volvo FMX,2008,15.7,32.25,191980,Diesel,Individual,Automatic,0
+Scania,2005,22.62,28.41,165266,Diesel,Individual,Manual,1
+Hino 500,2011,19.11,41.93,238362,Diesel,Dealer,Automatic,1
+Actros,2006,19.64,27.27,234706,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2009,25.16,25.15,62699,Diesel,Individual,Manual,0
+Volvo FMX,2011,15.64,35.9,281241,Diesel,Individual,Manual,3
+Kenworth T680,2008,16.36,28.7,116912,Diesel,Dealer,Automatic,3
+Actros,2009,28.49,38.87,195327,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2005,11.12,23.54,129183,Diesel,Individual,Manual,2
+Tata Prima,2005,19.71,39.65,110282,Diesel,Dealer,Automatic,2
+DAF XF,2019,28.26,28.5,108249,Diesel,Dealer,Automatic,2
+MAN TGS,2014,22.21,20.01,88176,Diesel,Dealer,Manual,2
+Kenworth T680,2022,20.93,23.81,58163,Diesel,Dealer,Automatic,1
+Tata Prima,2007,14.99,48.01,104210,Diesel,Individual,Automatic,1
+Hino 500,2015,16.87,46.02,173844,Diesel,Dealer,Automatic,3
+Tata Prima,2019,27.04,27.01,154587,Diesel,Dealer,Manual,2
+DAF XF,2015,21.18,43.35,281352,Diesel,Individual,Manual,3
+Hino 500,2021,20.29,38.26,121979,Diesel,Individual,Automatic,0
+Kenworth T680,2021,11.99,49.13,128860,Diesel,Individual,Manual,2
+DAF XF,2010,10.32,31.21,202215,Diesel,Dealer,Automatic,2
+Scania,2009,29.27,40.44,286971,Diesel,Individual,Manual,3
+MAN TGS,2012,17.54,21.91,54920,Diesel,Dealer,Automatic,3
+Kenworth T680,2006,22.06,31.89,297647,Diesel,Individual,Manual,0
+Scania,2020,11.59,48.91,132911,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2016,23.66,36.17,87996,Diesel,Individual,Manual,2
+Kenworth T680,2010,28.65,28.64,192820,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2005,21.51,23.61,144071,Diesel,Dealer,Manual,0
+Hino 500,2008,12.52,41.11,262323,Diesel,Individual,Manual,0
+Scania,2021,21.63,39.35,97252,Diesel,Individual,Manual,2
+MAN TGS,2017,25.33,31.22,172734,Diesel,Individual,Automatic,1
+DAF XF,2022,18.13,48.53,244251,Diesel,Individual,Automatic,3
+Isuzu Giga,2009,27.6,20.67,187522,Diesel,Individual,Automatic,3
+Tata Prima,2007,22.97,29.11,102756,Diesel,Dealer,Manual,1
+Actros,2015,27.98,47.63,100235,Diesel,Dealer,Automatic,1
+MAN TGS,2017,22.47,29.63,140546,Diesel,Individual,Manual,2
+Scania,2008,12.63,27.57,181092,Diesel,Individual,Manual,3
+Isuzu Giga,2018,16.19,36.03,175802,Diesel,Dealer,Manual,2
+MAN TGS,2015,14.04,44.71,261325,Diesel,Dealer,Automatic,3
+Scania,2014,28.18,23.09,293956,Diesel,Individual,Manual,3
+Volvo FMX,2022,25.21,48.29,158421,Diesel,Dealer,Automatic,1
+Volvo FMX,2010,23.53,43.85,190736,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2019,16.02,25.44,116635,Diesel,Individual,Manual,1
+MAN TGS,2014,13.68,41.36,73225,Diesel,Individual,Automatic,2
+Volvo FMX,2009,25.13,31.55,249245,Diesel,Individual,Manual,3
+Scania,2009,19.48,32.07,156885,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2014,14.52,43.5,287120,Diesel,Dealer,Automatic,0
+Scania,2009,22.33,48.88,135333,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2007,10.81,23.8,221297,Diesel,Individual,Manual,2
+MAN TGS,2010,16.52,32.62,60807,Diesel,Dealer,Manual,1
+Isuzu Giga,2008,19.37,34.43,264346,Diesel,Individual,Automatic,3
+DAF XF,2022,12.96,31.29,56402,Diesel,Individual,Automatic,0
+Kenworth T680,2013,29.69,30.9,54521,Diesel,Dealer,Automatic,1
+Isuzu Giga,2021,14.18,21.57,244237,Diesel,Individual,Manual,2
+Hino 500,2017,12.61,40.57,164693,Diesel,Individual,Manual,3
+Scania,2019,14.07,33.09,58382,Diesel,Individual,Automatic,1
+Hino 500,2021,25.38,25.84,160996,Diesel,Dealer,Automatic,1
+Isuzu Giga,2017,18.51,44.48,283729,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2020,21.31,44.08,65065,Diesel,Dealer,Automatic,3
+Kenworth T680,2008,10.42,34.59,135470,Diesel,Individual,Automatic,0
+Kenworth T680,2009,10.69,28.95,64425,Diesel,Dealer,Manual,1
+Actros,2009,18.92,39.14,63111,Diesel,Individual,Automatic,2
+Kenworth T680,2013,26.33,28.64,221871,Diesel,Dealer,Manual,1
+DAF XF,2021,27.7,27.08,103257,Diesel,Dealer,Manual,2
+Kenworth T680,2017,11.73,41.92,173990,Diesel,Individual,Manual,2
+Isuzu Giga,2006,20.77,21.21,242249,Diesel,Individual,Manual,2
+Actros,2017,28.26,22.84,177813,Diesel,Individual,Automatic,3
+Isuzu Giga,2007,17.76,20.2,131046,Diesel,Individual,Manual,0
+Isuzu Giga,2014,26.59,24.59,87851,Diesel,Dealer,Automatic,3
+Tata Prima,2006,12.67,22.07,58816,Diesel,Individual,Manual,0
+Actros,2017,28.71,49.87,258925,Diesel,Dealer,Automatic,2
+Isuzu Giga,2021,25.03,28.66,52175,Diesel,Individual,Automatic,0
+Tata Prima,2018,28.83,24.48,61341,Diesel,Dealer,Manual,3
+Tata Prima,2016,23.53,27.23,113908,Diesel,Dealer,Automatic,1
+Actros,2016,17.27,48.08,206726,Diesel,Dealer,Manual,3
+Hino 500,2015,28.76,35.6,241967,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2011,15.51,30.94,109696,Diesel,Individual,Manual,3
+DAF XF,2008,16.64,46.2,238961,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2005,24.02,31.85,268216,Diesel,Dealer,Automatic,3
+Kenworth T680,2007,25.31,30.05,133115,Diesel,Dealer,Automatic,0
+DAF XF,2017,28.59,26.22,80194,Diesel,Dealer,Manual,0
+Kenworth T680,2019,14.1,31.33,215909,Diesel,Dealer,Manual,1
+Isuzu Giga,2006,25.96,29.5,249966,Diesel,Individual,Automatic,3
+Scania,2015,24.77,40.32,134358,Diesel,Dealer,Manual,3
+Actros,2008,11.28,28.69,222648,Diesel,Individual,Manual,1
+DAF XF,2021,17.74,37.32,152548,Diesel,Individual,Manual,1
+DAF XF,2007,15.66,21.98,200799,Diesel,Individual,Automatic,2
+Isuzu Giga,2022,16.09,25.74,84579,Diesel,Dealer,Manual,1
+Hino 500,2012,29.66,32.22,146554,Diesel,Dealer,Manual,1
+Tata Prima,2009,22.86,48.11,197627,Diesel,Dealer,Automatic,1
+Isuzu Giga,2011,24.35,31.32,103294,Diesel,Dealer,Manual,2
+Volvo FMX,2012,29.53,39.92,99777,Diesel,Individual,Manual,0
+Tata Prima,2009,17.54,27.65,186978,Diesel,Individual,Manual,2
+Actros,2021,26.04,23.81,90751,Diesel,Individual,Manual,0
+Tata Prima,2009,18.69,21.76,250671,Diesel,Dealer,Automatic,1
+Hino 500,2008,27.39,29.16,158750,Diesel,Dealer,Manual,2
+Tata Prima,2006,13.61,24.73,124180,Diesel,Dealer,Manual,2
+Actros,2015,28.95,25.22,288986,Diesel,Dealer,Manual,0
+Hino 500,2017,14.38,42.82,254750,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2019,16.52,20.48,81644,Diesel,Dealer,Manual,2
+DAF XF,2016,25.12,36.73,83521,Diesel,Individual,Automatic,3
+DAF XF,2015,17.88,31.38,61564,Diesel,Individual,Automatic,0
+Kenworth T680,2011,22.16,35.2,155155,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2009,18.89,36.88,251712,Diesel,Individual,Manual,2
+Freightliner Cascadia,2021,24.85,29.4,208371,Diesel,Individual,Automatic,1
+Tata Prima,2013,14.57,28.85,229030,Diesel,Individual,Automatic,3
+DAF XF,2018,11.17,42.0,237150,Diesel,Individual,Automatic,3
+Actros,2016,16.0,46.14,194493,Diesel,Dealer,Manual,1
+MAN TGS,2010,19.49,25.78,138747,Diesel,Individual,Manual,1
+MAN TGS,2021,13.36,22.93,61202,Diesel,Dealer,Manual,1
+Hino 500,2020,17.1,46.93,159407,Diesel,Dealer,Manual,1
+DAF XF,2016,18.0,30.5,223257,Diesel,Individual,Manual,3
+DAF XF,2016,11.15,36.54,287735,Diesel,Dealer,Manual,2
+MAN TGS,2010,21.67,30.79,184757,Diesel,Individual,Automatic,2
+DAF XF,2008,27.69,23.77,140197,Diesel,Dealer,Automatic,1
+Tata Prima,2010,13.03,37.68,92637,Diesel,Dealer,Manual,0
+Volvo FMX,2015,21.96,35.75,199438,Diesel,Individual,Manual,1
+Scania,2005,23.29,26.09,284320,Diesel,Individual,Manual,2
+Freightliner Cascadia,2019,18.39,33.56,74276,Diesel,Dealer,Automatic,0
+Kenworth T680,2015,24.02,43.91,130946,Diesel,Individual,Automatic,1
+Hino 500,2022,18.21,37.71,229311,Diesel,Dealer,Automatic,0
+Volvo FMX,2021,20.09,22.91,125214,Diesel,Individual,Automatic,1
+MAN TGS,2018,10.15,36.44,205647,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2022,23.83,41.08,222473,Diesel,Dealer,Automatic,2
+DAF XF,2019,23.23,43.78,91230,Diesel,Dealer,Automatic,1
+Kenworth T680,2019,10.77,38.87,260496,Diesel,Dealer,Manual,0
+DAF XF,2008,17.37,24.58,263335,Diesel,Dealer,Manual,2
+Actros,2011,29.58,41.31,174086,Diesel,Individual,Manual,1
+Actros,2017,18.41,40.32,179526,Diesel,Dealer,Automatic,1
+Kenworth T680,2007,20.04,20.73,295579,Diesel,Individual,Manual,1
+Kenworth T680,2020,28.2,32.35,249689,Diesel,Individual,Automatic,1
+MAN TGS,2013,24.35,29.99,204093,Diesel,Dealer,Automatic,3
+Kenworth T680,2012,21.64,40.08,190521,Diesel,Dealer,Automatic,2
+Tata Prima,2017,25.96,26.48,196729,Diesel,Individual,Automatic,3
+DAF XF,2021,27.29,37.73,85059,Diesel,Dealer,Manual,2
+Volvo FMX,2021,19.14,47.4,51532,Diesel,Dealer,Manual,1
+Isuzu Giga,2021,19.5,43.93,152666,Diesel,Individual,Automatic,2
+Kenworth T680,2005,17.72,47.64,231877,Diesel,Individual,Manual,0
+Hino 500,2012,29.33,49.36,131551,Diesel,Individual,Automatic,2
+Actros,2010,23.94,20.32,218828,Diesel,Individual,Automatic,0
+Tata Prima,2007,11.66,38.68,121880,Diesel,Individual,Manual,0
+Freightliner Cascadia,2009,27.26,32.39,156734,Diesel,Individual,Manual,3
+Isuzu Giga,2017,19.61,45.8,163997,Diesel,Dealer,Automatic,2
+Volvo FMX,2019,11.38,27.55,255714,Diesel,Individual,Manual,1
+Isuzu Giga,2018,20.99,49.43,215278,Diesel,Individual,Automatic,2
+Kenworth T680,2020,18.34,38.41,102168,Diesel,Dealer,Manual,3
+MAN TGS,2022,27.55,43.81,163123,Diesel,Dealer,Automatic,0
+Actros,2015,14.08,22.57,256260,Diesel,Dealer,Automatic,0
+Actros,2007,26.53,25.5,205622,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2014,21.15,42.75,187461,Diesel,Dealer,Manual,3
+MAN TGS,2014,11.09,20.66,137897,Diesel,Dealer,Automatic,2
+DAF XF,2020,29.44,44.51,216919,Diesel,Individual,Manual,0
+Scania,2016,20.25,20.42,154599,Diesel,Dealer,Manual,3
+Tata Prima,2006,15.82,39.71,129239,Diesel,Dealer,Automatic,2
+Actros,2013,19.39,30.95,68642,Diesel,Dealer,Automatic,2
+Hino 500,2007,27.16,38.34,156862,Diesel,Dealer,Manual,1
+Actros,2019,16.1,40.88,298751,Diesel,Individual,Manual,0
+Isuzu Giga,2007,13.85,30.27,86509,Diesel,Dealer,Automatic,2
+Actros,2022,12.58,23.24,129417,Diesel,Dealer,Automatic,3
+Actros,2012,15.96,22.09,99237,Diesel,Individual,Automatic,0
+Scania,2021,25.6,37.67,196486,Diesel,Individual,Automatic,3
+Scania,2012,19.43,35.62,113176,Diesel,Individual,Automatic,3
+Volvo FMX,2011,14.55,42.27,178633,Diesel,Dealer,Automatic,2
+DAF XF,2011,13.32,35.29,129865,Diesel,Individual,Automatic,2
+Hino 500,2007,16.65,32.67,167181,Diesel,Individual,Automatic,1
+Actros,2005,28.8,31.94,112059,Diesel,Individual,Manual,3
+Actros,2008,16.86,20.79,99150,Diesel,Dealer,Manual,2
+Tata Prima,2009,29.76,30.07,138367,Diesel,Dealer,Manual,1
+Scania,2005,19.7,49.28,91091,Diesel,Individual,Automatic,0
+Hino 500,2019,13.58,46.21,254196,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2009,27.82,29.88,50903,Diesel,Dealer,Automatic,1
+Volvo FMX,2017,19.21,37.63,291024,Diesel,Dealer,Manual,3
+DAF XF,2012,24.19,45.42,104235,Diesel,Dealer,Automatic,0
+MAN TGS,2012,29.67,33.24,239637,Diesel,Dealer,Automatic,3
+DAF XF,2009,11.0,20.54,105342,Diesel,Individual,Manual,3
+Isuzu Giga,2013,11.93,22.24,223795,Diesel,Individual,Automatic,1
+Actros,2005,24.41,35.31,85572,Diesel,Individual,Manual,1
+Volvo FMX,2008,15.64,49.08,67610,Diesel,Individual,Manual,2
+Isuzu Giga,2007,13.69,40.8,84052,Diesel,Dealer,Manual,1
+Hino 500,2006,10.79,22.13,148993,Diesel,Individual,Manual,2
+MAN TGS,2012,10.44,25.68,137063,Diesel,Individual,Manual,3
+Scania,2013,25.49,43.14,218622,Diesel,Dealer,Manual,1
+Volvo FMX,2006,12.69,45.24,235105,Diesel,Dealer,Manual,0
+Volvo FMX,2018,19.35,38.53,210083,Diesel,Dealer,Manual,0
+Actros,2018,22.12,39.33,283883,Diesel,Dealer,Manual,3
+Kenworth T680,2008,18.57,20.85,215836,Diesel,Individual,Automatic,3
+Volvo FMX,2010,10.54,44.86,147540,Diesel,Dealer,Automatic,1
+Tata Prima,2015,25.67,43.65,103533,Diesel,Dealer,Manual,2
+MAN TGS,2007,10.21,27.77,205136,Diesel,Dealer,Automatic,1
+MAN TGS,2012,25.24,41.26,173989,Diesel,Dealer,Automatic,2
+Tata Prima,2007,27.87,26.45,230653,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2018,18.66,21.21,170388,Diesel,Dealer,Manual,0
+Tata Prima,2017,20.71,26.03,78702,Diesel,Individual,Automatic,0
+Tata Prima,2017,19.54,25.36,266773,Diesel,Individual,Manual,2
+MAN TGS,2006,17.78,30.13,173482,Diesel,Individual,Manual,1
+DAF XF,2017,27.75,32.55,58631,Diesel,Dealer,Manual,3
+MAN TGS,2010,27.88,35.26,137388,Diesel,Dealer,Automatic,2
+Kenworth T680,2020,16.72,34.3,174798,Diesel,Individual,Manual,0
+Actros,2006,22.3,28.12,120043,Diesel,Individual,Automatic,2
+Isuzu Giga,2012,28.54,20.88,247135,Diesel,Individual,Manual,1
+DAF XF,2021,29.24,38.15,210053,Diesel,Individual,Manual,3
+Scania,2006,20.18,31.87,85764,Diesel,Dealer,Automatic,3
+Isuzu Giga,2014,19.06,28.96,282843,Diesel,Individual,Manual,2
+Actros,2020,15.57,46.01,231585,Diesel,Dealer,Automatic,1
+Kenworth T680,2010,29.18,42.4,179014,Diesel,Dealer,Automatic,1
+Kenworth T680,2006,12.86,45.73,163076,Diesel,Dealer,Manual,3
+Scania,2006,21.6,34.85,149007,Diesel,Individual,Manual,0
+DAF XF,2017,15.65,23.93,247270,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2019,15.58,40.89,74940,Diesel,Individual,Automatic,3
+Tata Prima,2006,18.1,26.18,157418,Diesel,Dealer,Manual,3
+DAF XF,2011,29.98,33.24,121792,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2007,11.1,21.95,209504,Diesel,Individual,Manual,1
+Kenworth T680,2012,21.57,44.76,58367,Diesel,Dealer,Manual,2
+MAN TGS,2018,11.65,23.78,161764,Diesel,Individual,Manual,0
+Actros,2011,13.09,47.09,284673,Diesel,Dealer,Automatic,2
+Scania,2011,18.79,45.93,206583,Diesel,Dealer,Automatic,2
+Actros,2005,20.21,33.94,58573,Diesel,Dealer,Automatic,3
+Hino 500,2021,15.18,42.33,65582,Diesel,Dealer,Automatic,3
+Hino 500,2013,16.33,38.58,186450,Diesel,Dealer,Manual,0
+DAF XF,2017,11.74,44.09,115296,Diesel,Dealer,Automatic,2
+Kenworth T680,2021,16.06,32.95,194572,Diesel,Dealer,Manual,2
+Kenworth T680,2014,29.33,43.57,115841,Diesel,Individual,Manual,3
+Tata Prima,2014,28.89,33.87,71881,Diesel,Dealer,Manual,3
+Tata Prima,2008,16.7,48.23,120233,Diesel,Dealer,Manual,1
+Tata Prima,2012,21.42,34.59,232614,Diesel,Individual,Manual,2
+MAN TGS,2022,28.19,33.88,115285,Diesel,Individual,Automatic,0
+Isuzu Giga,2018,10.12,43.55,109547,Diesel,Individual,Manual,2
+Volvo FMX,2022,26.21,44.65,243223,Diesel,Individual,Manual,3
+Isuzu Giga,2018,28.97,36.63,188294,Diesel,Dealer,Manual,1
+Actros,2019,11.83,25.39,57933,Diesel,Dealer,Automatic,2
+Isuzu Giga,2008,13.23,34.03,133385,Diesel,Individual,Manual,0
+MAN TGS,2017,29.21,49.04,270844,Diesel,Dealer,Manual,3
+Actros,2012,20.75,42.59,290839,Diesel,Individual,Manual,1
+Isuzu Giga,2022,10.28,44.33,148706,Diesel,Dealer,Automatic,2
+MAN TGS,2016,15.15,20.98,259509,Diesel,Dealer,Manual,0
+Volvo FMX,2018,19.0,34.04,188012,Diesel,Dealer,Automatic,3
+Isuzu Giga,2006,23.86,39.4,295398,Diesel,Dealer,Automatic,0
+MAN TGS,2022,24.66,44.9,134590,Diesel,Dealer,Manual,2
+Tata Prima,2006,29.91,21.48,156399,Diesel,Individual,Automatic,3
+Kenworth T680,2015,15.75,45.57,109145,Diesel,Dealer,Automatic,2
+Tata Prima,2013,20.76,36.45,224682,Diesel,Dealer,Manual,1
+Kenworth T680,2016,20.67,25.92,107520,Diesel,Dealer,Manual,2
+Scania,2021,18.11,29.52,54544,Diesel,Dealer,Manual,1
+Scania,2019,13.38,28.46,271926,Diesel,Dealer,Manual,2
+Scania,2021,29.55,35.93,104812,Diesel,Individual,Automatic,0
+Volvo FMX,2022,27.07,21.55,252682,Diesel,Dealer,Automatic,0
+Tata Prima,2010,19.97,24.76,232572,Diesel,Individual,Manual,3
+Kenworth T680,2021,22.06,44.38,220690,Diesel,Dealer,Manual,0
+MAN TGS,2022,14.55,23.98,169090,Diesel,Dealer,Manual,0
+Actros,2012,20.88,27.0,149054,Diesel,Individual,Automatic,1
+MAN TGS,2013,23.9,33.6,206516,Diesel,Dealer,Manual,0
+Actros,2010,20.3,35.51,267054,Diesel,Dealer,Automatic,1
+Hino 500,2009,29.81,42.91,275151,Diesel,Individual,Automatic,1
+MAN TGS,2016,22.23,33.42,237658,Diesel,Dealer,Automatic,1
+Isuzu Giga,2015,17.42,43.7,205861,Diesel,Individual,Automatic,2
+Isuzu Giga,2005,25.44,38.55,182689,Diesel,Individual,Manual,1
+DAF XF,2015,13.41,23.39,150834,Diesel,Individual,Manual,2
+Tata Prima,2013,17.69,24.69,184405,Diesel,Dealer,Manual,1
+Actros,2006,16.94,33.11,90002,Diesel,Dealer,Automatic,2
+Actros,2016,18.64,31.91,244692,Diesel,Individual,Automatic,3
+Tata Prima,2008,25.64,42.31,268760,Diesel,Dealer,Manual,3
+Volvo FMX,2008,19.68,37.42,270699,Diesel,Individual,Automatic,2
+DAF XF,2022,25.88,31.64,181583,Diesel,Dealer,Automatic,3
+Volvo FMX,2019,21.53,25.12,162850,Diesel,Individual,Automatic,0
+Volvo FMX,2017,16.84,26.81,180011,Diesel,Dealer,Manual,1
+Volvo FMX,2021,26.2,37.27,218922,Diesel,Individual,Manual,2
+Tata Prima,2010,14.77,32.7,171548,Diesel,Dealer,Manual,3
+Volvo FMX,2020,14.49,35.45,263244,Diesel,Individual,Automatic,3
+Isuzu Giga,2016,20.09,25.12,267125,Diesel,Dealer,Manual,0
+Scania,2009,15.22,39.89,81786,Diesel,Individual,Manual,1
+Hino 500,2021,10.18,45.58,255428,Diesel,Dealer,Manual,0
+Actros,2005,22.97,27.74,86244,Diesel,Dealer,Automatic,2
+Actros,2014,20.22,34.75,255786,Diesel,Individual,Automatic,3
+Hino 500,2019,18.91,49.27,117261,Diesel,Dealer,Automatic,3
+Tata Prima,2015,29.34,30.0,68477,Diesel,Dealer,Automatic,3
+MAN TGS,2017,21.42,37.85,227605,Diesel,Dealer,Automatic,0
+Tata Prima,2009,27.27,22.71,215541,Diesel,Dealer,Manual,0
+Actros,2005,12.79,38.18,58496,Diesel,Individual,Manual,1
+Actros,2016,21.38,22.69,170522,Diesel,Dealer,Automatic,2
+Hino 500,2015,27.36,48.78,193342,Diesel,Dealer,Automatic,1
+Volvo FMX,2021,21.66,41.47,257080,Diesel,Individual,Manual,1
+Tata Prima,2008,24.36,43.64,70724,Diesel,Dealer,Automatic,3
+Kenworth T680,2019,17.44,41.12,80416,Diesel,Individual,Automatic,0
+Hino 500,2013,11.85,37.69,85575,Diesel,Dealer,Automatic,2
+Isuzu Giga,2016,19.16,33.5,262262,Diesel,Individual,Automatic,1
+Actros,2009,17.89,45.75,126614,Diesel,Dealer,Automatic,2
+Hino 500,2014,27.34,48.71,143566,Diesel,Individual,Manual,3
+Tata Prima,2021,14.88,34.97,254180,Diesel,Individual,Manual,1
+Actros,2009,29.33,47.95,198480,Diesel,Individual,Automatic,0
+MAN TGS,2020,29.16,37.5,177192,Diesel,Dealer,Automatic,1
+Hino 500,2011,14.95,36.15,69359,Diesel,Individual,Manual,3
+DAF XF,2013,16.96,33.63,189770,Diesel,Dealer,Automatic,1
+Actros,2007,27.91,26.28,251464,Diesel,Individual,Manual,3
+Tata Prima,2019,29.33,20.11,274135,Diesel,Individual,Automatic,1
+Scania,2020,18.87,27.25,220564,Diesel,Individual,Manual,2
+Kenworth T680,2022,16.42,35.29,255853,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2018,20.52,31.4,93634,Diesel,Dealer,Automatic,3
+Volvo FMX,2007,23.76,33.45,167255,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2016,15.47,49.42,92864,Diesel,Individual,Manual,3
+Tata Prima,2013,24.73,30.51,144482,Diesel,Individual,Automatic,1
+Isuzu Giga,2011,11.03,33.57,87355,Diesel,Individual,Manual,3
+Isuzu Giga,2013,10.99,24.01,87690,Diesel,Individual,Automatic,3
+Scania,2017,17.73,21.44,218886,Diesel,Individual,Automatic,0
+Volvo FMX,2022,17.07,43.26,212717,Diesel,Individual,Automatic,2
+DAF XF,2009,16.31,37.12,265886,Diesel,Individual,Manual,1
+Scania,2017,19.82,42.82,253811,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2008,16.41,24.5,106630,Diesel,Individual,Automatic,3
+Scania,2006,13.85,37.15,229243,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2020,16.19,27.61,71658,Diesel,Individual,Automatic,3
+Actros,2013,29.5,26.84,289204,Diesel,Dealer,Manual,1
+Isuzu Giga,2013,18.22,20.35,65797,Diesel,Dealer,Automatic,3
+Actros,2010,18.89,23.91,108799,Diesel,Individual,Manual,0
+Kenworth T680,2015,21.53,29.28,168301,Diesel,Dealer,Manual,0
+Volvo FMX,2005,29.67,23.51,279414,Diesel,Dealer,Manual,3
+DAF XF,2008,14.83,49.58,277566,Diesel,Individual,Manual,2
+Freightliner Cascadia,2017,23.63,29.26,102236,Diesel,Individual,Manual,0
+DAF XF,2017,24.32,23.91,56265,Diesel,Individual,Manual,2
+Freightliner Cascadia,2017,22.15,25.97,175611,Diesel,Dealer,Automatic,2
+Tata Prima,2006,11.77,37.63,253206,Diesel,Individual,Automatic,2
+Scania,2013,23.54,21.92,281791,Diesel,Dealer,Manual,2
+Kenworth T680,2012,11.28,45.87,263750,Diesel,Individual,Automatic,0
+Isuzu Giga,2011,21.92,48.84,234566,Diesel,Individual,Manual,0
+Freightliner Cascadia,2008,24.79,27.4,171754,Diesel,Dealer,Automatic,2
+DAF XF,2022,14.22,33.5,233340,Diesel,Dealer,Automatic,0
+Kenworth T680,2007,26.83,20.66,296524,Diesel,Dealer,Automatic,2
+MAN TGS,2010,10.61,39.22,208070,Diesel,Individual,Automatic,2
+MAN TGS,2016,26.88,32.42,141426,Diesel,Individual,Manual,2
+Actros,2016,19.21,28.1,275486,Diesel,Individual,Automatic,3
+Isuzu Giga,2012,14.35,26.21,242411,Diesel,Dealer,Automatic,1
+Tata Prima,2005,12.68,39.62,195378,Diesel,Dealer,Automatic,0
+DAF XF,2008,29.07,32.49,245078,Diesel,Dealer,Manual,0
+Scania,2015,11.45,25.39,299789,Diesel,Dealer,Automatic,2
+Scania,2007,13.98,40.67,228417,Diesel,Individual,Manual,3
+DAF XF,2017,16.96,36.95,192957,Diesel,Dealer,Manual,3
+Volvo FMX,2021,22.4,45.76,159681,Diesel,Dealer,Automatic,0
+Tata Prima,2014,20.9,23.52,93826,Diesel,Individual,Manual,2
+Kenworth T680,2016,12.51,43.57,105597,Diesel,Individual,Automatic,0
+Freightliner Cascadia,2019,15.79,40.21,188515,Diesel,Dealer,Automatic,2
+Volvo FMX,2014,14.78,23.45,147375,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2018,14.27,40.84,297077,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2017,18.22,33.25,67084,Diesel,Dealer,Automatic,2
+Volvo FMX,2009,24.08,48.35,139447,Diesel,Dealer,Automatic,1
+Actros,2010,14.35,24.25,54383,Diesel,Dealer,Automatic,0
+MAN TGS,2006,17.33,39.29,142313,Diesel,Individual,Manual,0
+Freightliner Cascadia,2021,17.82,31.46,84361,Diesel,Individual,Manual,3
+Volvo FMX,2008,29.53,48.7,130294,Diesel,Individual,Automatic,1
+Volvo FMX,2018,29.09,29.9,111331,Diesel,Individual,Automatic,0
+Hino 500,2014,26.0,48.87,145057,Diesel,Dealer,Manual,1
+Actros,2007,14.83,47.04,201601,Diesel,Dealer,Automatic,0
+Isuzu Giga,2007,11.36,28.11,239646,Diesel,Dealer,Manual,1
+Hino 500,2019,16.34,44.11,269699,Diesel,Dealer,Manual,1
+Hino 500,2010,15.34,49.87,171685,Diesel,Individual,Automatic,2
+DAF XF,2021,20.12,27.58,286402,Diesel,Dealer,Automatic,0
+MAN TGS,2016,25.55,33.1,146917,Diesel,Dealer,Manual,3
+Volvo FMX,2015,27.17,35.61,281988,Diesel,Dealer,Manual,2
+MAN TGS,2008,26.9,28.85,80932,Diesel,Dealer,Automatic,3
+Tata Prima,2010,17.19,20.46,290705,Diesel,Individual,Automatic,1
+DAF XF,2005,23.74,26.6,51908,Diesel,Dealer,Manual,2
+Isuzu Giga,2020,16.26,28.46,286330,Diesel,Individual,Manual,1
+MAN TGS,2019,11.22,33.31,294561,Diesel,Dealer,Manual,0
+Scania,2021,24.03,25.13,211430,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2012,10.2,46.2,80412,Diesel,Dealer,Automatic,3
+Tata Prima,2016,18.18,41.15,178319,Diesel,Individual,Automatic,0
+Actros,2014,16.59,22.56,133710,Diesel,Dealer,Manual,3
+Isuzu Giga,2019,23.87,39.5,262104,Diesel,Dealer,Manual,1
+Tata Prima,2013,25.32,39.61,52928,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2006,16.08,48.69,115158,Diesel,Individual,Manual,0
+DAF XF,2009,26.23,20.09,211704,Diesel,Individual,Manual,1
+Freightliner Cascadia,2010,15.88,27.44,82309,Diesel,Dealer,Manual,2
+Hino 500,2011,18.93,47.83,59280,Diesel,Individual,Manual,1
+Freightliner Cascadia,2005,24.54,47.96,90449,Diesel,Dealer,Manual,3
+Hino 500,2011,23.86,41.62,268243,Diesel,Dealer,Automatic,1
+DAF XF,2016,29.75,42.97,76957,Diesel,Individual,Automatic,3
+Kenworth T680,2020,14.5,22.74,217967,Diesel,Dealer,Automatic,3
+Hino 500,2020,23.25,35.42,120499,Diesel,Dealer,Automatic,0
+Actros,2015,22.19,26.95,143057,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2008,28.3,25.44,279223,Diesel,Individual,Manual,3
+Freightliner Cascadia,2017,13.13,44.31,160065,Diesel,Individual,Manual,1
+Actros,2011,25.04,24.05,292930,Diesel,Individual,Manual,3
+Scania,2008,21.37,34.06,202767,Diesel,Dealer,Automatic,3
+Volvo FMX,2019,15.49,48.16,124893,Diesel,Dealer,Manual,1
+Kenworth T680,2013,19.49,25.57,244195,Diesel,Dealer,Manual,2
+Isuzu Giga,2015,16.68,49.34,75176,Diesel,Dealer,Manual,0
+Hino 500,2012,21.59,49.83,199481,Diesel,Dealer,Automatic,1
+Actros,2005,27.78,36.67,106967,Diesel,Dealer,Manual,3
+DAF XF,2012,21.39,25.1,50987,Diesel,Dealer,Manual,1
+Hino 500,2017,22.63,29.48,235534,Diesel,Dealer,Automatic,2
+Volvo FMX,2008,20.37,32.73,248573,Diesel,Individual,Automatic,1
+DAF XF,2012,11.02,29.28,286692,Diesel,Dealer,Manual,1
+Tata Prima,2007,14.66,28.42,146854,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2013,19.84,49.17,76015,Diesel,Dealer,Manual,1
+Tata Prima,2006,16.2,24.6,275799,Diesel,Dealer,Automatic,3
+Hino 500,2006,13.64,42.0,162350,Diesel,Dealer,Manual,1
+Volvo FMX,2017,20.08,20.01,116404,Diesel,Individual,Manual,2
+Kenworth T680,2019,16.46,37.89,166751,Diesel,Individual,Automatic,1
+Hino 500,2016,15.16,47.48,178807,Diesel,Individual,Automatic,1
+Actros,2008,19.28,28.64,231353,Diesel,Dealer,Automatic,3
+MAN TGS,2012,12.67,25.57,218218,Diesel,Dealer,Automatic,3
+Hino 500,2013,28.55,39.55,98231,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2009,27.35,41.38,210104,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2022,24.15,40.64,78305,Diesel,Individual,Manual,3
+Hino 500,2015,12.12,29.58,104306,Diesel,Individual,Manual,1
+DAF XF,2019,25.52,27.57,269248,Diesel,Dealer,Manual,3
+MAN TGS,2013,26.16,48.68,171139,Diesel,Dealer,Automatic,0
+Actros,2021,25.36,47.7,68318,Diesel,Individual,Manual,0
+Hino 500,2016,12.28,33.72,194318,Diesel,Individual,Manual,0
+DAF XF,2011,22.88,45.39,214916,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2014,26.69,33.57,213674,Diesel,Individual,Manual,0
+Freightliner Cascadia,2014,21.55,32.73,71584,Diesel,Individual,Manual,2
+Volvo FMX,2017,22.93,24.7,297399,Diesel,Individual,Manual,0
+Hino 500,2015,19.17,32.79,65169,Diesel,Individual,Automatic,2
+MAN TGS,2017,20.57,36.12,75968,Diesel,Dealer,Manual,3
+Scania,2012,10.69,20.68,187457,Diesel,Dealer,Manual,0
+MAN TGS,2012,22.78,33.32,254830,Diesel,Individual,Manual,2
+Freightliner Cascadia,2008,11.63,43.44,172684,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2019,18.7,40.4,165391,Diesel,Individual,Automatic,0
+Tata Prima,2015,15.85,39.05,75444,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2015,20.91,47.29,284856,Diesel,Individual,Manual,0
+Actros,2005,12.67,20.54,156081,Diesel,Dealer,Manual,0
+Isuzu Giga,2021,23.83,36.71,112497,Diesel,Individual,Manual,0
+Hino 500,2019,25.9,43.62,55362,Diesel,Dealer,Manual,1
+MAN TGS,2010,13.27,36.24,149254,Diesel,Dealer,Manual,2
+Isuzu Giga,2019,12.09,29.72,189322,Diesel,Individual,Automatic,2
+DAF XF,2013,12.91,24.09,118354,Diesel,Individual,Manual,1
+Scania,2018,27.54,46.63,86368,Diesel,Individual,Manual,0
+Actros,2022,20.56,34.12,94109,Diesel,Dealer,Automatic,0
+MAN TGS,2021,19.35,46.34,261661,Diesel,Dealer,Automatic,0
+Isuzu Giga,2022,12.13,37.58,238717,Diesel,Dealer,Manual,2
+Scania,2009,22.99,40.23,238069,Diesel,Dealer,Automatic,2
+Tata Prima,2013,27.36,44.13,77426,Diesel,Individual,Automatic,1
+Actros,2015,26.56,39.77,167632,Diesel,Individual,Automatic,3
+Actros,2005,22.52,31.94,162637,Diesel,Dealer,Manual,1
+Tata Prima,2022,11.51,35.41,89023,Diesel,Individual,Automatic,2
+Hino 500,2010,12.25,44.09,172268,Diesel,Individual,Manual,0
+Tata Prima,2006,10.99,31.21,240339,Diesel,Individual,Automatic,0
+Actros,2019,15.15,31.64,205964,Diesel,Individual,Manual,0
+Actros,2018,12.71,22.87,240304,Diesel,Dealer,Manual,0
+Isuzu Giga,2009,15.2,47.44,159211,Diesel,Individual,Manual,3
+Freightliner Cascadia,2010,17.7,22.73,144897,Diesel,Individual,Automatic,1
+Scania,2010,28.86,39.45,240297,Diesel,Individual,Automatic,1
+Tata Prima,2022,22.21,32.4,197079,Diesel,Dealer,Automatic,2
+Scania,2018,26.7,32.17,129777,Diesel,Individual,Manual,1
+Tata Prima,2014,24.21,40.39,94858,Diesel,Dealer,Automatic,3
+DAF XF,2018,12.25,22.01,226145,Diesel,Dealer,Automatic,3
+Actros,2017,24.72,37.81,270510,Diesel,Individual,Manual,3
+Freightliner Cascadia,2007,15.5,43.16,140042,Diesel,Individual,Automatic,0
+Isuzu Giga,2010,22.78,44.85,133098,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2012,16.82,25.12,70239,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2016,29.95,46.92,244041,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2017,15.27,39.68,194137,Diesel,Dealer,Manual,1
+Scania,2015,15.58,46.46,160951,Diesel,Individual,Automatic,1
+Tata Prima,2016,28.61,34.56,91291,Diesel,Dealer,Manual,3
+Kenworth T680,2005,10.49,36.26,88805,Diesel,Individual,Automatic,3
+DAF XF,2021,23.93,47.57,148831,Diesel,Individual,Automatic,1
+MAN TGS,2020,24.51,47.0,199515,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2015,26.73,33.44,59290,Diesel,Individual,Automatic,1
+Hino 500,2017,29.49,28.23,181283,Diesel,Dealer,Manual,0
+Scania,2022,29.51,31.8,133634,Diesel,Dealer,Manual,3
+Isuzu Giga,2015,11.31,31.63,69072,Diesel,Dealer,Manual,0
+MAN TGS,2016,26.44,28.61,93290,Diesel,Individual,Automatic,0
+Kenworth T680,2010,22.93,28.06,135186,Diesel,Individual,Automatic,3
+Hino 500,2013,22.95,45.83,65115,Diesel,Dealer,Manual,1
+Kenworth T680,2020,12.57,22.1,55149,Diesel,Individual,Manual,2
+MAN TGS,2008,23.0,40.33,91992,Diesel,Individual,Automatic,0
+Freightliner Cascadia,2007,29.65,25.18,67716,Diesel,Individual,Automatic,3
+Hino 500,2020,28.24,30.34,147724,Diesel,Individual,Automatic,0
+Kenworth T680,2016,18.78,21.85,63621,Diesel,Individual,Manual,1
+Isuzu Giga,2015,10.8,28.1,187892,Diesel,Dealer,Automatic,3
+Tata Prima,2009,17.25,43.05,163065,Diesel,Individual,Manual,2
+Actros,2022,26.53,46.55,223872,Diesel,Individual,Automatic,3
+Tata Prima,2010,24.03,26.65,236115,Diesel,Dealer,Manual,0
+MAN TGS,2022,19.19,33.91,80399,Diesel,Individual,Automatic,3
+Scania,2010,11.1,34.11,169374,Diesel,Individual,Manual,3
+Actros,2008,18.54,46.21,195074,Diesel,Individual,Manual,0
+DAF XF,2016,19.38,42.88,93098,Diesel,Dealer,Manual,2
+Isuzu Giga,2006,28.57,35.39,95511,Diesel,Individual,Automatic,1
+DAF XF,2021,22.82,40.12,103243,Diesel,Individual,Manual,3
+Hino 500,2015,16.23,45.42,165131,Diesel,Dealer,Manual,2
+Actros,2015,20.51,20.29,78750,Diesel,Dealer,Automatic,1
+DAF XF,2020,11.32,32.09,272682,Diesel,Individual,Manual,0
+DAF XF,2006,29.45,47.22,198382,Diesel,Dealer,Manual,2
+Kenworth T680,2006,17.2,42.21,105398,Diesel,Dealer,Automatic,2
+Tata Prima,2012,19.56,36.29,263614,Diesel,Dealer,Manual,3
+Kenworth T680,2017,17.11,35.89,256279,Diesel,Individual,Automatic,0
+Actros,2014,23.65,30.43,298797,Diesel,Individual,Manual,3
+Actros,2012,23.24,35.62,94345,Diesel,Dealer,Automatic,0
+MAN TGS,2008,24.31,39.66,143430,Diesel,Dealer,Manual,1
+Kenworth T680,2019,15.36,32.55,164921,Diesel,Dealer,Manual,3
+Volvo FMX,2005,16.31,41.42,141729,Diesel,Dealer,Manual,0
+Tata Prima,2015,12.51,45.84,101843,Diesel,Individual,Automatic,0
+Actros,2011,23.11,24.64,191294,Diesel,Dealer,Manual,2
+MAN TGS,2021,10.8,33.55,270394,Diesel,Individual,Manual,3
+Kenworth T680,2022,21.95,32.24,212581,Diesel,Dealer,Automatic,3
+Tata Prima,2016,27.39,40.62,181458,Diesel,Individual,Automatic,1
+Kenworth T680,2013,27.82,27.5,114334,Diesel,Individual,Automatic,0
+DAF XF,2009,18.98,39.21,117170,Diesel,Dealer,Manual,2
+MAN TGS,2014,19.19,46.32,90878,Diesel,Individual,Manual,0
+Tata Prima,2008,11.54,32.54,250741,Diesel,Individual,Manual,0
+Freightliner Cascadia,2009,23.42,47.33,288752,Diesel,Individual,Automatic,0
+Hino 500,2014,26.43,49.79,219421,Diesel,Dealer,Automatic,3
+Hino 500,2015,14.89,23.18,281343,Diesel,Individual,Manual,0
+Tata Prima,2014,18.43,26.99,203024,Diesel,Individual,Manual,1
+Kenworth T680,2012,26.78,48.51,140352,Diesel,Dealer,Automatic,2
+MAN TGS,2006,27.54,48.75,202601,Diesel,Dealer,Automatic,2
+Hino 500,2012,14.86,22.93,252375,Diesel,Individual,Automatic,0
+MAN TGS,2020,21.01,20.45,222593,Diesel,Individual,Manual,2
+Hino 500,2009,13.85,24.83,68383,Diesel,Dealer,Automatic,0
+DAF XF,2007,12.04,49.88,185973,Diesel,Dealer,Automatic,3
+Kenworth T680,2016,28.22,25.4,92889,Diesel,Individual,Automatic,2
+DAF XF,2017,26.41,35.08,64633,Diesel,Individual,Automatic,3
+Hino 500,2017,25.2,45.45,112244,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2014,10.98,20.61,179177,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2008,26.87,38.13,200235,Diesel,Individual,Manual,1
+DAF XF,2013,18.76,28.31,240091,Diesel,Individual,Manual,2
+Freightliner Cascadia,2006,16.85,45.87,191779,Diesel,Dealer,Automatic,0
+Hino 500,2005,20.93,28.5,269184,Diesel,Individual,Automatic,0
+Tata Prima,2011,11.83,40.6,133597,Diesel,Individual,Manual,0
+DAF XF,2021,25.13,40.23,226173,Diesel,Individual,Automatic,0
+Scania,2007,21.65,26.64,225778,Diesel,Individual,Manual,1
+Kenworth T680,2007,13.73,21.04,258156,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2007,13.76,32.28,65115,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2021,13.68,28.68,125379,Diesel,Individual,Manual,3
+Actros,2011,11.14,44.27,283553,Diesel,Individual,Manual,0
+Volvo FMX,2018,21.76,44.01,89979,Diesel,Individual,Automatic,0
+DAF XF,2021,26.81,33.71,221713,Diesel,Individual,Manual,1
+Isuzu Giga,2022,10.35,38.2,119377,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2017,10.98,38.13,56416,Diesel,Individual,Automatic,3
+Kenworth T680,2022,21.46,44.81,191705,Diesel,Individual,Automatic,3
+Scania,2008,26.39,32.75,178785,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2005,16.53,28.26,284261,Diesel,Dealer,Manual,3
+Scania,2022,16.99,27.95,181666,Diesel,Individual,Automatic,0
+Hino 500,2005,21.93,36.09,195465,Diesel,Dealer,Manual,0
+Hino 500,2017,15.48,33.47,216452,Diesel,Dealer,Automatic,2
+Volvo FMX,2014,10.53,33.2,226128,Diesel,Individual,Automatic,1
+Tata Prima,2015,24.7,22.73,269351,Diesel,Individual,Automatic,1
+Isuzu Giga,2013,22.51,41.56,180364,Diesel,Dealer,Manual,3
+Actros,2013,21.62,26.41,147507,Diesel,Individual,Automatic,1
+Volvo FMX,2009,24.83,25.91,297256,Diesel,Dealer,Manual,1
+MAN TGS,2005,23.5,32.38,168243,Diesel,Dealer,Manual,1
+Actros,2021,14.12,26.83,185933,Diesel,Dealer,Automatic,1
+DAF XF,2006,17.05,37.52,153070,Diesel,Individual,Automatic,1
+Kenworth T680,2017,12.52,31.14,86126,Diesel,Individual,Automatic,1
+MAN TGS,2013,12.6,33.47,130382,Diesel,Dealer,Automatic,1
+MAN TGS,2008,23.52,36.12,272785,Diesel,Dealer,Manual,3
+Volvo FMX,2009,27.17,26.11,214754,Diesel,Individual,Manual,0
+Tata Prima,2015,29.25,24.67,68228,Diesel,Dealer,Automatic,1
+Volvo FMX,2007,22.57,46.41,281371,Diesel,Dealer,Manual,0
+DAF XF,2016,13.68,33.01,74009,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2017,12.11,32.36,50094,Diesel,Individual,Manual,0
+Freightliner Cascadia,2011,26.26,21.07,288060,Diesel,Individual,Manual,2
+Tata Prima,2019,21.58,34.94,130636,Diesel,Individual,Manual,3
+DAF XF,2011,22.37,36.63,233293,Diesel,Dealer,Automatic,0
+Tata Prima,2012,25.63,36.77,148453,Diesel,Individual,Manual,2
+Scania,2009,24.07,41.21,198502,Diesel,Individual,Manual,0
+Freightliner Cascadia,2018,26.69,25.32,216643,Diesel,Dealer,Manual,3
+MAN TGS,2008,11.12,27.57,104486,Diesel,Dealer,Manual,0
+Isuzu Giga,2014,24.95,44.32,140510,Diesel,Dealer,Automatic,2
+Kenworth T680,2019,27.02,48.42,277737,Diesel,Individual,Manual,1
+DAF XF,2022,15.72,24.08,293842,Diesel,Dealer,Automatic,1
+Actros,2017,22.81,34.93,243366,Diesel,Individual,Automatic,1
+Tata Prima,2012,16.28,26.43,70860,Diesel,Dealer,Manual,3
+Kenworth T680,2013,29.16,21.8,122812,Diesel,Individual,Manual,1
+Actros,2020,10.67,29.77,116087,Diesel,Dealer,Automatic,3
+Kenworth T680,2020,21.6,24.31,294856,Diesel,Individual,Automatic,1
+Isuzu Giga,2011,13.33,41.3,189558,Diesel,Individual,Automatic,3
+Actros,2018,24.24,36.01,264135,Diesel,Dealer,Manual,3
+Volvo FMX,2018,13.52,24.32,99607,Diesel,Dealer,Manual,0
+Hino 500,2008,14.71,20.28,190817,Diesel,Individual,Automatic,1
+Volvo FMX,2019,19.89,44.24,156664,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2007,28.3,25.29,259605,Diesel,Individual,Automatic,2
+Hino 500,2009,14.23,38.19,68330,Diesel,Individual,Manual,1
+Volvo FMX,2005,12.88,30.11,170803,Diesel,Individual,Manual,1
+Hino 500,2007,25.18,37.56,221150,Diesel,Dealer,Automatic,1
+Hino 500,2019,20.01,29.47,236404,Diesel,Individual,Manual,1
+MAN TGS,2012,28.24,22.61,285193,Diesel,Individual,Automatic,0
+Tata Prima,2008,12.93,26.69,235604,Diesel,Individual,Manual,0
+Tata Prima,2006,22.92,25.64,271437,Diesel,Individual,Automatic,3
+MAN TGS,2014,14.66,32.84,93336,Diesel,Dealer,Manual,0
+Kenworth T680,2008,13.14,39.75,58070,Diesel,Dealer,Manual,3
+Scania,2007,23.67,27.91,51320,Diesel,Individual,Manual,2
+Kenworth T680,2006,21.87,20.36,139043,Diesel,Dealer,Manual,0
+Actros,2021,25.1,35.57,88921,Diesel,Dealer,Manual,3
+Actros,2017,16.19,38.17,56589,Diesel,Individual,Manual,1
+Hino 500,2009,18.96,48.89,245481,Diesel,Dealer,Manual,2
+Volvo FMX,2013,18.11,37.68,142995,Diesel,Dealer,Automatic,3
+Volvo FMX,2010,29.68,34.14,65589,Diesel,Dealer,Automatic,2
+Tata Prima,2009,15.84,37.2,86375,Diesel,Dealer,Automatic,1
+DAF XF,2014,15.9,47.84,93085,Diesel,Dealer,Manual,1
+Kenworth T680,2012,17.09,44.85,110840,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2011,21.29,29.69,224272,Diesel,Individual,Manual,3
+Isuzu Giga,2011,15.05,27.12,148704,Diesel,Dealer,Automatic,1
+Volvo FMX,2010,28.31,27.88,207804,Diesel,Individual,Automatic,3
+Isuzu Giga,2007,15.31,35.13,147047,Diesel,Individual,Automatic,1
+Hino 500,2019,27.92,42.32,203498,Diesel,Individual,Automatic,0
+Isuzu Giga,2008,12.07,35.1,80982,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2016,23.13,22.03,109720,Diesel,Dealer,Automatic,2
+MAN TGS,2010,28.14,41.71,197818,Diesel,Individual,Manual,1
+Freightliner Cascadia,2008,13.37,44.18,78514,Diesel,Individual,Automatic,0
+Isuzu Giga,2019,29.37,28.68,245961,Diesel,Individual,Manual,3
+Freightliner Cascadia,2013,19.06,39.92,184923,Diesel,Dealer,Automatic,1
+Scania,2009,28.91,32.8,200868,Diesel,Dealer,Automatic,0
+Hino 500,2017,23.54,46.67,126034,Diesel,Dealer,Manual,3
+Kenworth T680,2022,16.03,45.36,243870,Diesel,Individual,Manual,1
+MAN TGS,2009,13.77,35.76,148388,Diesel,Dealer,Manual,1
+Volvo FMX,2020,16.07,40.75,244057,Diesel,Dealer,Automatic,1
+Actros,2018,11.86,46.5,215664,Diesel,Individual,Automatic,3
+Kenworth T680,2020,12.88,34.87,94845,Diesel,Dealer,Manual,0
+Actros,2019,12.09,29.4,197002,Diesel,Individual,Automatic,1
+Hino 500,2008,18.46,42.61,160853,Diesel,Dealer,Manual,0
+MAN TGS,2011,25.91,26.6,158417,Diesel,Individual,Automatic,0
+Tata Prima,2020,12.83,31.66,163436,Diesel,Dealer,Automatic,2
+Volvo FMX,2012,12.61,45.97,288198,Diesel,Individual,Automatic,0
+Scania,2021,22.87,41.73,71159,Diesel,Dealer,Manual,0
+Tata Prima,2020,13.94,32.11,276144,Diesel,Individual,Automatic,0
+Hino 500,2014,11.95,26.44,139788,Diesel,Individual,Manual,0
+Kenworth T680,2014,13.34,30.68,74003,Diesel,Dealer,Manual,0
+Scania,2006,28.47,28.52,155722,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2013,26.43,25.28,85139,Diesel,Individual,Manual,2
+Isuzu Giga,2021,17.08,42.3,286444,Diesel,Dealer,Manual,1
+Scania,2015,23.12,27.56,102452,Diesel,Individual,Manual,2
+Hino 500,2014,20.75,33.63,72205,Diesel,Individual,Manual,2
+DAF XF,2021,23.54,31.58,277131,Diesel,Dealer,Manual,1
+Isuzu Giga,2008,23.65,49.46,106955,Diesel,Dealer,Manual,0
+Actros,2020,22.57,31.73,291235,Diesel,Dealer,Automatic,1
+Volvo FMX,2019,15.32,22.4,57464,Diesel,Individual,Manual,0
+Actros,2009,10.78,22.69,263718,Diesel,Individual,Automatic,1
+Scania,2010,19.11,37.72,292924,Diesel,Dealer,Manual,3
+Actros,2021,27.82,37.98,253729,Diesel,Individual,Automatic,2
+Hino 500,2005,21.39,32.56,59840,Diesel,Individual,Automatic,0
+Freightliner Cascadia,2008,26.65,32.96,283688,Diesel,Dealer,Automatic,2
+Kenworth T680,2021,29.83,21.62,90768,Diesel,Individual,Automatic,0
+Volvo FMX,2013,13.27,35.5,190533,Diesel,Individual,Automatic,1
+Actros,2006,23.84,35.14,70927,Diesel,Individual,Automatic,1
+Actros,2012,23.49,24.49,271006,Diesel,Dealer,Manual,1
+Scania,2019,29.6,23.12,148622,Diesel,Dealer,Manual,3
+Kenworth T680,2011,29.71,23.71,65329,Diesel,Individual,Manual,1
+Tata Prima,2010,23.73,23.03,65791,Diesel,Dealer,Manual,1
+Actros,2005,14.87,38.29,102627,Diesel,Individual,Manual,3
+Hino 500,2019,25.97,25.89,178885,Diesel,Dealer,Manual,2
+DAF XF,2011,12.14,27.54,195444,Diesel,Individual,Automatic,2
+Volvo FMX,2021,25.61,25.21,295311,Diesel,Individual,Manual,0
+Actros,2006,28.2,48.74,273962,Diesel,Individual,Automatic,2
+Hino 500,2013,17.66,45.64,229541,Diesel,Individual,Automatic,0
+Hino 500,2013,22.61,26.91,159554,Diesel,Dealer,Automatic,0
+Volvo FMX,2017,18.6,29.83,180436,Diesel,Individual,Automatic,2
+Tata Prima,2010,18.76,26.3,137073,Diesel,Individual,Automatic,2
+Hino 500,2010,16.21,34.76,299894,Diesel,Dealer,Automatic,3
+DAF XF,2007,25.24,20.59,84370,Diesel,Dealer,Manual,0
+Hino 500,2021,28.72,40.14,101408,Diesel,Individual,Automatic,2
+Hino 500,2021,28.82,35.69,140941,Diesel,Individual,Automatic,2
+Hino 500,2016,13.5,46.96,288423,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2020,27.49,24.93,204775,Diesel,Individual,Manual,2
+Freightliner Cascadia,2019,24.75,44.12,196306,Diesel,Individual,Manual,1
+Tata Prima,2017,15.06,43.76,188604,Diesel,Individual,Manual,1
+Actros,2005,11.35,23.82,286742,Diesel,Individual,Manual,0
+Hino 500,2021,15.36,31.96,85416,Diesel,Individual,Manual,3
+Kenworth T680,2007,28.24,25.1,122439,Diesel,Individual,Manual,2
+Actros,2019,22.66,27.64,68242,Diesel,Individual,Automatic,0
+Tata Prima,2008,24.42,27.9,231326,Diesel,Individual,Manual,2
+MAN TGS,2008,15.14,36.69,129324,Diesel,Individual,Automatic,1
+Actros,2022,24.39,32.34,85249,Diesel,Dealer,Manual,2
+Actros,2021,10.56,48.43,150124,Diesel,Dealer,Manual,2
+Isuzu Giga,2015,17.51,23.79,145049,Diesel,Dealer,Automatic,2
+Scania,2007,22.54,49.21,289647,Diesel,Individual,Manual,1
+Isuzu Giga,2012,12.92,26.92,135078,Diesel,Individual,Manual,1
+DAF XF,2018,26.46,43.19,82294,Diesel,Individual,Manual,3
+Freightliner Cascadia,2005,14.7,30.17,240856,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2018,23.05,24.29,184756,Diesel,Dealer,Manual,0
+Scania,2006,18.1,45.74,204867,Diesel,Individual,Manual,2
+Volvo FMX,2008,21.92,29.27,241373,Diesel,Dealer,Manual,1
+Volvo FMX,2010,12.15,39.77,250259,Diesel,Dealer,Automatic,0
+Tata Prima,2005,10.34,36.99,191503,Diesel,Individual,Manual,1
+Scania,2021,28.19,34.15,256739,Diesel,Individual,Automatic,2
+Actros,2012,15.39,34.87,139627,Diesel,Dealer,Automatic,0
+Volvo FMX,2005,26.39,41.97,140381,Diesel,Individual,Automatic,1
+Hino 500,2009,29.99,22.63,140027,Diesel,Dealer,Automatic,1
+Kenworth T680,2020,14.23,40.05,236444,Diesel,Dealer,Automatic,0
+Actros,2010,15.3,46.87,120366,Diesel,Dealer,Automatic,3
+DAF XF,2012,23.26,21.73,144176,Diesel,Individual,Automatic,0
+Hino 500,2017,29.31,24.22,169667,Diesel,Dealer,Manual,0
+Hino 500,2020,28.32,41.5,122870,Diesel,Dealer,Manual,0
+Scania,2007,20.06,33.12,97387,Diesel,Individual,Manual,0
+Tata Prima,2016,25.9,32.11,233999,Diesel,Individual,Automatic,1
+DAF XF,2020,12.71,24.11,59304,Diesel,Dealer,Manual,0
+Volvo FMX,2015,29.55,35.2,294255,Diesel,Individual,Automatic,0
+Scania,2014,29.29,23.8,67032,Diesel,Individual,Automatic,2
+Volvo FMX,2008,13.27,34.3,141291,Diesel,Dealer,Manual,1
+Scania,2016,15.99,42.91,162889,Diesel,Individual,Automatic,2
+Scania,2006,12.0,27.75,109486,Diesel,Dealer,Automatic,1
+Scania,2009,15.43,34.42,115552,Diesel,Individual,Manual,3
+Tata Prima,2012,26.32,49.76,254916,Diesel,Individual,Automatic,3
+Scania,2011,17.57,40.6,210726,Diesel,Dealer,Manual,1
+MAN TGS,2018,11.77,45.24,89244,Diesel,Dealer,Automatic,3
+Kenworth T680,2007,16.84,32.45,187014,Diesel,Individual,Automatic,3
+Volvo FMX,2022,29.63,43.04,100697,Diesel,Individual,Manual,1
+Actros,2020,22.59,21.22,176031,Diesel,Individual,Manual,0
+Isuzu Giga,2022,18.32,23.69,52693,Diesel,Dealer,Manual,2
+DAF XF,2020,13.33,26.09,237823,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2012,29.72,32.06,131098,Diesel,Dealer,Automatic,1
+Tata Prima,2005,26.42,45.37,299849,Diesel,Individual,Manual,1
+Actros,2021,15.63,30.39,56259,Diesel,Individual,Manual,2
+Hino 500,2016,11.4,39.64,169746,Diesel,Individual,Manual,1
+MAN TGS,2015,11.13,41.28,294955,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2009,12.41,37.59,157772,Diesel,Individual,Automatic,2
+Isuzu Giga,2016,21.62,30.72,167928,Diesel,Dealer,Manual,3
+Actros,2021,28.58,37.31,186014,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2010,19.93,30.27,97419,Diesel,Dealer,Manual,3
+Actros,2005,26.86,22.52,152092,Diesel,Individual,Automatic,1
+MAN TGS,2009,18.92,49.78,106105,Diesel,Dealer,Manual,1
+Isuzu Giga,2018,24.17,23.82,246979,Diesel,Dealer,Manual,2
+Hino 500,2009,24.64,22.17,208455,Diesel,Individual,Manual,3
+Scania,2005,13.48,46.36,73404,Diesel,Individual,Automatic,2
+Volvo FMX,2022,17.22,29.06,122656,Diesel,Dealer,Automatic,3
+Hino 500,2020,22.75,39.51,186774,Diesel,Dealer,Manual,3
+Scania,2013,11.41,29.87,254955,Diesel,Dealer,Automatic,3
+Tata Prima,2009,17.23,31.74,150965,Diesel,Dealer,Manual,3
+Kenworth T680,2006,20.7,27.86,106332,Diesel,Dealer,Manual,3
+DAF XF,2019,29.92,30.29,220491,Diesel,Dealer,Manual,0
+DAF XF,2011,19.49,32.32,271648,Diesel,Dealer,Manual,1
+Volvo FMX,2008,26.32,41.61,153182,Diesel,Individual,Automatic,3
+Isuzu Giga,2005,18.64,35.35,161395,Diesel,Dealer,Manual,3
+MAN TGS,2017,25.93,48.31,152619,Diesel,Individual,Manual,2
+Isuzu Giga,2011,21.91,21.26,269150,Diesel,Individual,Automatic,1
+MAN TGS,2019,27.73,35.09,158269,Diesel,Individual,Manual,1
+Isuzu Giga,2018,18.22,37.53,123844,Diesel,Dealer,Automatic,1
+Kenworth T680,2022,22.09,47.61,220314,Diesel,Dealer,Manual,3
+Tata Prima,2014,22.6,21.47,174983,Diesel,Individual,Manual,2
+Tata Prima,2013,18.35,37.2,84142,Diesel,Dealer,Manual,1
+Scania,2012,12.89,45.61,159699,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2014,11.87,27.26,146226,Diesel,Individual,Automatic,0
+Tata Prima,2021,10.33,46.29,57393,Diesel,Dealer,Manual,0
+Tata Prima,2006,27.47,20.57,251011,Diesel,Individual,Automatic,2
+Hino 500,2010,14.73,41.97,250154,Diesel,Individual,Automatic,3
+Hino 500,2009,14.23,47.99,152281,Diesel,Individual,Automatic,1
+Scania,2013,24.72,39.72,209965,Diesel,Individual,Manual,0
+Freightliner Cascadia,2009,16.4,33.17,59388,Diesel,Dealer,Automatic,0
+Volvo FMX,2022,20.12,21.35,299171,Diesel,Individual,Automatic,2
+Hino 500,2013,13.25,47.6,288364,Diesel,Dealer,Automatic,3
+Volvo FMX,2021,29.19,34.11,112969,Diesel,Dealer,Manual,2
+Actros,2021,27.03,20.87,86660,Diesel,Dealer,Manual,2
+Hino 500,2016,27.28,40.69,139244,Diesel,Dealer,Automatic,2
+Kenworth T680,2011,18.14,34.46,205798,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2007,25.25,23.73,129544,Diesel,Individual,Manual,2
+Scania,2014,12.88,26.43,282625,Diesel,Individual,Automatic,3
+Actros,2006,10.17,21.93,244068,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2007,10.4,37.23,181183,Diesel,Individual,Automatic,3
+Kenworth T680,2020,21.73,38.66,165370,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2006,19.11,35.17,67545,Diesel,Individual,Automatic,1
+Kenworth T680,2014,20.36,44.51,221240,Diesel,Dealer,Automatic,1
+Kenworth T680,2010,10.15,45.83,183451,Diesel,Dealer,Manual,1
+Volvo FMX,2015,18.45,38.47,276845,Diesel,Individual,Automatic,0
+Isuzu Giga,2011,24.36,20.38,292556,Diesel,Dealer,Manual,3
+Actros,2019,18.85,40.86,137346,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2010,24.64,32.54,222192,Diesel,Individual,Manual,0
+MAN TGS,2013,14.66,36.97,67809,Diesel,Individual,Automatic,3
+Actros,2016,26.26,39.47,233885,Diesel,Individual,Automatic,0
+Isuzu Giga,2007,21.77,30.51,255077,Diesel,Dealer,Automatic,0
+Actros,2019,14.22,47.51,77967,Diesel,Individual,Automatic,2
+Tata Prima,2006,14.73,24.02,190820,Diesel,Individual,Automatic,0
+MAN TGS,2006,22.56,40.15,73424,Diesel,Dealer,Automatic,0
+Isuzu Giga,2007,26.6,20.13,267584,Diesel,Individual,Automatic,3
+Volvo FMX,2010,18.31,47.74,204986,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2019,15.17,23.38,276675,Diesel,Dealer,Manual,2
+DAF XF,2014,27.34,22.85,158411,Diesel,Individual,Automatic,1
+Isuzu Giga,2013,23.39,29.99,259550,Diesel,Dealer,Automatic,1
+Scania,2005,18.96,31.21,200563,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2020,19.76,26.43,230526,Diesel,Individual,Automatic,3
+Isuzu Giga,2010,14.09,37.55,120069,Diesel,Individual,Manual,0
+Tata Prima,2013,22.54,33.29,232997,Diesel,Individual,Automatic,3
+DAF XF,2008,17.17,21.03,139119,Diesel,Dealer,Automatic,0
+Tata Prima,2006,29.91,29.59,87049,Diesel,Dealer,Manual,3
+DAF XF,2008,19.6,44.31,77821,Diesel,Individual,Manual,1
+Scania,2005,19.72,40.69,145797,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2014,21.32,41.75,284144,Diesel,Individual,Manual,1
+Volvo FMX,2019,28.34,40.94,211017,Diesel,Dealer,Automatic,1
+Tata Prima,2020,26.02,29.33,198456,Diesel,Individual,Automatic,0
+Tata Prima,2008,19.02,22.99,209482,Diesel,Dealer,Automatic,0
+Kenworth T680,2006,24.37,28.17,127734,Diesel,Individual,Automatic,0
+DAF XF,2017,21.72,44.95,244838,Diesel,Dealer,Automatic,1
+Hino 500,2005,19.85,49.41,275962,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2021,13.85,34.82,297478,Diesel,Individual,Manual,1
+DAF XF,2017,19.28,20.29,188241,Diesel,Dealer,Manual,1
+Kenworth T680,2008,14.92,24.2,221201,Diesel,Dealer,Manual,2
+Actros,2011,28.3,29.66,147445,Diesel,Individual,Automatic,2
+DAF XF,2021,16.71,37.36,53830,Diesel,Individual,Manual,3
+Volvo FMX,2013,29.05,22.25,237378,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2008,20.66,48.3,136940,Diesel,Dealer,Manual,2
+Kenworth T680,2005,22.63,30.95,246339,Diesel,Dealer,Automatic,3
+Actros,2014,20.86,47.38,208829,Diesel,Individual,Automatic,2
+MAN TGS,2008,12.59,43.42,113867,Diesel,Dealer,Automatic,2
+Kenworth T680,2013,17.52,42.66,216722,Diesel,Dealer,Automatic,3
+MAN TGS,2017,11.98,38.2,214838,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2018,22.46,38.8,262550,Diesel,Individual,Manual,3
+Tata Prima,2014,18.94,39.14,82419,Diesel,Individual,Automatic,1
+Kenworth T680,2010,25.56,38.86,66668,Diesel,Individual,Manual,2
+Scania,2020,14.41,36.61,197318,Diesel,Individual,Automatic,3
+MAN TGS,2010,13.29,49.59,74996,Diesel,Dealer,Automatic,0
+Volvo FMX,2021,18.13,41.97,101312,Diesel,Dealer,Automatic,2
+Scania,2014,28.53,43.31,184137,Diesel,Dealer,Manual,3
+Isuzu Giga,2022,24.21,46.17,60467,Diesel,Individual,Automatic,2
+Isuzu Giga,2022,18.38,26.47,231718,Diesel,Individual,Manual,3
+Actros,2007,20.35,22.51,291452,Diesel,Individual,Automatic,1
+Tata Prima,2019,11.68,34.49,202079,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2019,29.69,35.42,249151,Diesel,Individual,Manual,2
+Kenworth T680,2008,23.33,44.88,78702,Diesel,Individual,Manual,0
+Hino 500,2013,15.71,33.31,144369,Diesel,Individual,Automatic,1
+Volvo FMX,2021,21.72,37.13,125569,Diesel,Dealer,Automatic,3
+MAN TGS,2015,12.19,35.81,103952,Diesel,Individual,Manual,0
+Freightliner Cascadia,2013,29.32,21.15,239137,Diesel,Individual,Automatic,3
+Scania,2014,13.5,38.46,84169,Diesel,Dealer,Automatic,1
+Isuzu Giga,2022,22.96,44.84,66829,Diesel,Individual,Automatic,2
+Volvo FMX,2017,14.91,24.73,241207,Diesel,Individual,Manual,1
+Hino 500,2012,24.35,37.83,54522,Diesel,Individual,Manual,0
+Kenworth T680,2011,25.54,37.81,135687,Diesel,Dealer,Automatic,0
+Actros,2021,23.47,24.93,216391,Diesel,Individual,Manual,0
+Hino 500,2019,22.29,23.7,170334,Diesel,Individual,Automatic,3
+Volvo FMX,2019,27.85,49.4,207615,Diesel,Dealer,Automatic,2
+Hino 500,2005,11.57,31.81,168576,Diesel,Dealer,Manual,0
+Volvo FMX,2018,16.62,26.82,284192,Diesel,Individual,Manual,0
+Volvo FMX,2009,14.97,25.14,167419,Diesel,Dealer,Automatic,0
+DAF XF,2015,29.76,40.03,211545,Diesel,Individual,Automatic,1
+MAN TGS,2020,17.79,38.28,57699,Diesel,Dealer,Automatic,0
+Isuzu Giga,2006,24.65,39.31,118165,Diesel,Individual,Manual,1
+DAF XF,2012,23.69,22.64,221527,Diesel,Individual,Manual,0
+Kenworth T680,2015,14.24,46.81,125692,Diesel,Individual,Automatic,1
+DAF XF,2022,14.78,31.68,67441,Diesel,Dealer,Automatic,3
+Tata Prima,2007,15.63,29.4,80716,Diesel,Dealer,Manual,3
+Tata Prima,2005,18.22,33.87,112175,Diesel,Individual,Automatic,1
+Isuzu Giga,2015,14.69,31.7,56834,Diesel,Individual,Manual,2
+Hino 500,2020,10.39,45.91,68179,Diesel,Individual,Manual,2
+MAN TGS,2022,27.59,47.88,76219,Diesel,Individual,Automatic,1
+Isuzu Giga,2020,29.31,29.1,153153,Diesel,Dealer,Automatic,3
+Volvo FMX,2014,16.83,45.92,196854,Diesel,Dealer,Manual,1
+Scania,2022,16.77,43.45,262435,Diesel,Individual,Automatic,2
+MAN TGS,2010,10.14,47.92,124967,Diesel,Dealer,Manual,1
+MAN TGS,2008,23.61,27.37,152454,Diesel,Dealer,Manual,3
+Volvo FMX,2017,26.51,37.31,290665,Diesel,Dealer,Manual,2
+Volvo FMX,2018,12.93,28.24,59496,Diesel,Individual,Automatic,2
+Actros,2007,13.19,44.72,269939,Diesel,Individual,Automatic,0
+Isuzu Giga,2014,25.8,20.16,220310,Diesel,Dealer,Automatic,0
+Volvo FMX,2010,22.33,36.94,96025,Diesel,Dealer,Manual,2
+Tata Prima,2005,10.9,30.18,109886,Diesel,Individual,Manual,2
+Kenworth T680,2018,22.45,29.68,204635,Diesel,Individual,Manual,1
+Scania,2012,16.18,39.35,53712,Diesel,Individual,Manual,3
+Isuzu Giga,2018,17.37,45.54,144067,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2014,25.39,38.28,95489,Diesel,Dealer,Automatic,3
+Tata Prima,2021,26.22,45.6,82664,Diesel,Dealer,Automatic,2
+Hino 500,2013,18.01,27.94,291871,Diesel,Individual,Manual,3
+Volvo FMX,2010,28.94,35.59,193492,Diesel,Individual,Manual,0
+Freightliner Cascadia,2015,18.13,33.52,235682,Diesel,Individual,Automatic,2
+Volvo FMX,2011,25.44,20.35,55315,Diesel,Individual,Manual,1
+MAN TGS,2021,19.68,36.7,251989,Diesel,Individual,Automatic,3
+Tata Prima,2005,27.95,39.85,125033,Diesel,Dealer,Manual,2
+MAN TGS,2009,28.16,37.76,275648,Diesel,Dealer,Manual,0
+Actros,2013,11.75,42.09,167862,Diesel,Dealer,Manual,0
+MAN TGS,2022,28.73,37.14,278983,Diesel,Individual,Manual,0
+Actros,2006,26.51,22.0,129030,Diesel,Dealer,Manual,0
+Actros,2015,25.83,23.49,113910,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2010,14.02,37.89,278360,Diesel,Dealer,Automatic,1
+Volvo FMX,2012,26.1,28.25,242044,Diesel,Dealer,Automatic,3
+Hino 500,2008,27.0,22.39,171075,Diesel,Individual,Manual,1
+MAN TGS,2022,15.78,32.89,271965,Diesel,Dealer,Automatic,3
+Tata Prima,2015,29.05,36.63,105919,Diesel,Dealer,Automatic,1
+Actros,2009,11.0,29.86,263558,Diesel,Dealer,Manual,2
+Volvo FMX,2019,13.0,41.61,262360,Diesel,Dealer,Manual,2
+Scania,2022,20.75,39.31,283998,Diesel,Dealer,Automatic,3
+Isuzu Giga,2006,21.52,29.98,185204,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2015,22.9,42.65,177153,Diesel,Dealer,Automatic,3
+Hino 500,2017,10.34,39.46,91598,Diesel,Individual,Automatic,1
+DAF XF,2008,29.21,39.12,274884,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2011,10.89,36.6,286371,Diesel,Individual,Manual,2
+Scania,2015,12.86,20.34,201623,Diesel,Dealer,Automatic,3
+Isuzu Giga,2008,10.28,40.9,273583,Diesel,Individual,Automatic,3
+Scania,2019,21.34,31.28,118206,Diesel,Individual,Automatic,3
+MAN TGS,2005,28.65,48.28,124900,Diesel,Dealer,Automatic,3
+Actros,2007,23.32,44.54,76296,Diesel,Individual,Automatic,0
+Hino 500,2018,26.45,37.63,271288,Diesel,Individual,Automatic,3
+Kenworth T680,2010,10.27,27.57,199138,Diesel,Dealer,Manual,0
+Actros,2022,20.84,26.11,209964,Diesel,Individual,Manual,1
+Kenworth T680,2005,19.19,30.21,125577,Diesel,Dealer,Manual,3
+Isuzu Giga,2010,19.98,34.3,255662,Diesel,Individual,Automatic,0
+Volvo FMX,2010,11.44,28.88,127173,Diesel,Individual,Automatic,0
+DAF XF,2020,23.69,35.45,257365,Diesel,Individual,Manual,0
+Tata Prima,2009,20.06,24.96,114771,Diesel,Individual,Automatic,2
+Actros,2021,25.3,49.33,287866,Diesel,Dealer,Automatic,0
+Hino 500,2014,19.71,23.24,208556,Diesel,Dealer,Automatic,3
+Scania,2022,12.99,47.96,127865,Diesel,Dealer,Manual,3
+Hino 500,2011,22.97,47.41,149074,Diesel,Dealer,Manual,3
+Isuzu Giga,2007,13.45,35.76,208187,Diesel,Dealer,Manual,0
+Kenworth T680,2017,27.45,41.75,207110,Diesel,Individual,Automatic,0
+Scania,2019,22.26,33.08,86622,Diesel,Dealer,Manual,2
+Tata Prima,2007,13.14,38.9,85886,Diesel,Individual,Manual,1
+Tata Prima,2008,29.25,30.22,232356,Diesel,Dealer,Manual,2
+Actros,2009,20.37,29.03,190973,Diesel,Dealer,Automatic,3
+Isuzu Giga,2005,11.46,37.35,106377,Diesel,Dealer,Manual,3
+Volvo FMX,2008,22.54,34.94,132910,Diesel,Dealer,Manual,3
+Isuzu Giga,2016,15.06,37.39,230934,Diesel,Individual,Automatic,2
+Kenworth T680,2014,26.07,28.6,168992,Diesel,Dealer,Manual,3
+Hino 500,2017,26.36,31.01,292898,Diesel,Individual,Automatic,3
+Tata Prima,2018,29.58,22.52,213878,Diesel,Individual,Automatic,3
+Hino 500,2009,20.04,21.57,198731,Diesel,Dealer,Manual,0
+Hino 500,2008,19.1,27.6,295378,Diesel,Individual,Manual,1
+Hino 500,2018,25.07,22.23,204525,Diesel,Individual,Manual,0
+Tata Prima,2014,12.65,23.11,211570,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2021,20.94,44.39,251465,Diesel,Individual,Manual,1
+MAN TGS,2014,20.92,21.17,66312,Diesel,Dealer,Manual,1
+Kenworth T680,2011,11.79,39.77,51436,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2020,18.36,28.18,77569,Diesel,Individual,Automatic,1
+Kenworth T680,2005,27.07,46.15,239885,Diesel,Individual,Automatic,2
+Scania,2021,27.12,34.55,166787,Diesel,Individual,Automatic,2
+Isuzu Giga,2013,11.98,29.17,140485,Diesel,Individual,Manual,0
+Isuzu Giga,2010,11.81,35.53,254301,Diesel,Individual,Manual,3
+DAF XF,2017,15.25,31.46,227058,Diesel,Individual,Automatic,0
+Isuzu Giga,2007,27.5,36.93,152555,Diesel,Individual,Manual,0
+Tata Prima,2011,12.58,23.44,234249,Diesel,Dealer,Manual,1
+Volvo FMX,2013,24.4,49.91,190377,Diesel,Dealer,Automatic,1
+Actros,2009,12.02,32.77,82646,Diesel,Dealer,Automatic,2
+DAF XF,2014,22.46,30.45,273910,Diesel,Individual,Automatic,2
+Actros,2021,17.12,41.31,126126,Diesel,Individual,Manual,2
+Kenworth T680,2016,25.78,30.92,167922,Diesel,Individual,Manual,1
+Actros,2020,14.67,45.0,90430,Diesel,Dealer,Manual,2
+Actros,2007,22.78,33.63,172238,Diesel,Dealer,Automatic,2
+DAF XF,2013,14.71,41.59,118659,Diesel,Dealer,Automatic,1
+Scania,2019,24.27,23.22,165341,Diesel,Individual,Manual,3
+Hino 500,2009,27.47,45.38,54158,Diesel,Dealer,Automatic,0
+Isuzu Giga,2017,12.54,42.07,124236,Diesel,Dealer,Automatic,1
+Isuzu Giga,2018,27.33,26.35,126067,Diesel,Individual,Manual,2
+Tata Prima,2019,21.87,24.36,208810,Diesel,Dealer,Automatic,0
+DAF XF,2020,12.54,29.49,59879,Diesel,Dealer,Manual,1
+Tata Prima,2017,18.55,49.28,186615,Diesel,Dealer,Automatic,0
+Volvo FMX,2021,13.22,27.7,162284,Diesel,Individual,Manual,0
+Volvo FMX,2012,24.01,33.68,228996,Diesel,Dealer,Automatic,3
+Tata Prima,2006,25.18,20.9,223420,Diesel,Individual,Manual,2
+DAF XF,2009,12.12,31.92,134117,Diesel,Individual,Automatic,1
+Tata Prima,2010,20.12,37.14,217751,Diesel,Dealer,Automatic,2
+Isuzu Giga,2016,26.29,48.59,260190,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2022,28.72,35.5,93888,Diesel,Individual,Automatic,3
+MAN TGS,2005,20.27,44.57,80276,Diesel,Individual,Automatic,1
+Actros,2021,29.01,36.41,284611,Diesel,Individual,Manual,1
+MAN TGS,2015,20.71,21.22,54799,Diesel,Individual,Manual,3
+DAF XF,2014,17.88,29.45,271699,Diesel,Individual,Manual,1
+MAN TGS,2018,26.96,37.27,274842,Diesel,Dealer,Automatic,0
+Volvo FMX,2014,19.86,48.52,162529,Diesel,Individual,Manual,0
+Kenworth T680,2019,19.44,45.77,174713,Diesel,Dealer,Automatic,3
+Actros,2008,19.81,26.85,140141,Diesel,Individual,Automatic,2
+Hino 500,2006,26.94,26.6,241630,Diesel,Dealer,Manual,1
+DAF XF,2013,26.64,26.04,165013,Diesel,Individual,Manual,1
+Actros,2014,18.07,47.67,217606,Diesel,Dealer,Automatic,0
+MAN TGS,2015,16.67,45.58,81668,Diesel,Dealer,Automatic,1
+Volvo FMX,2018,19.84,43.25,185183,Diesel,Individual,Manual,2
+Scania,2011,21.46,31.78,205758,Diesel,Individual,Manual,1
+Freightliner Cascadia,2019,14.77,35.13,253623,Diesel,Dealer,Automatic,1
+Hino 500,2019,25.88,33.93,122392,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2012,19.73,27.6,66490,Diesel,Dealer,Manual,1
+Actros,2015,16.68,35.15,216266,Diesel,Individual,Automatic,3
+Volvo FMX,2013,12.14,20.91,195569,Diesel,Individual,Automatic,3
+Volvo FMX,2019,14.78,23.95,234588,Diesel,Individual,Manual,2
+MAN TGS,2005,28.99,46.6,167219,Diesel,Individual,Manual,2
+Isuzu Giga,2005,16.1,42.55,269802,Diesel,Dealer,Automatic,2
+MAN TGS,2007,13.38,32.69,94104,Diesel,Individual,Automatic,2
+Isuzu Giga,2014,19.21,35.51,55316,Diesel,Individual,Manual,0
+Isuzu Giga,2012,16.14,31.1,88130,Diesel,Individual,Automatic,1
+Hino 500,2019,10.7,42.22,251301,Diesel,Individual,Manual,0
+MAN TGS,2014,16.46,43.53,157294,Diesel,Individual,Automatic,2
+Scania,2005,20.88,42.9,79954,Diesel,Dealer,Manual,1
+Tata Prima,2022,21.03,41.68,163437,Diesel,Individual,Automatic,3
+Tata Prima,2006,17.13,26.14,202724,Diesel,Dealer,Automatic,0
+MAN TGS,2017,18.95,30.14,195250,Diesel,Individual,Automatic,1
+MAN TGS,2005,29.31,34.1,290005,Diesel,Individual,Manual,3
+Freightliner Cascadia,2006,17.55,29.92,232235,Diesel,Individual,Manual,3
+Hino 500,2020,15.16,42.65,195823,Diesel,Individual,Manual,2
+MAN TGS,2019,14.87,29.88,247033,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2017,19.16,24.15,184116,Diesel,Dealer,Automatic,3
+Isuzu Giga,2020,25.19,31.97,113165,Diesel,Individual,Manual,2
+Volvo FMX,2021,14.12,49.4,192552,Diesel,Dealer,Manual,1
+Volvo FMX,2011,24.19,26.78,246511,Diesel,Dealer,Automatic,1
+Isuzu Giga,2021,10.42,38.36,224946,Diesel,Individual,Automatic,2
+DAF XF,2011,18.38,32.99,285605,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2017,25.52,22.13,116775,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2009,16.77,34.64,187638,Diesel,Individual,Manual,1
+Isuzu Giga,2021,21.27,41.06,135311,Diesel,Individual,Manual,0
+Scania,2007,14.1,35.4,283589,Diesel,Dealer,Automatic,2
+Kenworth T680,2011,24.84,46.16,103149,Diesel,Individual,Automatic,1
+Actros,2021,11.05,28.67,184078,Diesel,Individual,Automatic,1
+Isuzu Giga,2011,27.05,22.59,122561,Diesel,Individual,Manual,1
+MAN TGS,2005,13.96,48.1,200495,Diesel,Dealer,Manual,3
+MAN TGS,2021,27.49,31.35,285934,Diesel,Individual,Automatic,3
+Hino 500,2021,17.05,37.29,140710,Diesel,Individual,Automatic,0
+Isuzu Giga,2015,24.45,43.76,142199,Diesel,Dealer,Automatic,0
+Hino 500,2007,16.38,29.73,215024,Diesel,Dealer,Automatic,0
+Isuzu Giga,2019,28.12,41.48,77326,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2015,12.53,24.06,167272,Diesel,Dealer,Automatic,0
+Actros,2020,13.57,28.74,81139,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2013,19.86,24.34,243175,Diesel,Individual,Manual,1
+Kenworth T680,2005,11.64,44.34,293806,Diesel,Dealer,Manual,0
+Volvo FMX,2020,13.92,26.68,241929,Diesel,Individual,Automatic,0
+Tata Prima,2013,28.88,41.52,123638,Diesel,Dealer,Automatic,3
+Isuzu Giga,2016,29.53,48.3,293245,Diesel,Individual,Automatic,1
+Kenworth T680,2013,17.53,35.83,122652,Diesel,Individual,Manual,2
+Volvo FMX,2011,28.47,36.2,62937,Diesel,Dealer,Automatic,2
+DAF XF,2018,20.9,33.83,80161,Diesel,Dealer,Manual,3
+Actros,2006,15.39,29.78,185455,Diesel,Dealer,Automatic,3
+Hino 500,2013,24.05,34.27,135856,Diesel,Dealer,Automatic,3
+Hino 500,2017,23.18,38.08,297459,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2019,29.78,49.58,120043,Diesel,Dealer,Manual,0
+MAN TGS,2007,15.3,48.13,195807,Diesel,Individual,Manual,0
+Volvo FMX,2015,23.44,45.86,109919,Diesel,Individual,Manual,3
+DAF XF,2018,11.04,46.67,276321,Diesel,Individual,Automatic,1
+Kenworth T680,2012,12.27,34.04,132055,Diesel,Individual,Manual,2
+Actros,2022,10.08,39.72,248633,Diesel,Individual,Automatic,3
+Volvo FMX,2020,29.99,46.85,135455,Diesel,Dealer,Automatic,1
+DAF XF,2006,26.05,31.79,218694,Diesel,Dealer,Manual,3
+Tata Prima,2012,25.73,48.85,88135,Diesel,Individual,Manual,1
+Isuzu Giga,2010,20.19,32.47,216730,Diesel,Individual,Automatic,1
+Hino 500,2016,16.0,38.03,134677,Diesel,Dealer,Automatic,3
+Kenworth T680,2019,13.03,41.29,79696,Diesel,Dealer,Automatic,0
+Hino 500,2012,15.69,48.52,184845,Diesel,Dealer,Automatic,3
+Kenworth T680,2008,17.52,27.34,74956,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2019,25.13,42.38,65819,Diesel,Individual,Manual,0
+MAN TGS,2021,20.79,35.62,51528,Diesel,Individual,Manual,2
+Kenworth T680,2017,11.55,28.06,177781,Diesel,Dealer,Automatic,1
+Hino 500,2022,10.36,43.3,136491,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2006,12.05,36.57,94588,Diesel,Individual,Automatic,1
+Kenworth T680,2017,18.21,39.83,251657,Diesel,Individual,Manual,2
+Tata Prima,2017,28.66,29.69,149152,Diesel,Individual,Automatic,0
+MAN TGS,2019,22.75,34.44,177872,Diesel,Dealer,Automatic,3
+Kenworth T680,2014,26.04,38.52,201583,Diesel,Individual,Manual,1
+Freightliner Cascadia,2007,19.33,32.15,60119,Diesel,Dealer,Manual,2
+Volvo FMX,2007,17.23,25.95,125893,Diesel,Dealer,Automatic,0
+Scania,2018,12.17,48.85,66167,Diesel,Dealer,Manual,0
+DAF XF,2012,27.52,35.34,237575,Diesel,Individual,Automatic,1
+Scania,2008,25.66,42.02,160782,Diesel,Individual,Manual,0
+Scania,2015,13.36,32.33,268861,Diesel,Dealer,Automatic,2
+Actros,2015,20.25,30.65,180775,Diesel,Individual,Manual,0
+Tata Prima,2015,19.75,32.21,84889,Diesel,Dealer,Manual,3
+Volvo FMX,2006,22.5,32.28,95678,Diesel,Individual,Manual,3
+Isuzu Giga,2021,28.92,36.33,276406,Diesel,Dealer,Manual,1
+Kenworth T680,2013,21.6,36.3,110262,Diesel,Dealer,Automatic,2
+DAF XF,2006,20.8,34.91,185753,Diesel,Individual,Automatic,0
+MAN TGS,2019,11.01,24.04,130291,Diesel,Individual,Manual,0
+Volvo FMX,2020,11.26,34.88,116008,Diesel,Dealer,Automatic,0
+Hino 500,2008,13.75,25.07,297547,Diesel,Individual,Manual,3
+Isuzu Giga,2012,10.65,23.78,279489,Diesel,Dealer,Manual,2
+Actros,2013,24.87,47.98,194762,Diesel,Dealer,Automatic,0
+Actros,2009,24.47,38.15,75912,Diesel,Dealer,Automatic,1
+Volvo FMX,2020,12.72,39.78,56473,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2017,26.72,32.05,222370,Diesel,Dealer,Automatic,2
+Scania,2011,13.1,47.27,199741,Diesel,Dealer,Automatic,0
+Hino 500,2021,16.02,39.14,149500,Diesel,Dealer,Automatic,3
+Actros,2007,14.98,43.08,263070,Diesel,Dealer,Automatic,2
+DAF XF,2009,17.45,31.06,202015,Diesel,Individual,Manual,1
+Actros,2016,15.09,48.8,88785,Diesel,Individual,Automatic,2
+MAN TGS,2011,19.78,44.61,150956,Diesel,Dealer,Manual,3
+Kenworth T680,2013,18.15,45.62,244499,Diesel,Dealer,Automatic,1
+Actros,2010,29.73,25.17,243073,Diesel,Dealer,Automatic,3
+MAN TGS,2021,11.12,28.13,242796,Diesel,Individual,Manual,0
+Volvo FMX,2020,12.84,28.57,169006,Diesel,Dealer,Manual,2
+Volvo FMX,2007,11.06,28.13,60832,Diesel,Dealer,Manual,1
+Isuzu Giga,2008,22.52,45.66,186457,Diesel,Dealer,Manual,3
+Actros,2014,11.09,20.96,276970,Diesel,Individual,Automatic,0
+DAF XF,2009,26.73,22.28,195780,Diesel,Individual,Automatic,1
+Actros,2014,20.24,28.22,239672,Diesel,Individual,Manual,2
+DAF XF,2016,20.54,26.0,204510,Diesel,Dealer,Manual,2
+Tata Prima,2014,21.23,26.96,132747,Diesel,Dealer,Automatic,3
+Isuzu Giga,2017,13.42,43.94,130107,Diesel,Individual,Automatic,1
+Tata Prima,2015,13.95,36.89,241134,Diesel,Dealer,Manual,0
+Actros,2020,16.38,20.17,115428,Diesel,Individual,Automatic,0
+Isuzu Giga,2012,21.87,32.88,136843,Diesel,Individual,Automatic,0
+Tata Prima,2012,14.2,32.24,61002,Diesel,Dealer,Manual,3
+Scania,2012,12.33,23.42,217225,Diesel,Dealer,Manual,0
+Actros,2017,29.4,40.28,203512,Diesel,Dealer,Manual,1
+Tata Prima,2006,10.44,41.06,117501,Diesel,Dealer,Manual,3
+Scania,2016,26.05,41.63,82556,Diesel,Individual,Automatic,2
+Scania,2014,25.76,41.85,117963,Diesel,Individual,Manual,3
+Volvo FMX,2016,15.94,20.0,282217,Diesel,Individual,Automatic,3
+Actros,2015,12.71,48.62,271797,Diesel,Individual,Automatic,3
+Scania,2019,12.91,44.43,271746,Diesel,Individual,Automatic,1
+Volvo FMX,2020,23.95,47.12,56563,Diesel,Individual,Automatic,2
+Tata Prima,2021,22.86,20.47,260995,Diesel,Dealer,Manual,2
+MAN TGS,2006,25.65,48.02,55840,Diesel,Individual,Automatic,3
+Actros,2022,28.75,44.29,65154,Diesel,Dealer,Manual,3
+Isuzu Giga,2016,23.84,45.12,74194,Diesel,Dealer,Automatic,3
+DAF XF,2022,13.12,22.8,246092,Diesel,Individual,Manual,1
+DAF XF,2021,14.87,42.16,227933,Diesel,Individual,Automatic,1
+Tata Prima,2010,26.84,48.8,203520,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2019,14.19,40.36,277532,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2007,11.45,37.12,73528,Diesel,Individual,Manual,0
+Tata Prima,2010,24.07,48.37,210474,Diesel,Individual,Manual,0
+Scania,2007,18.05,33.29,54352,Diesel,Dealer,Manual,3
+Actros,2005,28.4,37.98,50184,Diesel,Individual,Automatic,1
+DAF XF,2017,23.01,34.29,191456,Diesel,Individual,Automatic,0
+DAF XF,2018,11.81,47.99,64319,Diesel,Individual,Automatic,0
+Scania,2017,28.96,22.28,170497,Diesel,Individual,Automatic,0
+DAF XF,2008,15.17,35.03,201521,Diesel,Individual,Automatic,3
+Isuzu Giga,2011,16.74,40.61,106333,Diesel,Dealer,Manual,3
+Actros,2014,18.05,43.76,91205,Diesel,Individual,Manual,1
+Kenworth T680,2011,11.02,37.49,60426,Diesel,Individual,Automatic,0
+DAF XF,2019,19.93,47.27,57504,Diesel,Dealer,Manual,0
+Tata Prima,2019,12.47,48.26,237650,Diesel,Dealer,Automatic,1
+Isuzu Giga,2008,18.02,21.93,239281,Diesel,Individual,Automatic,1
+DAF XF,2010,17.01,32.07,166775,Diesel,Individual,Manual,1
+Isuzu Giga,2009,25.46,20.7,83368,Diesel,Dealer,Automatic,2
+Volvo FMX,2016,26.06,29.88,287180,Diesel,Individual,Manual,1
+Kenworth T680,2005,13.07,36.11,292625,Diesel,Individual,Automatic,3
+Hino 500,2012,17.33,47.32,153841,Diesel,Individual,Manual,2
+Tata Prima,2005,17.47,45.4,233257,Diesel,Dealer,Automatic,1
+Tata Prima,2009,13.03,23.82,278702,Diesel,Individual,Automatic,3
+Actros,2010,25.97,22.79,166744,Diesel,Individual,Manual,1
+Isuzu Giga,2007,24.14,37.68,261293,Diesel,Dealer,Automatic,1
+Scania,2019,13.81,35.96,58724,Diesel,Individual,Automatic,2
+Tata Prima,2009,17.33,27.99,186156,Diesel,Individual,Manual,3
+Isuzu Giga,2018,12.12,46.98,215882,Diesel,Individual,Manual,0
+Isuzu Giga,2022,22.56,47.82,263349,Diesel,Individual,Manual,1
+MAN TGS,2020,12.43,32.08,132297,Diesel,Dealer,Automatic,2
+MAN TGS,2010,29.72,46.71,175099,Diesel,Dealer,Manual,3
+Hino 500,2018,25.61,31.52,128872,Diesel,Individual,Manual,1
+Volvo FMX,2012,17.8,42.1,201944,Diesel,Individual,Manual,0
+Hino 500,2011,21.57,34.28,260022,Diesel,Individual,Automatic,3
+DAF XF,2012,28.23,23.68,120333,Diesel,Individual,Manual,3
+Scania,2017,21.08,47.84,249915,Diesel,Dealer,Automatic,2
+DAF XF,2010,13.49,33.62,293097,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2022,17.57,42.03,279176,Diesel,Dealer,Manual,1
+DAF XF,2006,26.86,31.02,52596,Diesel,Individual,Automatic,3
+Actros,2012,22.88,20.57,67167,Diesel,Individual,Automatic,1
+DAF XF,2015,23.01,23.02,137844,Diesel,Individual,Automatic,3
+Hino 500,2005,27.34,34.89,298139,Diesel,Dealer,Automatic,0
+Tata Prima,2010,27.88,40.7,139751,Diesel,Dealer,Automatic,2
+Tata Prima,2020,28.4,30.04,179817,Diesel,Dealer,Manual,1
+MAN TGS,2016,11.9,40.86,258403,Diesel,Dealer,Manual,1
+Scania,2015,20.88,40.96,130520,Diesel,Dealer,Manual,2
+Scania,2014,24.81,41.12,108326,Diesel,Individual,Automatic,0
+Actros,2007,25.14,34.78,127670,Diesel,Individual,Manual,0
+Hino 500,2017,22.13,47.45,191854,Diesel,Individual,Automatic,0
+MAN TGS,2007,13.34,34.68,223074,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2019,25.95,33.51,268259,Diesel,Individual,Automatic,0
+Scania,2020,24.4,25.98,74022,Diesel,Individual,Automatic,3
+Tata Prima,2017,11.72,29.23,134458,Diesel,Dealer,Manual,1
+DAF XF,2021,19.28,21.27,195690,Diesel,Dealer,Automatic,1
+DAF XF,2007,13.48,39.01,198317,Diesel,Dealer,Manual,1
+MAN TGS,2015,16.75,27.46,133796,Diesel,Individual,Manual,3
+Hino 500,2015,10.36,29.12,191099,Diesel,Dealer,Automatic,2
+Hino 500,2020,18.01,43.12,195058,Diesel,Individual,Manual,0
+Volvo FMX,2007,21.0,29.82,160704,Diesel,Individual,Manual,2
+Kenworth T680,2010,22.39,27.27,184598,Diesel,Dealer,Manual,0
+Scania,2018,23.27,25.07,272869,Diesel,Individual,Automatic,0
+Hino 500,2022,26.73,43.25,94361,Diesel,Dealer,Automatic,2
+Tata Prima,2021,14.31,23.89,248230,Diesel,Dealer,Automatic,1
+MAN TGS,2008,12.41,33.61,88286,Diesel,Individual,Manual,3
+Freightliner Cascadia,2019,27.03,35.21,79533,Diesel,Individual,Manual,2
+Volvo FMX,2015,13.13,40.62,282033,Diesel,Individual,Automatic,1
+Isuzu Giga,2007,29.5,39.0,199388,Diesel,Dealer,Automatic,0
+Actros,2007,26.85,44.32,189771,Diesel,Individual,Manual,1
+Freightliner Cascadia,2020,20.02,21.34,260563,Diesel,Dealer,Automatic,0
+Isuzu Giga,2009,29.63,28.89,177441,Diesel,Dealer,Automatic,0
+DAF XF,2014,11.95,28.4,147079,Diesel,Individual,Manual,1
+Actros,2008,16.06,24.38,299238,Diesel,Individual,Manual,0
+Scania,2015,22.76,28.68,150960,Diesel,Individual,Automatic,3
+Tata Prima,2006,17.0,29.29,108465,Diesel,Individual,Automatic,1
+Actros,2014,28.57,35.66,197745,Diesel,Dealer,Automatic,2
+Kenworth T680,2015,11.31,39.91,73395,Diesel,Individual,Automatic,0
+Isuzu Giga,2020,20.99,31.43,154162,Diesel,Dealer,Manual,0
+Scania,2015,21.82,41.58,180704,Diesel,Individual,Automatic,3
+Kenworth T680,2018,23.05,30.08,204779,Diesel,Individual,Automatic,3
+DAF XF,2006,15.11,28.71,265821,Diesel,Individual,Manual,2
+Kenworth T680,2009,17.29,36.24,125937,Diesel,Dealer,Manual,0
+Volvo FMX,2009,26.87,20.71,179647,Diesel,Individual,Manual,2
+Volvo FMX,2016,13.9,22.39,170650,Diesel,Dealer,Manual,2
+MAN TGS,2022,26.54,32.54,180744,Diesel,Individual,Manual,0
+Freightliner Cascadia,2008,21.25,48.29,267804,Diesel,Individual,Manual,2
+Freightliner Cascadia,2021,25.24,41.65,237488,Diesel,Dealer,Manual,2
+Scania,2014,24.27,22.64,141512,Diesel,Dealer,Automatic,3
+DAF XF,2010,14.15,45.39,189830,Diesel,Individual,Automatic,3
+Hino 500,2018,21.38,41.97,117009,Diesel,Individual,Manual,2
+Volvo FMX,2015,27.35,38.33,194353,Diesel,Dealer,Automatic,0
+Scania,2015,18.64,44.61,295340,Diesel,Individual,Automatic,3
+Hino 500,2022,29.33,32.12,82548,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2022,19.04,26.65,68371,Diesel,Individual,Manual,1
+MAN TGS,2015,12.86,35.36,274971,Diesel,Dealer,Manual,1
+Kenworth T680,2016,17.79,36.47,258665,Diesel,Dealer,Manual,2
+Volvo FMX,2009,29.03,36.15,155977,Diesel,Dealer,Manual,1
+Scania,2013,16.39,36.95,200716,Diesel,Dealer,Automatic,3
+Actros,2013,27.36,48.46,274731,Diesel,Dealer,Automatic,0
+Hino 500,2014,27.63,47.07,204946,Diesel,Individual,Manual,2
+Kenworth T680,2005,17.0,46.27,269731,Diesel,Individual,Manual,3
+Volvo FMX,2011,11.67,44.04,64281,Diesel,Individual,Automatic,0
+Freightliner Cascadia,2008,24.49,48.3,249859,Diesel,Individual,Automatic,1
+DAF XF,2005,16.23,22.95,203361,Diesel,Individual,Automatic,1
+Hino 500,2019,25.66,27.95,186126,Diesel,Individual,Manual,1
+Freightliner Cascadia,2012,18.85,34.85,150020,Diesel,Individual,Manual,1
+Volvo FMX,2016,19.71,45.4,157508,Diesel,Individual,Automatic,3
+Hino 500,2022,25.56,35.15,293482,Diesel,Individual,Manual,3
+Kenworth T680,2019,17.65,42.44,116846,Diesel,Dealer,Automatic,0
+Volvo FMX,2021,18.86,24.17,144682,Diesel,Dealer,Manual,2
+Isuzu Giga,2018,17.52,27.57,230841,Diesel,Individual,Manual,0
+Scania,2018,17.35,41.95,79312,Diesel,Dealer,Automatic,2
+Kenworth T680,2022,20.52,24.94,277589,Diesel,Individual,Automatic,1
+Hino 500,2022,26.18,30.54,164186,Diesel,Dealer,Manual,1
+DAF XF,2020,17.24,27.95,54257,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2005,20.49,30.5,196918,Diesel,Dealer,Manual,1
+Actros,2015,23.41,41.25,203555,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2019,15.39,31.04,76558,Diesel,Individual,Automatic,0
+Hino 500,2016,15.55,36.66,93188,Diesel,Individual,Manual,2
+Freightliner Cascadia,2012,28.67,23.0,194084,Diesel,Individual,Manual,2
+Scania,2010,24.47,44.15,83236,Diesel,Dealer,Manual,3
+Volvo FMX,2007,21.54,31.1,285281,Diesel,Individual,Automatic,1
+Actros,2017,22.95,39.46,95076,Diesel,Dealer,Automatic,0
+Tata Prima,2017,10.59,41.76,98402,Diesel,Individual,Manual,1
+Hino 500,2006,22.36,26.29,144467,Diesel,Dealer,Automatic,3
+MAN TGS,2009,20.19,46.54,213148,Diesel,Dealer,Manual,2
+Tata Prima,2021,20.91,38.49,130337,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2010,17.19,32.86,165827,Diesel,Dealer,Manual,2
+Hino 500,2006,11.63,25.47,256236,Diesel,Individual,Manual,0
+Isuzu Giga,2008,13.87,48.27,124264,Diesel,Individual,Manual,2
+MAN TGS,2015,29.01,42.65,67335,Diesel,Dealer,Automatic,0
+Actros,2012,18.17,26.24,93773,Diesel,Individual,Automatic,1
+DAF XF,2016,19.33,30.13,233230,Diesel,Individual,Manual,1
+Isuzu Giga,2012,11.05,44.29,78570,Diesel,Dealer,Automatic,3
+Tata Prima,2015,10.75,40.87,137995,Diesel,Individual,Manual,0
+Volvo FMX,2012,24.34,42.97,90658,Diesel,Individual,Automatic,1
+Scania,2012,20.76,33.24,240256,Diesel,Individual,Automatic,0
+DAF XF,2021,20.17,41.49,170640,Diesel,Dealer,Manual,1
+Isuzu Giga,2020,14.86,31.59,122613,Diesel,Individual,Automatic,1
+Volvo FMX,2018,24.9,26.34,108194,Diesel,Dealer,Manual,2
+Volvo FMX,2015,13.36,38.98,248579,Diesel,Dealer,Automatic,3
+Hino 500,2011,13.8,49.28,161872,Diesel,Dealer,Manual,2
+Isuzu Giga,2020,19.21,29.32,215031,Diesel,Individual,Manual,0
+Actros,2017,15.73,33.83,234144,Diesel,Individual,Manual,1
+Freightliner Cascadia,2019,14.95,40.22,226660,Diesel,Individual,Manual,3
+MAN TGS,2020,22.9,36.25,221605,Diesel,Dealer,Manual,1
+MAN TGS,2013,23.02,45.3,158558,Diesel,Individual,Manual,1
+Tata Prima,2007,26.49,42.85,118582,Diesel,Dealer,Automatic,2
+Tata Prima,2009,18.35,21.75,242815,Diesel,Individual,Manual,0
+MAN TGS,2014,11.46,49.95,225590,Diesel,Dealer,Automatic,3
+Actros,2021,15.47,42.57,193775,Diesel,Individual,Manual,3
+Scania,2019,29.6,45.92,99456,Diesel,Individual,Automatic,3
+Kenworth T680,2012,21.93,39.54,105491,Diesel,Individual,Manual,0
+Freightliner Cascadia,2019,24.19,45.69,58043,Diesel,Dealer,Manual,3
+Scania,2018,10.15,23.37,153212,Diesel,Dealer,Automatic,0
+Hino 500,2011,20.36,30.43,290003,Diesel,Individual,Manual,3
+Kenworth T680,2016,10.75,46.29,118340,Diesel,Dealer,Manual,1
+Kenworth T680,2021,21.38,26.05,191248,Diesel,Dealer,Manual,0
+Isuzu Giga,2021,28.42,22.35,185008,Diesel,Dealer,Manual,2
+Actros,2014,29.37,43.64,81174,Diesel,Individual,Automatic,3
+Actros,2018,20.81,45.06,132632,Diesel,Individual,Manual,2
+Kenworth T680,2015,19.16,24.88,138768,Diesel,Individual,Automatic,0
+Isuzu Giga,2006,28.9,45.63,175775,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2022,23.47,40.6,158177,Diesel,Individual,Manual,2
+Kenworth T680,2011,11.3,35.6,75909,Diesel,Dealer,Manual,2
+DAF XF,2016,19.31,44.91,94158,Diesel,Dealer,Manual,1
+Tata Prima,2006,14.8,32.58,189438,Diesel,Individual,Automatic,1
+Tata Prima,2022,19.4,25.82,266197,Diesel,Individual,Manual,0
+Scania,2010,19.11,28.55,235409,Diesel,Individual,Manual,3
+Hino 500,2014,21.64,35.15,174296,Diesel,Dealer,Manual,2
+Tata Prima,2019,17.14,35.94,109331,Diesel,Dealer,Automatic,2
+Volvo FMX,2009,13.29,44.17,293990,Diesel,Individual,Automatic,0
+Scania,2007,20.07,43.74,243269,Diesel,Dealer,Automatic,3
+Tata Prima,2009,26.6,37.44,253114,Diesel,Individual,Automatic,0
+Hino 500,2012,23.28,43.42,231996,Diesel,Individual,Manual,2
+Actros,2012,16.77,25.75,209914,Diesel,Individual,Manual,2
+Actros,2012,28.71,21.5,198530,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2016,28.24,46.21,137367,Diesel,Individual,Manual,1
+Kenworth T680,2012,14.19,22.27,115382,Diesel,Individual,Manual,3
+DAF XF,2015,10.79,27.4,124319,Diesel,Dealer,Automatic,2
+Actros,2018,24.83,40.86,61170,Diesel,Dealer,Manual,2
+Isuzu Giga,2012,26.55,32.28,169952,Diesel,Individual,Automatic,1
+Tata Prima,2014,29.36,46.29,130145,Diesel,Individual,Automatic,0
+Isuzu Giga,2011,27.8,28.94,155626,Diesel,Dealer,Automatic,0
+Hino 500,2021,22.01,20.36,226014,Diesel,Dealer,Automatic,2
+Actros,2008,20.6,29.02,269643,Diesel,Individual,Automatic,2
+DAF XF,2017,10.56,37.34,66208,Diesel,Individual,Automatic,3
+Hino 500,2008,14.93,31.28,216250,Diesel,Dealer,Manual,3
+Volvo FMX,2009,19.19,36.05,260244,Diesel,Individual,Manual,1
+Volvo FMX,2008,22.57,46.3,190111,Diesel,Dealer,Manual,2
+Isuzu Giga,2022,21.15,47.37,64990,Diesel,Individual,Automatic,0
+Kenworth T680,2010,24.85,27.98,187513,Diesel,Dealer,Automatic,3
+Scania,2006,15.6,33.86,255293,Diesel,Individual,Automatic,1
+Kenworth T680,2015,21.3,36.47,179327,Diesel,Individual,Manual,1
+Freightliner Cascadia,2018,11.76,48.47,129314,Diesel,Individual,Manual,0
+Kenworth T680,2009,18.27,49.96,227031,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2010,25.0,27.06,76862,Diesel,Individual,Automatic,0
+Freightliner Cascadia,2014,23.87,41.81,208345,Diesel,Dealer,Automatic,1
+DAF XF,2012,29.81,31.34,143949,Diesel,Dealer,Automatic,2
+Actros,2018,15.56,20.24,223572,Diesel,Dealer,Automatic,0
+DAF XF,2007,19.96,20.28,180223,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2016,16.59,33.82,53956,Diesel,Individual,Automatic,2
+Hino 500,2020,18.81,34.65,253161,Diesel,Individual,Automatic,2
+Volvo FMX,2021,27.14,20.68,138789,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2005,23.68,40.61,139451,Diesel,Dealer,Automatic,3
+DAF XF,2014,27.65,28.82,167782,Diesel,Individual,Manual,1
+Hino 500,2014,14.07,36.8,52365,Diesel,Dealer,Automatic,0
+DAF XF,2006,27.47,29.03,122204,Diesel,Dealer,Automatic,2
+Kenworth T680,2013,11.2,25.01,186072,Diesel,Dealer,Automatic,3
+Tata Prima,2017,27.77,32.22,107072,Diesel,Individual,Manual,3
+Isuzu Giga,2020,16.58,26.97,102499,Diesel,Dealer,Automatic,0
+Scania,2022,16.29,36.04,119211,Diesel,Individual,Manual,3
+DAF XF,2016,20.24,25.96,193979,Diesel,Individual,Automatic,1
+Scania,2012,28.81,35.25,198408,Diesel,Individual,Automatic,0
+MAN TGS,2021,10.96,24.72,135220,Diesel,Dealer,Automatic,2
+DAF XF,2019,17.04,40.13,143847,Diesel,Individual,Automatic,1
+Tata Prima,2014,27.13,42.62,233403,Diesel,Dealer,Automatic,2
+Scania,2019,17.92,23.31,261744,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2019,13.98,34.03,159459,Diesel,Dealer,Automatic,3
+DAF XF,2011,18.5,22.13,127755,Diesel,Dealer,Automatic,1
+Actros,2017,17.71,37.95,118783,Diesel,Individual,Automatic,1
+Isuzu Giga,2021,28.31,27.93,251023,Diesel,Individual,Manual,0
+Tata Prima,2013,25.24,35.83,233581,Diesel,Individual,Manual,1
+Scania,2012,20.1,35.52,177851,Diesel,Individual,Manual,0
+Tata Prima,2022,29.77,47.73,56472,Diesel,Dealer,Manual,1
+Hino 500,2017,19.31,36.47,203452,Diesel,Dealer,Automatic,2
+Isuzu Giga,2020,11.16,37.49,153152,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2013,15.25,32.05,208352,Diesel,Dealer,Manual,1
+DAF XF,2016,18.72,48.47,202931,Diesel,Individual,Manual,0
+DAF XF,2016,13.14,43.32,280413,Diesel,Individual,Manual,3
+DAF XF,2010,28.95,28.56,229474,Diesel,Dealer,Manual,3
+Isuzu Giga,2011,25.34,45.33,189334,Diesel,Dealer,Automatic,0
+Actros,2007,15.37,32.97,192138,Diesel,Dealer,Manual,0
+MAN TGS,2020,21.82,44.86,196626,Diesel,Dealer,Automatic,2
+Volvo FMX,2022,24.43,44.69,57008,Diesel,Individual,Automatic,1
+Kenworth T680,2020,28.83,25.67,137851,Diesel,Dealer,Automatic,3
+Scania,2011,27.63,41.03,130799,Diesel,Individual,Manual,3
+Actros,2008,20.3,28.72,66238,Diesel,Individual,Manual,1
+Freightliner Cascadia,2012,25.49,28.92,285018,Diesel,Dealer,Automatic,3
+Scania,2017,21.24,28.89,263097,Diesel,Dealer,Manual,3
+DAF XF,2017,21.05,41.77,67153,Diesel,Individual,Manual,0
+Tata Prima,2021,12.29,26.89,109353,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2021,12.52,20.03,102092,Diesel,Dealer,Automatic,3
+Scania,2009,20.59,41.46,293907,Diesel,Individual,Manual,3
+DAF XF,2010,15.38,25.14,224224,Diesel,Dealer,Automatic,1
+Scania,2017,10.42,23.13,99104,Diesel,Dealer,Manual,2
+Tata Prima,2018,24.46,27.13,205355,Diesel,Individual,Manual,0
+DAF XF,2008,10.65,31.4,227501,Diesel,Individual,Automatic,2
+MAN TGS,2011,21.91,34.28,258295,Diesel,Dealer,Automatic,3
+Actros,2012,20.78,21.34,269606,Diesel,Dealer,Manual,3
+Hino 500,2017,29.38,49.12,236029,Diesel,Individual,Automatic,3
+Kenworth T680,2010,19.68,41.48,78887,Diesel,Individual,Manual,2
+Isuzu Giga,2010,11.27,29.7,227244,Diesel,Individual,Automatic,1
+Kenworth T680,2007,21.03,29.56,54355,Diesel,Individual,Manual,1
+Freightliner Cascadia,2007,26.82,33.46,83701,Diesel,Dealer,Automatic,0
+Kenworth T680,2017,29.94,38.79,222606,Diesel,Dealer,Manual,2
+DAF XF,2006,18.61,24.39,121442,Diesel,Dealer,Manual,1
+MAN TGS,2020,16.41,25.67,242346,Diesel,Individual,Automatic,0
+Hino 500,2010,28.13,45.78,259180,Diesel,Individual,Manual,3
+Actros,2012,13.82,27.69,62279,Diesel,Dealer,Manual,3
+Actros,2012,22.31,31.41,224563,Diesel,Individual,Manual,0
+Tata Prima,2010,18.11,46.14,170738,Diesel,Individual,Manual,1
+Isuzu Giga,2018,10.82,39.89,257219,Diesel,Individual,Manual,2
+Scania,2007,16.95,30.25,189333,Diesel,Individual,Automatic,0
+MAN TGS,2014,15.3,40.51,185546,Diesel,Individual,Manual,1
+Scania,2007,23.72,20.59,141414,Diesel,Individual,Manual,0
+Hino 500,2016,28.98,42.07,78390,Diesel,Dealer,Manual,1
+Kenworth T680,2021,15.36,34.61,207997,Diesel,Dealer,Automatic,3
+Actros,2009,26.23,44.4,132174,Diesel,Dealer,Automatic,0
+Hino 500,2013,11.11,48.64,240123,Diesel,Dealer,Manual,2
+Kenworth T680,2011,20.76,47.77,270079,Diesel,Individual,Manual,0
+Actros,2008,11.41,47.28,54787,Diesel,Dealer,Automatic,3
+Kenworth T680,2017,28.68,35.37,292951,Diesel,Dealer,Automatic,3
+Isuzu Giga,2017,25.33,30.8,254470,Diesel,Dealer,Manual,1
+MAN TGS,2014,23.16,33.95,239249,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2022,26.48,40.7,93724,Diesel,Individual,Manual,1
+Hino 500,2021,22.95,46.52,60663,Diesel,Individual,Manual,3
+Hino 500,2017,29.38,26.21,197192,Diesel,Dealer,Manual,1
+Volvo FMX,2021,24.28,47.55,203812,Diesel,Dealer,Automatic,2
+DAF XF,2008,28.49,44.46,283118,Diesel,Individual,Manual,1
+Isuzu Giga,2005,20.34,49.37,183107,Diesel,Individual,Manual,1
+Isuzu Giga,2005,12.34,46.41,150271,Diesel,Dealer,Automatic,2
+Scania,2019,20.56,28.4,238515,Diesel,Individual,Manual,1
+Kenworth T680,2017,12.54,23.18,117388,Diesel,Individual,Manual,1
+DAF XF,2021,21.85,23.37,102335,Diesel,Dealer,Manual,2
+MAN TGS,2012,19.65,28.74,93315,Diesel,Individual,Automatic,3
+MAN TGS,2022,22.45,38.43,245237,Diesel,Dealer,Automatic,0
+Isuzu Giga,2017,10.2,44.13,154922,Diesel,Dealer,Manual,1
+MAN TGS,2018,13.9,46.98,96627,Diesel,Individual,Automatic,3
+Volvo FMX,2012,19.83,38.71,189375,Diesel,Individual,Manual,0
+Hino 500,2012,29.01,20.17,290726,Diesel,Individual,Manual,2
+Tata Prima,2019,17.67,25.59,99334,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2017,18.49,22.99,236964,Diesel,Individual,Automatic,1
+Scania,2011,24.29,30.9,242268,Diesel,Individual,Manual,2
+Kenworth T680,2009,22.08,35.04,115700,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2021,15.98,21.3,89726,Diesel,Individual,Automatic,0
+Kenworth T680,2020,18.22,30.45,281513,Diesel,Dealer,Automatic,0
+Actros,2006,14.35,25.38,256823,Diesel,Individual,Manual,2
+Freightliner Cascadia,2022,29.32,39.41,230678,Diesel,Individual,Manual,1
+Tata Prima,2021,12.61,33.93,298045,Diesel,Individual,Automatic,3
+Isuzu Giga,2011,17.44,34.86,80694,Diesel,Individual,Manual,1
+Volvo FMX,2017,10.52,32.83,212325,Diesel,Individual,Manual,2
+Hino 500,2022,14.44,48.68,205302,Diesel,Dealer,Automatic,3
+Hino 500,2018,25.61,26.44,235046,Diesel,Dealer,Manual,0
+Volvo FMX,2022,14.02,35.5,113545,Diesel,Dealer,Automatic,0
+DAF XF,2017,11.6,42.08,197997,Diesel,Individual,Manual,3
+Actros,2015,19.49,36.71,56033,Diesel,Individual,Manual,3
+Kenworth T680,2020,10.2,47.87,112461,Diesel,Individual,Automatic,2
+Tata Prima,2021,11.7,31.34,52665,Diesel,Dealer,Manual,1
+MAN TGS,2012,26.15,33.91,77025,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2019,25.43,22.66,204605,Diesel,Individual,Manual,1
+Actros,2013,28.3,38.27,226969,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2014,27.09,28.65,127661,Diesel,Individual,Manual,1
+Tata Prima,2016,23.66,24.81,170473,Diesel,Individual,Automatic,0
+Scania,2005,11.05,36.34,70998,Diesel,Dealer,Manual,1
+Scania,2013,25.66,35.97,111248,Diesel,Dealer,Manual,2
+Actros,2019,26.91,22.28,154493,Diesel,Dealer,Automatic,0
+Isuzu Giga,2005,25.98,40.95,73057,Diesel,Dealer,Automatic,2
+Tata Prima,2016,20.17,38.71,129244,Diesel,Individual,Manual,0
+Tata Prima,2007,14.66,25.67,264680,Diesel,Individual,Automatic,0
+Volvo FMX,2015,26.91,34.08,251703,Diesel,Dealer,Automatic,0
+Isuzu Giga,2006,24.54,41.61,147031,Diesel,Dealer,Automatic,1
+Kenworth T680,2020,29.62,35.88,162713,Diesel,Dealer,Automatic,0
+Kenworth T680,2013,13.11,31.86,155887,Diesel,Dealer,Manual,2
+MAN TGS,2019,14.51,29.67,117173,Diesel,Individual,Automatic,1
+Hino 500,2016,14.24,38.31,261278,Diesel,Individual,Manual,1
+Scania,2005,25.85,48.17,88734,Diesel,Individual,Manual,0
+Kenworth T680,2017,13.74,40.15,112072,Diesel,Individual,Manual,3
+Isuzu Giga,2018,11.33,22.24,245247,Diesel,Individual,Automatic,1
+Tata Prima,2012,29.97,33.82,284046,Diesel,Individual,Automatic,0
+Kenworth T680,2012,10.5,46.72,244855,Diesel,Individual,Manual,2
+Tata Prima,2016,26.7,22.83,144194,Diesel,Dealer,Manual,3
+Kenworth T680,2005,17.31,49.67,251811,Diesel,Individual,Automatic,1
+Scania,2015,26.83,48.47,268126,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2012,21.09,22.35,232114,Diesel,Dealer,Manual,1
+Kenworth T680,2014,28.03,48.0,233429,Diesel,Dealer,Automatic,3
+Isuzu Giga,2015,28.52,30.89,189741,Diesel,Individual,Automatic,3
+Kenworth T680,2011,10.18,45.34,163272,Diesel,Individual,Manual,2
+Hino 500,2015,11.51,32.55,117902,Diesel,Individual,Automatic,3
+Scania,2021,15.01,33.23,172247,Diesel,Individual,Automatic,2
+Isuzu Giga,2005,23.39,39.03,199982,Diesel,Dealer,Manual,0
+Volvo FMX,2012,27.77,43.23,106959,Diesel,Individual,Automatic,1
+Isuzu Giga,2010,19.2,21.01,146623,Diesel,Dealer,Manual,2
+Hino 500,2022,22.14,37.79,181438,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2010,13.77,25.6,98415,Diesel,Individual,Manual,2
+Scania,2009,26.1,30.38,174716,Diesel,Dealer,Automatic,1
+Volvo FMX,2017,29.35,30.44,171209,Diesel,Dealer,Manual,2
+Hino 500,2012,15.37,34.07,59907,Diesel,Dealer,Automatic,1
+Hino 500,2013,19.9,30.02,285982,Diesel,Individual,Automatic,0
+Actros,2021,11.72,23.22,145825,Diesel,Individual,Automatic,1
+Scania,2007,21.18,24.37,82780,Diesel,Dealer,Manual,0
+Isuzu Giga,2015,20.06,21.0,238951,Diesel,Individual,Automatic,0
+Tata Prima,2021,12.89,34.11,266231,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2006,18.84,48.63,85085,Diesel,Individual,Automatic,3
+Tata Prima,2012,16.68,23.47,246571,Diesel,Dealer,Automatic,1
+Isuzu Giga,2011,20.44,48.39,70426,Diesel,Dealer,Automatic,3
+Isuzu Giga,2021,21.71,42.0,229269,Diesel,Individual,Automatic,3
+Scania,2010,10.17,39.12,57485,Diesel,Dealer,Automatic,1
+Isuzu Giga,2010,25.22,39.36,99527,Diesel,Individual,Automatic,0
+Actros,2006,24.26,44.8,245672,Diesel,Individual,Manual,3
+Volvo FMX,2010,17.33,23.21,174604,Diesel,Dealer,Manual,3
+Isuzu Giga,2009,11.06,35.14,279632,Diesel,Dealer,Automatic,2
+Tata Prima,2008,25.1,40.91,296209,Diesel,Individual,Automatic,1
+Isuzu Giga,2021,29.1,37.6,141005,Diesel,Individual,Automatic,3
+Actros,2015,14.8,44.98,262511,Diesel,Dealer,Automatic,1
+Kenworth T680,2008,16.47,22.17,249820,Diesel,Dealer,Automatic,1
+Kenworth T680,2017,13.68,40.72,108528,Diesel,Dealer,Manual,3
+Hino 500,2021,21.54,36.02,285551,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2013,13.1,31.37,170631,Diesel,Individual,Automatic,0
+MAN TGS,2008,17.12,30.21,77799,Diesel,Individual,Manual,3
+Volvo FMX,2018,23.94,38.62,227411,Diesel,Dealer,Manual,3
+DAF XF,2007,21.2,46.73,197159,Diesel,Dealer,Manual,3
+Hino 500,2018,17.73,34.89,188518,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2012,18.4,44.74,231532,Diesel,Individual,Automatic,2
+Kenworth T680,2005,21.24,32.06,144817,Diesel,Dealer,Automatic,2
+Tata Prima,2014,10.12,23.07,108260,Diesel,Individual,Automatic,2
+DAF XF,2022,11.57,21.85,195949,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2020,27.63,21.54,205795,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2012,11.56,31.4,62943,Diesel,Dealer,Automatic,1
+Hino 500,2005,24.14,30.12,191378,Diesel,Individual,Automatic,1
+DAF XF,2016,28.4,41.54,217856,Diesel,Individual,Automatic,3
+Scania,2012,15.41,42.28,299700,Diesel,Dealer,Manual,0
+MAN TGS,2020,17.41,21.53,171401,Diesel,Dealer,Automatic,1
+Scania,2022,21.38,26.63,201527,Diesel,Individual,Automatic,0
+DAF XF,2008,27.63,28.23,271099,Diesel,Dealer,Automatic,3
+Scania,2010,28.84,36.43,252520,Diesel,Individual,Automatic,2
+Actros,2016,24.79,24.34,211046,Diesel,Individual,Manual,0
+Kenworth T680,2013,11.73,24.02,77371,Diesel,Individual,Manual,1
+Actros,2019,23.38,48.31,148746,Diesel,Dealer,Manual,1
+Isuzu Giga,2020,18.21,44.13,151248,Diesel,Dealer,Automatic,1
+Scania,2016,19.41,25.42,185008,Diesel,Dealer,Manual,2
+Isuzu Giga,2018,10.98,32.2,214238,Diesel,Dealer,Manual,0
+Tata Prima,2017,13.82,30.67,75727,Diesel,Individual,Automatic,0
+Volvo FMX,2006,25.81,43.73,164000,Diesel,Dealer,Automatic,1
+Tata Prima,2007,19.08,35.31,113969,Diesel,Individual,Manual,0
+DAF XF,2014,16.03,23.84,209440,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2013,17.68,42.17,118531,Diesel,Dealer,Manual,0
+Kenworth T680,2012,27.09,31.91,89097,Diesel,Dealer,Manual,2
+Scania,2014,24.98,27.89,216056,Diesel,Dealer,Automatic,2
+Hino 500,2007,15.45,31.26,100859,Diesel,Dealer,Automatic,3
+Volvo FMX,2009,12.35,34.93,225363,Diesel,Individual,Manual,3
+MAN TGS,2007,15.04,30.29,246300,Diesel,Dealer,Manual,3
+MAN TGS,2020,28.42,27.26,273171,Diesel,Dealer,Manual,0
+MAN TGS,2021,21.63,31.96,203222,Diesel,Dealer,Automatic,2
+Scania,2019,20.67,20.58,203133,Diesel,Dealer,Automatic,2
+MAN TGS,2007,21.93,43.17,210250,Diesel,Dealer,Automatic,2
+Actros,2016,17.32,25.13,281944,Diesel,Individual,Manual,1
+Volvo FMX,2013,26.14,21.32,106790,Diesel,Dealer,Automatic,0
+Actros,2016,20.47,39.61,115696,Diesel,Individual,Manual,0
+Freightliner Cascadia,2019,12.33,43.22,65648,Diesel,Dealer,Manual,3
+Volvo FMX,2006,12.58,44.41,111779,Diesel,Individual,Automatic,1
+Actros,2022,20.74,34.81,156371,Diesel,Dealer,Manual,1
+Volvo FMX,2016,28.73,26.16,86672,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2008,16.17,42.12,119109,Diesel,Individual,Automatic,3
+Isuzu Giga,2020,27.39,40.99,241593,Diesel,Dealer,Manual,0
+Scania,2020,25.28,27.39,84593,Diesel,Individual,Manual,1
+Scania,2005,14.96,47.1,194858,Diesel,Dealer,Automatic,2
+MAN TGS,2006,10.73,23.13,275108,Diesel,Individual,Automatic,0
+Tata Prima,2007,12.04,49.48,59815,Diesel,Individual,Automatic,2
+MAN TGS,2021,24.57,45.81,203038,Diesel,Individual,Automatic,0
+DAF XF,2005,13.99,40.64,194866,Diesel,Dealer,Automatic,2
+Actros,2010,17.43,48.16,212495,Diesel,Individual,Automatic,0
+Volvo FMX,2019,20.03,41.67,280552,Diesel,Dealer,Automatic,3
+Tata Prima,2018,24.51,25.71,71302,Diesel,Individual,Manual,0
+Freightliner Cascadia,2019,12.26,33.26,242136,Diesel,Individual,Automatic,0
+DAF XF,2018,18.13,22.15,267872,Diesel,Individual,Manual,0
+Freightliner Cascadia,2009,19.7,31.69,135140,Diesel,Dealer,Manual,2
+Scania,2010,20.82,42.25,208907,Diesel,Dealer,Automatic,1
+Scania,2021,26.37,31.59,123356,Diesel,Dealer,Automatic,0
+MAN TGS,2015,13.43,29.91,99282,Diesel,Individual,Automatic,0
+Actros,2020,26.16,37.86,178451,Diesel,Dealer,Automatic,3
+Tata Prima,2016,23.86,46.17,171347,Diesel,Dealer,Automatic,0
+Kenworth T680,2019,21.12,21.43,233786,Diesel,Individual,Manual,3
+DAF XF,2008,23.99,31.56,248107,Diesel,Individual,Manual,0
+DAF XF,2022,18.24,24.75,73814,Diesel,Dealer,Automatic,2
+MAN TGS,2007,12.77,40.86,205161,Diesel,Dealer,Automatic,1
+Scania,2012,23.32,23.17,254234,Diesel,Dealer,Automatic,1
+MAN TGS,2007,20.49,39.94,236903,Diesel,Individual,Automatic,1
+Volvo FMX,2012,22.79,28.59,213818,Diesel,Individual,Manual,2
+Tata Prima,2022,16.76,25.97,131673,Diesel,Individual,Manual,3
+Actros,2014,28.14,48.09,101940,Diesel,Individual,Manual,1
+Isuzu Giga,2021,21.75,20.56,136796,Diesel,Individual,Automatic,2
+Hino 500,2012,11.71,33.13,86476,Diesel,Dealer,Automatic,2
+Hino 500,2015,19.0,20.65,207355,Diesel,Dealer,Automatic,0
+MAN TGS,2009,25.13,34.51,182841,Diesel,Dealer,Manual,3
+Volvo FMX,2017,25.88,35.03,92278,Diesel,Individual,Manual,2
+Tata Prima,2009,19.89,29.65,228066,Diesel,Individual,Manual,3
+Kenworth T680,2017,27.89,23.96,243970,Diesel,Dealer,Automatic,1
+Hino 500,2010,15.35,31.29,65634,Diesel,Dealer,Manual,1
+Tata Prima,2009,18.21,40.17,286107,Diesel,Dealer,Automatic,1
+Actros,2013,27.97,43.47,176259,Diesel,Individual,Manual,0
+Freightliner Cascadia,2020,27.93,35.92,192037,Diesel,Individual,Automatic,0
+Volvo FMX,2006,23.71,37.7,208638,Diesel,Individual,Automatic,3
+Scania,2005,27.18,26.02,102196,Diesel,Individual,Automatic,3
+Tata Prima,2012,11.78,28.62,148679,Diesel,Individual,Automatic,0
+Actros,2015,27.3,24.86,229357,Diesel,Dealer,Manual,2
+Kenworth T680,2016,16.41,27.48,180861,Diesel,Dealer,Manual,3
+Isuzu Giga,2016,13.57,26.75,236571,Diesel,Individual,Manual,3
+Scania,2011,14.79,35.58,69420,Diesel,Individual,Automatic,1
+Isuzu Giga,2017,18.36,36.88,206308,Diesel,Dealer,Manual,3
+Kenworth T680,2012,15.02,48.35,56218,Diesel,Individual,Automatic,3
+Actros,2013,16.41,25.87,174283,Diesel,Individual,Manual,2
+Hino 500,2011,12.7,39.25,230964,Diesel,Dealer,Manual,3
+Isuzu Giga,2019,15.92,44.52,255103,Diesel,Individual,Automatic,2
+Scania,2006,21.45,36.81,280461,Diesel,Individual,Automatic,1
+MAN TGS,2016,18.84,27.65,114057,Diesel,Dealer,Automatic,0
+DAF XF,2005,16.93,27.88,128609,Diesel,Individual,Manual,1
+Tata Prima,2012,24.93,21.18,257979,Diesel,Individual,Automatic,2
+Hino 500,2009,27.87,29.16,264202,Diesel,Dealer,Manual,2
+Isuzu Giga,2019,25.14,42.34,192298,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2005,16.64,21.43,173108,Diesel,Individual,Manual,3
+Tata Prima,2005,24.89,26.58,233343,Diesel,Dealer,Automatic,0
+MAN TGS,2014,13.04,41.19,60046,Diesel,Dealer,Manual,2
+Kenworth T680,2014,12.61,43.48,296027,Diesel,Individual,Automatic,2
+DAF XF,2019,16.91,33.66,167462,Diesel,Dealer,Automatic,1
+Actros,2021,26.15,40.94,159345,Diesel,Individual,Manual,0
+MAN TGS,2010,14.93,31.64,87117,Diesel,Dealer,Manual,1
+MAN TGS,2007,11.27,24.8,179980,Diesel,Dealer,Manual,3
+Kenworth T680,2017,12.63,31.94,186037,Diesel,Individual,Manual,3
+Volvo FMX,2020,27.17,37.4,240550,Diesel,Individual,Automatic,1
+Kenworth T680,2012,22.68,48.44,292868,Diesel,Individual,Automatic,3
+Volvo FMX,2019,15.06,22.06,259944,Diesel,Dealer,Automatic,1
+Volvo FMX,2021,21.11,35.22,238349,Diesel,Individual,Automatic,2
+Hino 500,2021,20.55,29.87,266451,Diesel,Individual,Automatic,2
+Hino 500,2017,23.11,35.25,240685,Diesel,Dealer,Automatic,3
+Scania,2021,14.66,20.72,67373,Diesel,Dealer,Automatic,0
+Isuzu Giga,2010,27.29,29.39,95452,Diesel,Dealer,Automatic,2
+Isuzu Giga,2021,16.19,44.6,231161,Diesel,Individual,Automatic,3
+Actros,2020,23.88,36.62,56654,Diesel,Dealer,Manual,0
+Isuzu Giga,2018,10.32,33.52,212352,Diesel,Dealer,Manual,3
+Hino 500,2017,17.45,28.57,237213,Diesel,Individual,Automatic,1
+Scania,2010,17.03,28.94,173319,Diesel,Dealer,Automatic,3
+Scania,2007,20.87,31.49,155646,Diesel,Dealer,Manual,1
+Volvo FMX,2018,11.45,45.07,269015,Diesel,Individual,Manual,2
+Kenworth T680,2018,25.8,49.02,248966,Diesel,Dealer,Manual,2
+Actros,2019,14.36,33.16,76583,Diesel,Individual,Automatic,3
+Volvo FMX,2012,23.54,31.8,299105,Diesel,Individual,Manual,0
+Kenworth T680,2019,26.06,45.4,144242,Diesel,Individual,Manual,3
+Isuzu Giga,2017,21.24,32.81,187432,Diesel,Individual,Manual,3
+Volvo FMX,2021,24.82,36.56,103968,Diesel,Individual,Manual,2
+Tata Prima,2007,23.24,26.93,184815,Diesel,Dealer,Manual,2
+Isuzu Giga,2010,17.11,42.31,188231,Diesel,Individual,Automatic,3
+Kenworth T680,2009,26.18,35.96,213223,Diesel,Individual,Manual,2
+Actros,2021,15.89,44.27,181590,Diesel,Individual,Automatic,1
+Kenworth T680,2006,21.42,43.42,66652,Diesel,Individual,Manual,3
+Volvo FMX,2019,24.91,26.45,259533,Diesel,Dealer,Manual,2
+Volvo FMX,2009,17.58,41.47,163114,Diesel,Dealer,Manual,3
+MAN TGS,2010,16.06,44.0,295615,Diesel,Dealer,Manual,2
+Actros,2010,19.19,30.38,252083,Diesel,Individual,Manual,1
+Freightliner Cascadia,2022,26.36,25.18,152489,Diesel,Dealer,Automatic,1
+Isuzu Giga,2022,28.6,20.08,284537,Diesel,Dealer,Automatic,3
+Scania,2008,20.9,33.53,223420,Diesel,Individual,Automatic,1
+Actros,2021,23.23,30.57,256494,Diesel,Individual,Automatic,1
+Scania,2018,28.07,36.65,127001,Diesel,Dealer,Automatic,2
+Actros,2018,11.97,25.64,174269,Diesel,Dealer,Automatic,3
+Actros,2017,14.64,45.79,299625,Diesel,Dealer,Automatic,2
+Kenworth T680,2011,24.18,27.73,126757,Diesel,Dealer,Manual,2
+Actros,2016,26.47,26.79,74395,Diesel,Individual,Automatic,0
+MAN TGS,2019,27.14,34.42,183407,Diesel,Individual,Manual,1
+Freightliner Cascadia,2015,18.3,34.97,151978,Diesel,Individual,Manual,2
+Volvo FMX,2019,11.79,26.45,251184,Diesel,Individual,Automatic,2
+DAF XF,2016,18.76,28.16,294348,Diesel,Individual,Manual,2
+Scania,2007,14.61,25.09,181572,Diesel,Dealer,Manual,1
+Volvo FMX,2021,15.82,41.55,174541,Diesel,Individual,Automatic,1
+DAF XF,2007,25.45,43.1,273283,Diesel,Individual,Manual,1
+Freightliner Cascadia,2008,11.51,33.87,58083,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2007,26.55,41.42,156598,Diesel,Individual,Manual,2
+Scania,2020,18.55,42.08,262328,Diesel,Dealer,Automatic,1
+Scania,2016,21.92,24.15,186615,Diesel,Individual,Manual,2
+Freightliner Cascadia,2012,11.79,48.99,298506,Diesel,Individual,Automatic,3
+DAF XF,2021,16.75,44.63,249884,Diesel,Individual,Manual,0
+Actros,2011,11.79,26.13,233309,Diesel,Dealer,Automatic,3
+Isuzu Giga,2015,29.23,25.58,146171,Diesel,Individual,Manual,1
+Tata Prima,2022,26.15,23.77,170423,Diesel,Dealer,Manual,1
+Volvo FMX,2005,19.19,24.15,270788,Diesel,Individual,Automatic,3
+Kenworth T680,2007,14.47,42.44,56613,Diesel,Individual,Manual,2
+Volvo FMX,2008,28.67,34.09,160033,Diesel,Dealer,Automatic,1
+Kenworth T680,2017,16.89,43.49,247935,Diesel,Dealer,Manual,1
+DAF XF,2010,13.22,42.39,221612,Diesel,Individual,Manual,3
+Kenworth T680,2018,21.26,38.14,126202,Diesel,Dealer,Automatic,2
+Scania,2009,28.88,40.59,207327,Diesel,Individual,Manual,3
+Isuzu Giga,2020,10.08,20.55,135666,Diesel,Individual,Automatic,3
+Isuzu Giga,2019,14.76,29.35,72068,Diesel,Dealer,Manual,2
+Scania,2019,28.77,39.13,99057,Diesel,Dealer,Manual,2
+MAN TGS,2008,13.42,20.28,68946,Diesel,Dealer,Manual,0
+DAF XF,2012,12.26,20.99,201619,Diesel,Individual,Manual,3
+MAN TGS,2020,21.4,45.56,135237,Diesel,Dealer,Automatic,2
+MAN TGS,2020,27.24,40.52,298196,Diesel,Individual,Automatic,1
+Volvo FMX,2008,19.54,27.96,55769,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2017,29.89,40.64,205955,Diesel,Dealer,Manual,3
+Volvo FMX,2017,23.58,43.77,111340,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2006,11.48,29.2,129199,Diesel,Dealer,Manual,0
+Tata Prima,2007,29.86,21.08,154222,Diesel,Dealer,Automatic,0
+Kenworth T680,2012,18.16,47.98,296849,Diesel,Individual,Manual,1
+Freightliner Cascadia,2019,15.75,30.36,283931,Diesel,Dealer,Manual,0
+Scania,2015,21.16,23.19,216234,Diesel,Dealer,Automatic,3
+Volvo FMX,2013,16.09,34.76,269460,Diesel,Individual,Manual,2
+DAF XF,2011,11.73,43.05,266996,Diesel,Individual,Automatic,0
+Kenworth T680,2017,10.03,26.65,83434,Diesel,Individual,Automatic,0
+Tata Prima,2006,18.99,28.08,72102,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2012,26.74,27.28,71536,Diesel,Dealer,Automatic,1
+Tata Prima,2011,21.45,49.75,258963,Diesel,Dealer,Automatic,1
+DAF XF,2016,29.98,25.92,248842,Diesel,Individual,Automatic,2
+MAN TGS,2011,15.74,37.27,154639,Diesel,Dealer,Manual,3
+Isuzu Giga,2014,15.61,47.76,231460,Diesel,Individual,Automatic,1
+DAF XF,2020,13.19,24.41,100775,Diesel,Individual,Automatic,2
+Hino 500,2007,13.28,49.13,81147,Diesel,Dealer,Manual,2
+DAF XF,2014,15.7,48.42,100526,Diesel,Dealer,Automatic,1
+Tata Prima,2010,25.86,46.54,204731,Diesel,Individual,Manual,3
+Scania,2022,28.12,26.44,290879,Diesel,Dealer,Automatic,0
+Volvo FMX,2022,29.5,39.02,154663,Diesel,Individual,Automatic,1
+Scania,2009,14.65,42.83,263168,Diesel,Individual,Automatic,0
+Tata Prima,2011,27.63,49.58,162180,Diesel,Individual,Manual,0
+Volvo FMX,2006,16.57,25.41,174233,Diesel,Individual,Manual,3
+Hino 500,2015,12.26,42.98,73088,Diesel,Dealer,Automatic,3
+Isuzu Giga,2017,27.4,30.16,118464,Diesel,Individual,Automatic,2
+Kenworth T680,2009,22.72,25.27,155921,Diesel,Individual,Manual,3
+Tata Prima,2010,13.29,32.64,109998,Diesel,Individual,Manual,2
+Freightliner Cascadia,2018,18.6,43.82,90382,Diesel,Dealer,Manual,1
+Tata Prima,2016,15.75,33.95,78184,Diesel,Individual,Automatic,0
+Tata Prima,2008,24.74,36.13,201171,Diesel,Individual,Manual,3
+Volvo FMX,2010,19.07,49.85,250882,Diesel,Dealer,Manual,1
+Actros,2014,29.79,31.97,271578,Diesel,Individual,Manual,2
+DAF XF,2022,11.09,38.46,272352,Diesel,Individual,Manual,3
+Actros,2019,17.1,30.96,87739,Diesel,Individual,Manual,0
+Hino 500,2012,19.64,31.78,177937,Diesel,Individual,Manual,1
+Freightliner Cascadia,2013,20.06,40.87,189461,Diesel,Dealer,Manual,3
+Isuzu Giga,2009,16.32,48.14,67352,Diesel,Dealer,Automatic,3
+MAN TGS,2014,24.58,36.27,176788,Diesel,Dealer,Manual,1
+Hino 500,2010,27.49,43.05,167843,Diesel,Individual,Automatic,2
+MAN TGS,2020,28.77,22.68,202220,Diesel,Dealer,Automatic,2
+MAN TGS,2007,26.1,26.33,81828,Diesel,Dealer,Manual,3
+Isuzu Giga,2014,27.01,35.06,118040,Diesel,Individual,Automatic,2
+Scania,2015,21.01,20.6,237867,Diesel,Dealer,Automatic,2
+Actros,2015,26.52,27.59,239692,Diesel,Dealer,Manual,1
+Tata Prima,2021,16.07,35.52,285382,Diesel,Dealer,Automatic,2
+Kenworth T680,2008,17.97,20.45,144279,Diesel,Individual,Manual,2
+MAN TGS,2008,16.34,27.94,144430,Diesel,Individual,Manual,1
+Freightliner Cascadia,2021,19.35,35.42,277603,Diesel,Dealer,Manual,3
+Hino 500,2013,15.71,37.19,238186,Diesel,Dealer,Manual,3
+Scania,2009,29.23,47.77,221783,Diesel,Individual,Manual,1
+MAN TGS,2010,16.26,39.36,165957,Diesel,Individual,Manual,0
+Scania,2007,11.96,32.44,67748,Diesel,Individual,Manual,1
+Scania,2005,20.54,47.91,138636,Diesel,Individual,Automatic,0
+MAN TGS,2020,11.14,43.55,214763,Diesel,Dealer,Manual,2
+Volvo FMX,2015,12.21,26.0,165158,Diesel,Individual,Automatic,3
+DAF XF,2017,14.39,23.93,269589,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2014,19.29,40.27,246354,Diesel,Individual,Manual,0
+Tata Prima,2007,18.67,36.8,279316,Diesel,Individual,Manual,2
+Tata Prima,2013,25.99,43.69,241432,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2016,24.79,42.16,60246,Diesel,Individual,Automatic,2
+Volvo FMX,2018,18.53,38.76,291851,Diesel,Dealer,Automatic,3
+Tata Prima,2005,16.67,49.59,109395,Diesel,Dealer,Automatic,3
+Scania,2022,16.33,36.01,213558,Diesel,Dealer,Automatic,2
+Isuzu Giga,2021,25.48,23.39,211412,Diesel,Individual,Automatic,0
+Hino 500,2013,11.04,44.85,265946,Diesel,Dealer,Manual,1
+Actros,2013,10.26,27.56,100300,Diesel,Individual,Manual,3
+Tata Prima,2014,25.91,43.32,184158,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2019,19.54,48.71,272143,Diesel,Dealer,Automatic,1
+Isuzu Giga,2009,12.62,40.9,64860,Diesel,Individual,Automatic,1
+MAN TGS,2019,14.71,37.88,67013,Diesel,Individual,Automatic,2
+DAF XF,2006,28.65,33.81,188479,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2017,27.19,30.93,83542,Diesel,Individual,Manual,2
+Scania,2020,24.2,30.59,74935,Diesel,Individual,Manual,1
+DAF XF,2019,19.64,39.09,288085,Diesel,Dealer,Manual,2
+Hino 500,2014,20.41,42.54,99079,Diesel,Dealer,Manual,3
+Hino 500,2018,29.5,40.36,84111,Diesel,Individual,Manual,0
+Volvo FMX,2014,29.32,25.95,106550,Diesel,Dealer,Manual,0
+Kenworth T680,2018,14.31,34.82,256769,Diesel,Individual,Manual,3
+Volvo FMX,2013,26.22,43.75,270189,Diesel,Dealer,Manual,2
+Isuzu Giga,2018,13.94,34.27,278885,Diesel,Individual,Automatic,1
+DAF XF,2007,14.27,36.1,268008,Diesel,Dealer,Automatic,1
+Kenworth T680,2020,23.52,43.13,126955,Diesel,Dealer,Manual,0
+MAN TGS,2006,18.1,39.84,90565,Diesel,Individual,Manual,2
+Scania,2014,28.63,32.28,69283,Diesel,Dealer,Manual,1
+DAF XF,2007,11.78,46.86,116470,Diesel,Dealer,Automatic,1
+Volvo FMX,2015,20.23,24.88,281362,Diesel,Individual,Automatic,3
+Actros,2015,28.37,49.87,136916,Diesel,Dealer,Manual,2
+Kenworth T680,2017,28.08,23.57,129552,Diesel,Dealer,Automatic,2
+Kenworth T680,2011,13.13,20.45,88233,Diesel,Dealer,Manual,1
+Scania,2021,17.33,46.7,72695,Diesel,Individual,Manual,2
+Tata Prima,2006,22.38,27.35,271560,Diesel,Dealer,Manual,2
+Hino 500,2016,13.19,41.89,176440,Diesel,Individual,Manual,2
+Hino 500,2014,29.36,44.33,223806,Diesel,Individual,Manual,3
+Actros,2022,28.29,45.77,131257,Diesel,Dealer,Automatic,1
+Isuzu Giga,2015,13.34,49.75,51505,Diesel,Individual,Manual,0
+Isuzu Giga,2020,12.42,28.82,186435,Diesel,Individual,Manual,2
+MAN TGS,2021,11.71,41.31,229780,Diesel,Individual,Manual,1
+DAF XF,2022,28.19,23.46,93614,Diesel,Individual,Manual,0
+Freightliner Cascadia,2007,13.87,32.2,51010,Diesel,Dealer,Automatic,3
+Tata Prima,2020,18.33,45.44,294300,Diesel,Dealer,Manual,1
+Volvo FMX,2010,18.98,31.03,292858,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2016,21.98,37.73,180560,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2015,11.43,35.11,200933,Diesel,Individual,Manual,3
+Kenworth T680,2019,14.54,39.38,205197,Diesel,Dealer,Manual,1
+Actros,2019,28.63,49.19,190441,Diesel,Individual,Manual,3
+Hino 500,2020,28.17,21.67,119393,Diesel,Dealer,Manual,0
+MAN TGS,2014,25.63,37.22,207743,Diesel,Individual,Automatic,1
+Isuzu Giga,2016,10.39,45.89,256472,Diesel,Dealer,Manual,0
+Actros,2017,16.54,34.44,114512,Diesel,Dealer,Manual,2
+Kenworth T680,2008,22.56,22.36,148026,Diesel,Dealer,Automatic,0
+Volvo FMX,2011,15.5,36.82,125656,Diesel,Individual,Manual,1
+MAN TGS,2006,28.19,29.96,266831,Diesel,Dealer,Manual,0
+Kenworth T680,2019,22.68,24.65,147686,Diesel,Individual,Automatic,1
+Hino 500,2012,11.44,45.47,225210,Diesel,Individual,Manual,3
+Hino 500,2011,28.18,35.65,234492,Diesel,Dealer,Automatic,2
+Hino 500,2019,29.16,48.0,249161,Diesel,Dealer,Manual,0
+Actros,2018,11.55,44.18,65489,Diesel,Individual,Automatic,2
+Actros,2012,20.65,40.79,109789,Diesel,Individual,Manual,0
+Isuzu Giga,2016,16.07,20.15,119925,Diesel,Dealer,Manual,1
+Isuzu Giga,2017,17.86,32.83,99703,Diesel,Dealer,Automatic,0
+Volvo FMX,2015,13.59,25.92,268558,Diesel,Individual,Manual,2
+MAN TGS,2021,21.56,47.32,126625,Diesel,Dealer,Automatic,0
+Scania,2021,29.16,25.24,157535,Diesel,Dealer,Automatic,2
+Scania,2008,20.06,28.58,239300,Diesel,Dealer,Automatic,2
+Kenworth T680,2012,11.66,35.51,53051,Diesel,Dealer,Automatic,1
+Hino 500,2009,22.4,27.9,219162,Diesel,Individual,Manual,3
+MAN TGS,2020,16.8,26.3,78805,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2008,27.12,37.97,144978,Diesel,Dealer,Manual,0
+Actros,2019,18.69,22.67,94557,Diesel,Dealer,Manual,2
+DAF XF,2016,13.86,21.75,183627,Diesel,Individual,Automatic,1
+Tata Prima,2009,13.82,31.17,100241,Diesel,Individual,Automatic,3
+Volvo FMX,2020,25.38,41.62,259375,Diesel,Individual,Manual,1
+Hino 500,2018,15.31,36.64,177838,Diesel,Individual,Automatic,1
+Hino 500,2014,25.34,32.69,115994,Diesel,Individual,Manual,2
+Hino 500,2011,14.12,36.97,164005,Diesel,Dealer,Automatic,0
+Actros,2017,16.43,30.96,66066,Diesel,Dealer,Manual,2
+Actros,2009,19.31,48.08,185793,Diesel,Individual,Manual,3
+Tata Prima,2007,28.86,21.65,127982,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2019,28.63,40.2,56304,Diesel,Dealer,Manual,1
+MAN TGS,2008,14.14,46.74,292941,Diesel,Individual,Manual,2
+Hino 500,2019,17.16,44.12,92967,Diesel,Individual,Automatic,2
+Scania,2018,12.99,25.52,281296,Diesel,Dealer,Automatic,1
+Isuzu Giga,2017,20.2,28.88,128763,Diesel,Dealer,Automatic,0
+Scania,2014,19.21,41.51,90462,Diesel,Dealer,Automatic,1
+Kenworth T680,2009,28.02,22.53,170356,Diesel,Dealer,Automatic,1
+Scania,2010,28.6,44.36,121834,Diesel,Individual,Manual,3
+Kenworth T680,2008,17.67,41.57,286005,Diesel,Dealer,Manual,2
+DAF XF,2006,19.83,41.89,161023,Diesel,Individual,Automatic,3
+Isuzu Giga,2020,27.92,23.01,284522,Diesel,Individual,Manual,1
+Scania,2022,26.13,41.53,231227,Diesel,Individual,Manual,2
+DAF XF,2009,10.07,40.39,167771,Diesel,Individual,Manual,1
+Volvo FMX,2008,16.4,44.93,125842,Diesel,Dealer,Manual,1
+MAN TGS,2017,18.44,21.25,52589,Diesel,Individual,Manual,0
+DAF XF,2006,14.59,20.69,175023,Diesel,Individual,Automatic,3
+MAN TGS,2017,13.99,31.19,218150,Diesel,Individual,Automatic,3
+Scania,2015,10.76,24.46,281617,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2008,22.87,36.75,104918,Diesel,Dealer,Manual,0
+DAF XF,2019,15.25,47.52,194673,Diesel,Dealer,Automatic,1
+Isuzu Giga,2008,11.05,31.74,57711,Diesel,Dealer,Automatic,1
+Scania,2013,14.62,45.35,267972,Diesel,Dealer,Automatic,1
+Hino 500,2011,26.04,20.01,109430,Diesel,Individual,Automatic,0
+Actros,2010,27.03,25.06,244399,Diesel,Dealer,Manual,2
+DAF XF,2010,19.66,20.91,280314,Diesel,Individual,Automatic,0
+Isuzu Giga,2019,18.32,29.84,276218,Diesel,Dealer,Automatic,1
+Volvo FMX,2019,29.56,47.25,152605,Diesel,Individual,Manual,2
+Hino 500,2013,14.01,22.91,53970,Diesel,Dealer,Automatic,1
+Volvo FMX,2008,14.31,38.19,119535,Diesel,Individual,Automatic,0
+Scania,2022,15.84,33.54,136570,Diesel,Dealer,Automatic,0
+Actros,2022,13.46,48.15,171315,Diesel,Individual,Automatic,2
+DAF XF,2009,17.59,23.68,217248,Diesel,Individual,Automatic,0
+DAF XF,2015,28.22,26.36,162111,Diesel,Individual,Manual,1
+Freightliner Cascadia,2009,22.31,20.89,91730,Diesel,Individual,Manual,2
+Freightliner Cascadia,2008,18.24,33.02,263240,Diesel,Individual,Manual,3
+Scania,2016,28.69,28.33,194457,Diesel,Individual,Manual,1
+Scania,2006,10.97,46.1,173252,Diesel,Dealer,Manual,3
+Actros,2017,14.21,38.15,187022,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2014,21.32,38.42,282302,Diesel,Individual,Automatic,2
+Isuzu Giga,2013,22.31,35.96,254583,Diesel,Individual,Automatic,1
+Isuzu Giga,2014,10.79,22.76,234081,Diesel,Individual,Automatic,0
+Actros,2011,18.06,33.35,267922,Diesel,Individual,Automatic,1
+Isuzu Giga,2008,22.98,49.99,204470,Diesel,Individual,Automatic,0
+Kenworth T680,2014,23.96,45.06,206349,Diesel,Individual,Automatic,0
+MAN TGS,2007,22.76,46.8,207833,Diesel,Individual,Automatic,1
+Actros,2006,16.41,44.7,245507,Diesel,Dealer,Automatic,2
+Actros,2014,11.87,23.09,113944,Diesel,Individual,Automatic,1
+Tata Prima,2006,18.54,26.82,212605,Diesel,Individual,Automatic,3
+Hino 500,2006,12.58,20.09,253574,Diesel,Dealer,Automatic,2
+Hino 500,2021,28.95,29.11,157437,Diesel,Dealer,Automatic,0
+Kenworth T680,2020,19.5,23.26,176794,Diesel,Individual,Manual,2
+Freightliner Cascadia,2020,16.35,34.18,122123,Diesel,Dealer,Automatic,1
+Scania,2018,25.33,40.31,72880,Diesel,Dealer,Manual,2
+Scania,2011,19.96,46.24,251699,Diesel,Dealer,Automatic,0
+Volvo FMX,2015,16.2,42.48,222825,Diesel,Individual,Automatic,0
+Kenworth T680,2005,26.24,48.16,277738,Diesel,Individual,Automatic,2
+Actros,2015,27.34,21.62,263669,Diesel,Dealer,Manual,3
+Kenworth T680,2008,23.46,20.37,137829,Diesel,Individual,Manual,0
+Kenworth T680,2011,10.94,39.84,182633,Diesel,Individual,Automatic,3
+Kenworth T680,2019,21.33,28.68,103205,Diesel,Individual,Automatic,0
+Hino 500,2022,25.27,27.61,156948,Diesel,Dealer,Automatic,2
+Kenworth T680,2016,12.73,29.93,109810,Diesel,Dealer,Automatic,0
+MAN TGS,2021,14.57,28.09,163089,Diesel,Dealer,Manual,3
+Scania,2005,27.65,35.34,114482,Diesel,Dealer,Manual,3
+Volvo FMX,2015,10.4,33.2,119192,Diesel,Individual,Automatic,2
+MAN TGS,2005,25.05,35.37,137154,Diesel,Individual,Manual,3
+Volvo FMX,2019,19.48,40.18,136066,Diesel,Individual,Manual,3
+Tata Prima,2014,18.94,31.61,268480,Diesel,Dealer,Automatic,2
+Volvo FMX,2011,10.14,27.54,209402,Diesel,Dealer,Automatic,0
+Scania,2006,26.39,24.99,197211,Diesel,Individual,Automatic,2
+Scania,2014,17.2,30.48,178514,Diesel,Dealer,Manual,0
+Kenworth T680,2008,20.82,42.25,82977,Diesel,Dealer,Automatic,0
+DAF XF,2016,23.55,42.7,54983,Diesel,Individual,Manual,0
+Tata Prima,2015,24.05,40.01,220981,Diesel,Dealer,Automatic,1
+Actros,2012,29.12,27.02,289494,Diesel,Dealer,Automatic,0
+Isuzu Giga,2022,20.63,37.64,245552,Diesel,Individual,Manual,2
+Volvo FMX,2015,17.99,37.12,99029,Diesel,Dealer,Manual,2
+DAF XF,2015,29.07,34.53,202401,Diesel,Individual,Manual,2
+Kenworth T680,2017,22.84,36.5,172668,Diesel,Individual,Manual,1
+Hino 500,2007,15.96,34.75,217806,Diesel,Dealer,Manual,3
+Actros,2016,12.53,36.96,92837,Diesel,Individual,Manual,1
+Freightliner Cascadia,2007,26.85,41.47,255426,Diesel,Dealer,Automatic,2
+DAF XF,2014,17.24,23.29,257526,Diesel,Dealer,Manual,2
+Hino 500,2021,23.21,42.49,289026,Diesel,Dealer,Manual,3
+Tata Prima,2006,19.42,24.08,167512,Diesel,Dealer,Automatic,1
+Kenworth T680,2021,13.98,22.0,116786,Diesel,Dealer,Manual,2
+Actros,2020,22.03,49.28,54758,Diesel,Dealer,Manual,0
+Actros,2006,11.21,48.71,152667,Diesel,Dealer,Automatic,0
+Actros,2010,18.27,21.81,248771,Diesel,Dealer,Automatic,2
+Tata Prima,2014,20.93,33.3,158119,Diesel,Dealer,Automatic,0
+Volvo FMX,2014,18.72,25.59,150157,Diesel,Individual,Manual,3
+Freightliner Cascadia,2012,24.97,34.56,132673,Diesel,Individual,Automatic,2
+Tata Prima,2005,26.56,44.91,147639,Diesel,Dealer,Manual,1
+Isuzu Giga,2017,25.42,48.52,202904,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2013,10.78,39.03,182940,Diesel,Dealer,Manual,3
+Scania,2014,13.88,30.62,164869,Diesel,Individual,Automatic,1
+Kenworth T680,2019,20.73,38.1,231737,Diesel,Individual,Automatic,3
+Tata Prima,2009,28.7,29.36,294944,Diesel,Dealer,Automatic,0
+Hino 500,2020,26.7,47.29,222934,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2017,26.85,46.11,69728,Diesel,Dealer,Manual,0
+Isuzu Giga,2022,16.06,36.75,153542,Diesel,Individual,Automatic,3
+Scania,2015,18.59,29.74,143565,Diesel,Dealer,Automatic,3
+Volvo FMX,2013,19.41,28.8,220929,Diesel,Individual,Automatic,2
+Hino 500,2020,13.15,21.0,209255,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2006,10.62,44.47,269393,Diesel,Dealer,Manual,1
+Kenworth T680,2006,28.94,33.51,200012,Diesel,Individual,Automatic,3
+Hino 500,2016,14.81,29.75,175019,Diesel,Dealer,Automatic,3
+Scania,2012,14.8,34.13,186352,Diesel,Individual,Manual,0
+Hino 500,2013,11.67,44.56,152548,Diesel,Individual,Manual,3
+MAN TGS,2016,28.57,23.74,183236,Diesel,Dealer,Automatic,0
+DAF XF,2013,21.59,45.73,171289,Diesel,Dealer,Automatic,3
+Volvo FMX,2014,23.34,46.93,273796,Diesel,Individual,Manual,1
+Scania,2006,28.23,48.4,294525,Diesel,Individual,Manual,2
+Hino 500,2020,16.91,31.92,179068,Diesel,Individual,Automatic,3
+DAF XF,2011,22.43,26.51,129624,Diesel,Dealer,Manual,0
+DAF XF,2006,10.78,31.21,199477,Diesel,Dealer,Manual,2
+Hino 500,2005,13.74,29.99,52821,Diesel,Dealer,Automatic,0
+Kenworth T680,2008,26.62,25.28,105090,Diesel,Dealer,Automatic,0
+MAN TGS,2006,25.34,38.22,203588,Diesel,Individual,Manual,2
+Tata Prima,2018,17.01,34.3,191545,Diesel,Individual,Automatic,2
+MAN TGS,2006,17.54,45.97,96454,Diesel,Individual,Automatic,2
+Hino 500,2019,20.67,20.96,223602,Diesel,Individual,Automatic,3
+Volvo FMX,2016,10.0,39.32,154273,Diesel,Individual,Automatic,2
+Tata Prima,2009,14.82,42.89,258786,Diesel,Dealer,Automatic,3
+Scania,2011,14.16,42.78,154472,Diesel,Dealer,Manual,1
+MAN TGS,2014,15.01,46.58,273626,Diesel,Individual,Manual,1
+Hino 500,2018,26.12,41.87,263705,Diesel,Individual,Automatic,0
+MAN TGS,2018,15.59,47.83,260704,Diesel,Individual,Automatic,0
+Tata Prima,2009,13.83,29.98,286579,Diesel,Individual,Automatic,3
+Isuzu Giga,2022,20.09,35.1,250153,Diesel,Individual,Manual,0
+Freightliner Cascadia,2018,27.31,20.42,205870,Diesel,Individual,Manual,1
+MAN TGS,2006,14.83,20.21,181935,Diesel,Individual,Manual,3
+Scania,2016,11.57,27.2,66148,Diesel,Individual,Manual,3
+Scania,2010,17.13,23.02,136545,Diesel,Dealer,Automatic,2
+Actros,2008,24.95,27.81,104459,Diesel,Individual,Automatic,3
+MAN TGS,2017,21.01,25.31,264417,Diesel,Individual,Manual,0
+Freightliner Cascadia,2008,26.34,20.86,134224,Diesel,Dealer,Manual,1
+Kenworth T680,2018,29.19,47.28,116189,Diesel,Dealer,Automatic,0
+DAF XF,2020,25.85,20.25,189201,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2008,22.08,42.08,141954,Diesel,Dealer,Automatic,2
+DAF XF,2005,19.87,24.56,73118,Diesel,Dealer,Automatic,1
+DAF XF,2017,10.8,47.37,181515,Diesel,Individual,Automatic,2
+Isuzu Giga,2008,29.69,46.78,208113,Diesel,Dealer,Manual,0
+Actros,2022,17.67,39.62,139379,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2010,13.04,40.17,71053,Diesel,Individual,Manual,3
+Freightliner Cascadia,2007,23.33,20.16,146384,Diesel,Individual,Manual,3
+Isuzu Giga,2017,15.69,49.55,284482,Diesel,Dealer,Automatic,1
+MAN TGS,2020,21.72,46.33,218276,Diesel,Dealer,Manual,0
+MAN TGS,2009,21.74,46.85,167545,Diesel,Individual,Manual,0
+MAN TGS,2008,18.91,39.78,223312,Diesel,Individual,Automatic,1
+Volvo FMX,2012,26.72,30.34,282415,Diesel,Dealer,Manual,3
+DAF XF,2018,15.3,46.81,176675,Diesel,Individual,Automatic,2
+Volvo FMX,2011,18.97,28.75,143749,Diesel,Dealer,Automatic,1
+Actros,2018,20.75,36.88,242174,Diesel,Dealer,Manual,2
+Isuzu Giga,2010,23.27,22.99,189363,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2016,25.68,47.66,289654,Diesel,Dealer,Automatic,0
+DAF XF,2020,17.9,24.22,66285,Diesel,Dealer,Manual,3
+Volvo FMX,2021,22.92,26.75,273494,Diesel,Dealer,Automatic,2
+Volvo FMX,2017,13.01,36.74,111589,Diesel,Individual,Manual,3
+Hino 500,2018,28.65,42.92,63944,Diesel,Individual,Manual,0
+Volvo FMX,2011,17.66,38.58,151041,Diesel,Dealer,Automatic,1
+Kenworth T680,2018,24.59,26.96,138876,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2019,10.41,20.03,145561,Diesel,Individual,Automatic,0
+Kenworth T680,2016,14.1,42.71,104391,Diesel,Individual,Manual,0
+Freightliner Cascadia,2021,19.74,49.56,51607,Diesel,Individual,Automatic,2
+Isuzu Giga,2013,27.57,44.3,52953,Diesel,Individual,Automatic,0
+Freightliner Cascadia,2019,20.55,33.81,94941,Diesel,Individual,Manual,1
+Kenworth T680,2016,28.6,47.11,252541,Diesel,Individual,Manual,3
+Freightliner Cascadia,2006,19.68,32.3,257994,Diesel,Individual,Automatic,3
+Isuzu Giga,2009,19.81,35.75,111683,Diesel,Individual,Automatic,3
+Isuzu Giga,2017,12.39,34.31,294597,Diesel,Dealer,Manual,3
+Actros,2012,26.05,33.43,251290,Diesel,Individual,Automatic,0
+Freightliner Cascadia,2018,14.94,43.26,294229,Diesel,Dealer,Automatic,0
+Hino 500,2019,27.99,35.8,159588,Diesel,Individual,Manual,3
+MAN TGS,2015,28.22,29.5,172080,Diesel,Individual,Manual,0
+Scania,2005,28.87,27.74,61154,Diesel,Individual,Automatic,2
+Isuzu Giga,2007,20.4,21.13,175542,Diesel,Individual,Manual,0
+Tata Prima,2021,23.54,37.5,190119,Diesel,Individual,Manual,2
+MAN TGS,2018,25.57,26.9,138529,Diesel,Dealer,Automatic,2
+DAF XF,2012,12.62,24.44,256946,Diesel,Individual,Manual,0
+Freightliner Cascadia,2017,22.02,39.61,64323,Diesel,Dealer,Manual,3
+Kenworth T680,2007,10.69,40.44,87693,Diesel,Dealer,Automatic,2
+Scania,2009,19.95,42.56,239802,Diesel,Individual,Manual,0
+Tata Prima,2013,13.1,35.11,139170,Diesel,Dealer,Automatic,1
+MAN TGS,2010,13.66,46.82,207364,Diesel,Individual,Manual,3
+Freightliner Cascadia,2006,17.3,48.09,285159,Diesel,Individual,Manual,1
+Actros,2017,18.65,44.22,95111,Diesel,Individual,Automatic,2
+DAF XF,2009,22.46,39.07,256525,Diesel,Dealer,Manual,1
+Scania,2012,11.49,29.11,256753,Diesel,Individual,Manual,0
+Hino 500,2005,20.07,49.49,276325,Diesel,Dealer,Manual,3
+Actros,2016,13.65,28.22,89491,Diesel,Individual,Manual,2
+Tata Prima,2015,21.48,26.08,99336,Diesel,Individual,Manual,0
+Scania,2011,22.75,33.26,66905,Diesel,Dealer,Manual,3
+Actros,2019,21.13,21.71,80273,Diesel,Dealer,Automatic,2
+DAF XF,2015,24.77,49.35,175191,Diesel,Dealer,Manual,2
+Hino 500,2020,16.71,37.65,165936,Diesel,Dealer,Manual,2
+Actros,2007,25.3,36.71,207306,Diesel,Dealer,Automatic,2
+Volvo FMX,2018,18.66,39.67,259957,Diesel,Dealer,Automatic,1
+Hino 500,2007,19.68,34.91,116538,Diesel,Individual,Automatic,1
+Tata Prima,2005,22.96,20.96,154570,Diesel,Dealer,Manual,1
+DAF XF,2019,10.37,38.37,213645,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2005,23.08,41.49,143339,Diesel,Individual,Automatic,1
+Kenworth T680,2021,22.37,32.5,171132,Diesel,Individual,Manual,3
+Kenworth T680,2006,16.2,42.72,245392,Diesel,Individual,Automatic,2
+Kenworth T680,2010,11.72,26.81,178993,Diesel,Individual,Manual,3
+Scania,2012,11.82,26.64,61330,Diesel,Dealer,Manual,3
+Tata Prima,2020,28.46,24.84,273112,Diesel,Individual,Manual,1
+DAF XF,2005,23.79,31.16,261588,Diesel,Individual,Manual,2
+Hino 500,2007,12.54,45.41,122553,Diesel,Individual,Manual,1
+Scania,2007,17.13,44.84,222425,Diesel,Dealer,Automatic,1
+Tata Prima,2009,21.85,31.48,197083,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2016,26.71,37.67,133537,Diesel,Dealer,Automatic,2
+Volvo FMX,2016,10.87,41.62,110985,Diesel,Dealer,Manual,2
+DAF XF,2017,14.73,27.24,67044,Diesel,Individual,Automatic,1
+Kenworth T680,2013,27.79,25.04,219364,Diesel,Dealer,Manual,3
+Actros,2011,10.18,49.16,172304,Diesel,Individual,Manual,3
+DAF XF,2008,14.03,38.53,186322,Diesel,Dealer,Manual,2
+Isuzu Giga,2010,29.18,49.44,286888,Diesel,Dealer,Automatic,0
+Tata Prima,2017,22.27,30.13,73289,Diesel,Dealer,Automatic,1
+MAN TGS,2015,15.23,41.09,83087,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2017,11.34,26.68,125952,Diesel,Individual,Manual,0
+Volvo FMX,2017,10.56,27.84,271767,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2019,14.89,35.36,86368,Diesel,Individual,Automatic,3
+DAF XF,2017,27.63,29.59,170648,Diesel,Individual,Manual,2
+MAN TGS,2015,18.32,25.03,120815,Diesel,Individual,Automatic,3
+Isuzu Giga,2012,24.41,27.89,140693,Diesel,Individual,Manual,3
+Hino 500,2012,28.37,21.07,242112,Diesel,Individual,Automatic,2
+Actros,2014,18.16,41.13,297527,Diesel,Individual,Automatic,1
+MAN TGS,2020,13.83,34.76,108900,Diesel,Individual,Manual,1
+Tata Prima,2015,20.34,22.83,65494,Diesel,Dealer,Automatic,1
+Kenworth T680,2017,28.16,25.15,166486,Diesel,Individual,Manual,3
+Isuzu Giga,2013,26.09,23.08,226238,Diesel,Dealer,Manual,1
+Actros,2020,11.32,38.38,272182,Diesel,Dealer,Manual,3
+Volvo FMX,2011,23.85,22.83,206405,Diesel,Individual,Automatic,1
+Kenworth T680,2016,21.44,42.63,83050,Diesel,Individual,Automatic,2
+DAF XF,2019,28.15,20.62,147799,Diesel,Dealer,Automatic,0
+MAN TGS,2018,12.45,27.48,181016,Diesel,Dealer,Manual,3
+Actros,2015,20.68,46.72,279147,Diesel,Individual,Manual,2
+Scania,2014,27.59,41.56,260638,Diesel,Individual,Automatic,3
+Hino 500,2015,18.2,22.19,138257,Diesel,Dealer,Manual,3
+Hino 500,2010,19.64,44.63,98070,Diesel,Dealer,Manual,2
+Isuzu Giga,2006,11.41,34.79,55166,Diesel,Individual,Automatic,1
+Volvo FMX,2015,15.56,45.4,188193,Diesel,Dealer,Automatic,3
+Isuzu Giga,2010,16.49,38.02,195749,Diesel,Dealer,Manual,0
+Scania,2018,28.9,40.45,237633,Diesel,Individual,Manual,0
+Tata Prima,2010,15.65,49.81,277849,Diesel,Dealer,Automatic,2
+Volvo FMX,2021,19.22,26.97,262981,Diesel,Individual,Automatic,0
+Freightliner Cascadia,2014,23.43,38.72,137409,Diesel,Individual,Manual,2
+Tata Prima,2005,13.24,33.81,87664,Diesel,Individual,Manual,2
+Volvo FMX,2007,19.73,21.18,179926,Diesel,Dealer,Manual,3
+Volvo FMX,2012,24.77,20.43,295890,Diesel,Individual,Automatic,2
+Scania,2012,27.34,23.58,51293,Diesel,Dealer,Manual,2
+DAF XF,2019,22.53,39.47,203515,Diesel,Individual,Manual,1
+Scania,2011,23.38,37.01,286333,Diesel,Individual,Manual,3
+Volvo FMX,2015,12.53,36.6,99212,Diesel,Dealer,Manual,0
+Actros,2011,28.92,20.96,265203,Diesel,Dealer,Manual,1
+Tata Prima,2008,12.65,34.08,125276,Diesel,Dealer,Manual,1
+Scania,2016,25.49,47.74,62559,Diesel,Individual,Automatic,3
+DAF XF,2010,15.3,31.93,115231,Diesel,Dealer,Automatic,3
+MAN TGS,2018,28.67,38.75,158277,Diesel,Individual,Automatic,1
+Isuzu Giga,2016,24.4,43.39,220116,Diesel,Dealer,Manual,3
+Volvo FMX,2015,25.08,43.52,71747,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2009,14.38,35.58,287528,Diesel,Individual,Manual,2
+MAN TGS,2018,18.86,45.74,254581,Diesel,Individual,Manual,3
+Hino 500,2020,22.36,31.74,261941,Diesel,Individual,Manual,2
+Kenworth T680,2017,25.4,46.66,211201,Diesel,Dealer,Manual,1
+DAF XF,2008,12.08,27.21,50037,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2015,29.25,28.41,154294,Diesel,Individual,Automatic,0
+Kenworth T680,2021,27.8,21.59,147847,Diesel,Individual,Automatic,3
+DAF XF,2011,15.41,43.87,153742,Diesel,Dealer,Automatic,1
+Actros,2018,26.46,32.51,98503,Diesel,Dealer,Manual,2
+Isuzu Giga,2015,20.37,26.87,78207,Diesel,Dealer,Automatic,1
+MAN TGS,2013,19.24,26.95,290232,Diesel,Dealer,Manual,3
+Tata Prima,2017,16.29,47.04,83241,Diesel,Dealer,Automatic,0
+DAF XF,2022,21.62,45.02,181130,Diesel,Dealer,Automatic,0
+Tata Prima,2015,24.6,36.61,249244,Diesel,Individual,Automatic,1
+Isuzu Giga,2019,18.22,38.48,146171,Diesel,Dealer,Automatic,0
+Volvo FMX,2005,22.58,34.23,195906,Diesel,Dealer,Automatic,3
+Hino 500,2008,23.99,31.75,262185,Diesel,Individual,Automatic,3
+MAN TGS,2018,24.22,47.46,167302,Diesel,Dealer,Manual,0
+Isuzu Giga,2018,11.04,23.77,208262,Diesel,Dealer,Manual,2
+Isuzu Giga,2007,27.19,32.55,122832,Diesel,Dealer,Manual,0
+Actros,2021,19.17,30.34,71383,Diesel,Individual,Manual,0
+Kenworth T680,2007,15.25,34.94,292046,Diesel,Dealer,Manual,1
+Hino 500,2020,14.84,33.73,174291,Diesel,Individual,Automatic,2
+MAN TGS,2018,19.66,35.57,205732,Diesel,Dealer,Manual,0
+Volvo FMX,2017,27.74,24.2,289101,Diesel,Individual,Manual,1
+Volvo FMX,2019,17.57,35.39,299557,Diesel,Dealer,Manual,1
+Scania,2018,24.99,27.27,52674,Diesel,Dealer,Manual,1
+Isuzu Giga,2010,11.94,25.53,164100,Diesel,Dealer,Manual,3
+DAF XF,2014,19.52,21.95,159369,Diesel,Individual,Manual,1
+Actros,2019,29.83,42.88,72820,Diesel,Dealer,Manual,1
+Hino 500,2010,25.41,32.82,266112,Diesel,Dealer,Manual,3
+Volvo FMX,2014,14.21,38.8,206738,Diesel,Individual,Manual,3
+MAN TGS,2011,20.03,41.83,93794,Diesel,Individual,Automatic,1
+Scania,2021,14.67,40.38,183148,Diesel,Individual,Manual,0
+MAN TGS,2022,18.19,34.12,245926,Diesel,Dealer,Manual,2
+Actros,2021,25.6,31.64,178544,Diesel,Individual,Automatic,3
+DAF XF,2013,25.42,31.28,233414,Diesel,Dealer,Automatic,2
+Scania,2014,14.56,39.2,87555,Diesel,Individual,Manual,3
+Scania,2014,28.44,34.84,236280,Diesel,Individual,Manual,1
+Kenworth T680,2011,21.85,45.47,82406,Diesel,Dealer,Manual,3
+Hino 500,2020,17.6,46.24,242644,Diesel,Dealer,Automatic,1
+Scania,2022,20.04,25.12,90262,Diesel,Dealer,Manual,2
+Kenworth T680,2010,22.1,24.09,141320,Diesel,Dealer,Automatic,0
+Kenworth T680,2005,21.2,38.91,299337,Diesel,Individual,Automatic,1
+Actros,2005,19.73,29.04,267733,Diesel,Individual,Automatic,2
+Tata Prima,2016,20.1,20.56,204288,Diesel,Individual,Automatic,2
+MAN TGS,2006,13.53,46.66,249189,Diesel,Dealer,Automatic,3
+DAF XF,2008,26.25,26.81,262208,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2021,20.84,47.88,80284,Diesel,Individual,Manual,2
+MAN TGS,2008,12.62,41.52,201243,Diesel,Individual,Automatic,0
+Scania,2015,25.32,42.88,140627,Diesel,Dealer,Automatic,3
+DAF XF,2008,28.65,26.04,195405,Diesel,Individual,Automatic,3
+Volvo FMX,2005,28.95,27.03,211607,Diesel,Individual,Automatic,2
+Tata Prima,2011,17.38,35.64,139023,Diesel,Individual,Manual,1
+Volvo FMX,2022,12.71,25.16,257012,Diesel,Dealer,Automatic,3
+Volvo FMX,2013,20.37,29.16,290542,Diesel,Individual,Automatic,1
+Hino 500,2007,12.25,29.64,214772,Diesel,Dealer,Manual,2
+MAN TGS,2012,28.68,24.79,264655,Diesel,Individual,Manual,2
+Freightliner Cascadia,2008,13.67,26.16,91516,Diesel,Dealer,Manual,1
+Actros,2022,15.06,43.66,65577,Diesel,Individual,Manual,0
+Freightliner Cascadia,2015,18.13,25.02,270906,Diesel,Individual,Automatic,3
+Volvo FMX,2018,17.66,20.85,65015,Diesel,Individual,Automatic,2
+Scania,2022,25.89,38.88,141104,Diesel,Dealer,Automatic,0
+Tata Prima,2020,19.13,49.28,164412,Diesel,Individual,Automatic,0
+Isuzu Giga,2007,13.42,29.94,141740,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2019,15.34,23.56,278356,Diesel,Dealer,Automatic,1
+Volvo FMX,2008,20.18,37.11,272875,Diesel,Dealer,Automatic,1
+Tata Prima,2009,12.95,47.19,202308,Diesel,Individual,Automatic,0
+DAF XF,2021,22.23,43.52,279223,Diesel,Individual,Automatic,3
+MAN TGS,2011,21.31,38.68,116640,Diesel,Individual,Manual,1
+Kenworth T680,2020,24.29,29.45,133190,Diesel,Individual,Automatic,3
+Hino 500,2018,28.75,36.26,179516,Diesel,Individual,Manual,1
+Tata Prima,2020,28.25,22.74,226776,Diesel,Dealer,Manual,0
+Scania,2011,28.92,40.37,223441,Diesel,Individual,Manual,3
+Scania,2013,14.89,41.75,184718,Diesel,Dealer,Manual,3
+Tata Prima,2008,12.63,48.95,137007,Diesel,Dealer,Automatic,0
+Scania,2015,16.05,27.81,206978,Diesel,Individual,Manual,3
+MAN TGS,2006,27.9,20.55,267715,Diesel,Dealer,Manual,0
+Scania,2016,29.44,36.37,97728,Diesel,Individual,Automatic,0
+Freightliner Cascadia,2016,27.19,41.2,64878,Diesel,Dealer,Manual,2
+Kenworth T680,2008,12.2,43.71,297814,Diesel,Dealer,Automatic,1
+Scania,2022,28.95,25.81,178925,Diesel,Individual,Automatic,2
+Kenworth T680,2011,18.47,27.85,59145,Diesel,Individual,Automatic,0
+Volvo FMX,2005,10.19,35.38,138578,Diesel,Dealer,Automatic,0
+Actros,2017,18.85,29.92,68226,Diesel,Individual,Manual,3
+MAN TGS,2010,10.92,45.82,52802,Diesel,Individual,Automatic,0
+Actros,2010,20.88,34.21,74119,Diesel,Dealer,Manual,0
+Volvo FMX,2016,16.77,43.99,113560,Diesel,Dealer,Manual,0
+MAN TGS,2012,19.47,37.42,107353,Diesel,Dealer,Automatic,1
+Tata Prima,2009,22.26,43.19,295741,Diesel,Individual,Manual,2
+Tata Prima,2022,27.38,29.98,273793,Diesel,Individual,Automatic,2
+Kenworth T680,2009,23.24,44.94,173001,Diesel,Individual,Manual,1
+Volvo FMX,2014,18.68,28.24,243198,Diesel,Dealer,Manual,1
+Kenworth T680,2005,26.39,36.38,121641,Diesel,Individual,Manual,1
+Hino 500,2014,28.11,26.42,101712,Diesel,Dealer,Manual,2
+Scania,2009,12.4,34.27,233261,Diesel,Dealer,Automatic,2
+Isuzu Giga,2016,20.64,29.55,238856,Diesel,Dealer,Automatic,0
+Hino 500,2011,15.69,28.0,180085,Diesel,Dealer,Manual,2
+Scania,2013,10.94,49.01,118285,Diesel,Dealer,Manual,3
+MAN TGS,2016,23.37,24.8,165278,Diesel,Dealer,Manual,2
+Kenworth T680,2005,27.26,43.62,297128,Diesel,Dealer,Manual,1
+MAN TGS,2015,13.26,49.52,224021,Diesel,Individual,Automatic,2
+MAN TGS,2019,26.25,20.6,215201,Diesel,Dealer,Manual,0
+Scania,2006,27.07,40.97,74512,Diesel,Individual,Manual,2
+Volvo FMX,2011,28.29,27.59,152077,Diesel,Individual,Manual,1
+Scania,2016,15.31,21.21,260103,Diesel,Individual,Automatic,3
+DAF XF,2022,28.08,32.09,244626,Diesel,Individual,Manual,1
+Tata Prima,2007,16.41,48.06,52064,Diesel,Individual,Automatic,3
+Tata Prima,2011,21.05,20.35,145614,Diesel,Dealer,Automatic,0
+Hino 500,2015,11.01,37.64,232639,Diesel,Individual,Manual,0
+Tata Prima,2022,10.88,35.04,167639,Diesel,Individual,Manual,2
+Scania,2016,24.41,46.2,80011,Diesel,Individual,Manual,0
+Freightliner Cascadia,2010,18.89,22.52,121152,Diesel,Dealer,Automatic,0
+Kenworth T680,2009,15.13,40.45,254583,Diesel,Individual,Automatic,1
+Scania,2005,13.81,40.4,60960,Diesel,Individual,Manual,1
+Scania,2016,23.4,40.07,274600,Diesel,Individual,Automatic,2
+Isuzu Giga,2015,10.01,48.27,171789,Diesel,Individual,Manual,2
+Kenworth T680,2008,26.12,44.69,108920,Diesel,Dealer,Manual,2
+DAF XF,2022,11.58,21.26,71387,Diesel,Individual,Manual,2
+Tata Prima,2008,13.83,34.13,196396,Diesel,Dealer,Manual,1
+Kenworth T680,2021,17.72,31.94,113960,Diesel,Dealer,Manual,2
+Tata Prima,2006,19.7,29.3,172994,Diesel,Individual,Manual,2
+Hino 500,2006,17.1,33.54,252851,Diesel,Individual,Automatic,0
+Kenworth T680,2016,16.41,31.53,82628,Diesel,Dealer,Automatic,2
+Tata Prima,2010,29.28,32.97,171269,Diesel,Individual,Automatic,3
+DAF XF,2014,22.83,49.38,256168,Diesel,Individual,Manual,0
+Actros,2020,10.47,22.66,97452,Diesel,Individual,Manual,1
+MAN TGS,2018,18.6,47.67,91098,Diesel,Dealer,Manual,3
+MAN TGS,2011,27.5,34.41,251531,Diesel,Dealer,Automatic,2
+DAF XF,2021,16.03,38.71,220307,Diesel,Individual,Manual,0
+Isuzu Giga,2013,11.89,44.91,136861,Diesel,Individual,Automatic,2
+Actros,2017,25.17,30.81,77949,Diesel,Dealer,Manual,0
+Hino 500,2009,22.12,32.91,203893,Diesel,Dealer,Automatic,2
+DAF XF,2009,21.41,32.29,252684,Diesel,Dealer,Manual,3
+MAN TGS,2014,11.07,31.24,203104,Diesel,Dealer,Manual,1
+MAN TGS,2014,12.81,47.77,123537,Diesel,Dealer,Automatic,3
+MAN TGS,2011,22.45,44.87,196375,Diesel,Dealer,Automatic,3
+Volvo FMX,2019,14.16,23.27,166003,Diesel,Dealer,Automatic,1
+DAF XF,2011,20.08,23.24,263065,Diesel,Individual,Manual,0
+Scania,2019,20.9,32.84,288051,Diesel,Dealer,Automatic,0
+Hino 500,2007,15.67,22.96,193375,Diesel,Dealer,Automatic,1
+MAN TGS,2014,28.97,38.57,100701,Diesel,Individual,Manual,2
+Tata Prima,2019,26.85,24.31,100511,Diesel,Individual,Manual,0
+DAF XF,2007,24.45,35.67,130664,Diesel,Individual,Automatic,3
+Volvo FMX,2010,11.56,20.22,199352,Diesel,Dealer,Manual,1
+DAF XF,2016,12.12,29.5,89427,Diesel,Dealer,Automatic,3
+Hino 500,2019,19.86,40.32,147180,Diesel,Individual,Automatic,0
+Volvo FMX,2010,13.21,34.52,153550,Diesel,Individual,Automatic,1
+Hino 500,2017,29.57,49.35,188039,Diesel,Individual,Manual,1
+DAF XF,2007,13.17,46.22,187733,Diesel,Dealer,Automatic,0
+Scania,2012,19.75,30.77,127952,Diesel,Individual,Automatic,0
+Hino 500,2012,17.28,21.36,116046,Diesel,Dealer,Manual,1
+Volvo FMX,2019,22.79,45.37,156918,Diesel,Dealer,Automatic,2
+Volvo FMX,2008,12.58,47.34,85200,Diesel,Dealer,Automatic,1
+Hino 500,2007,18.61,44.62,117442,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2017,15.49,23.84,242743,Diesel,Individual,Manual,3
+DAF XF,2012,27.76,49.94,141070,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2020,10.81,27.76,108168,Diesel,Individual,Manual,2
+Isuzu Giga,2017,28.27,41.73,98322,Diesel,Dealer,Manual,0
+DAF XF,2007,26.66,47.24,263056,Diesel,Individual,Automatic,1
+Hino 500,2020,15.95,27.07,218768,Diesel,Dealer,Automatic,3
+Actros,2013,25.79,47.25,120246,Diesel,Dealer,Manual,1
+Hino 500,2018,10.62,29.28,290916,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2017,29.34,49.29,219964,Diesel,Individual,Automatic,2
+Scania,2011,20.53,28.44,287213,Diesel,Dealer,Manual,2
+Hino 500,2019,16.07,48.6,65583,Diesel,Dealer,Automatic,1
+Hino 500,2011,17.25,21.61,132720,Diesel,Individual,Automatic,2
+Scania,2010,11.33,41.28,236287,Diesel,Individual,Manual,1
+Hino 500,2006,29.79,35.96,205925,Diesel,Individual,Automatic,3
+MAN TGS,2013,10.79,34.34,187181,Diesel,Dealer,Manual,3
+Actros,2021,23.1,26.7,289285,Diesel,Dealer,Manual,1
+Tata Prima,2009,18.85,41.17,109757,Diesel,Individual,Automatic,3
+Actros,2016,28.98,25.72,56659,Diesel,Dealer,Manual,0
+Hino 500,2005,14.92,36.59,51238,Diesel,Dealer,Automatic,2
+MAN TGS,2014,20.64,27.6,171270,Diesel,Individual,Automatic,2
+DAF XF,2015,19.65,48.67,169211,Diesel,Individual,Manual,2
+Hino 500,2020,24.06,20.86,65064,Diesel,Individual,Manual,0
+Freightliner Cascadia,2018,11.36,25.99,212187,Diesel,Individual,Manual,2
+MAN TGS,2012,13.88,27.27,213024,Diesel,Individual,Manual,1
+Scania,2021,14.29,32.42,186692,Diesel,Individual,Manual,2
+MAN TGS,2022,24.76,26.98,149790,Diesel,Individual,Manual,1
+Scania,2016,13.78,34.74,152985,Diesel,Individual,Automatic,3
+Isuzu Giga,2021,21.47,46.17,94258,Diesel,Dealer,Automatic,1
+Tata Prima,2018,14.3,41.36,185542,Diesel,Dealer,Manual,1
+Kenworth T680,2020,27.23,37.4,203075,Diesel,Dealer,Automatic,1
+MAN TGS,2018,28.84,22.67,208643,Diesel,Dealer,Manual,2
+Volvo FMX,2013,20.37,40.82,74668,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2008,17.05,24.99,127259,Diesel,Dealer,Automatic,0
+Hino 500,2015,14.68,43.59,162192,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2010,11.0,27.5,146576,Diesel,Dealer,Manual,2
+Actros,2019,15.37,32.51,155481,Diesel,Dealer,Manual,0
+Kenworth T680,2009,23.08,30.51,161505,Diesel,Dealer,Manual,3
+Actros,2015,20.67,45.76,213118,Diesel,Dealer,Automatic,3
+Isuzu Giga,2022,28.88,23.8,252049,Diesel,Individual,Manual,2
+Kenworth T680,2017,17.93,36.97,297600,Diesel,Dealer,Manual,3
+Kenworth T680,2015,23.88,24.26,258327,Diesel,Individual,Automatic,3
+Actros,2018,19.79,41.14,55397,Diesel,Dealer,Automatic,3
+Scania,2022,20.25,47.15,149925,Diesel,Individual,Automatic,0
+Actros,2019,15.36,33.04,133481,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2013,19.1,34.64,203305,Diesel,Individual,Manual,1
+Scania,2012,19.42,47.82,264408,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2005,24.13,35.63,110308,Diesel,Individual,Manual,3
+Isuzu Giga,2008,28.81,34.63,250798,Diesel,Dealer,Manual,1
+Hino 500,2018,16.59,37.35,244291,Diesel,Individual,Automatic,0
+DAF XF,2006,10.84,40.68,284430,Diesel,Dealer,Automatic,2
+Scania,2020,19.93,23.21,51130,Diesel,Individual,Manual,1
+Isuzu Giga,2007,20.89,44.63,174293,Diesel,Individual,Automatic,3
+Volvo FMX,2012,13.37,33.07,64071,Diesel,Individual,Automatic,2
+Isuzu Giga,2010,25.21,22.17,135517,Diesel,Individual,Manual,2
+Actros,2020,29.7,43.59,160240,Diesel,Individual,Manual,3
+Actros,2020,28.92,31.31,52118,Diesel,Individual,Manual,1
+DAF XF,2011,13.94,23.01,181735,Diesel,Individual,Manual,0
+Isuzu Giga,2017,27.51,39.01,112408,Diesel,Individual,Manual,1
+Tata Prima,2017,24.09,46.4,101786,Diesel,Dealer,Manual,1
+Hino 500,2009,19.08,46.63,131271,Diesel,Dealer,Automatic,0
+Actros,2022,20.81,48.73,69158,Diesel,Dealer,Automatic,2
+DAF XF,2019,26.99,46.03,81087,Diesel,Individual,Automatic,0
+Hino 500,2022,19.6,20.06,138114,Diesel,Individual,Manual,0
+Isuzu Giga,2006,17.46,31.41,234193,Diesel,Dealer,Manual,3
+Isuzu Giga,2014,19.86,44.56,69874,Diesel,Dealer,Manual,3
+Kenworth T680,2017,21.58,30.99,289139,Diesel,Individual,Manual,1
+DAF XF,2022,13.78,38.05,133443,Diesel,Individual,Manual,3
+Actros,2019,28.02,38.19,90821,Diesel,Dealer,Automatic,0
+Tata Prima,2016,23.48,30.95,165675,Diesel,Individual,Manual,0
+Isuzu Giga,2019,22.67,47.13,110582,Diesel,Dealer,Automatic,3
+Tata Prima,2017,11.99,35.1,172603,Diesel,Individual,Manual,3
+Isuzu Giga,2022,22.08,33.94,203859,Diesel,Dealer,Automatic,3
+Actros,2019,12.42,49.93,245775,Diesel,Dealer,Automatic,0
+Hino 500,2015,11.57,34.81,202777,Diesel,Individual,Automatic,2
+MAN TGS,2007,20.55,25.35,119381,Diesel,Dealer,Automatic,2
+Hino 500,2011,18.06,35.39,161800,Diesel,Individual,Automatic,3
+Isuzu Giga,2018,21.78,44.42,285677,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2018,11.78,43.31,180805,Diesel,Individual,Automatic,1
+MAN TGS,2017,18.62,43.66,225725,Diesel,Individual,Manual,2
+MAN TGS,2016,13.5,41.24,132018,Diesel,Individual,Manual,3
+Tata Prima,2013,29.74,27.63,150592,Diesel,Dealer,Automatic,0
+DAF XF,2005,21.22,45.86,141626,Diesel,Individual,Manual,1
+Tata Prima,2015,23.75,46.8,136217,Diesel,Individual,Manual,1
+Tata Prima,2022,16.51,25.82,213324,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2016,11.89,23.91,254404,Diesel,Individual,Manual,0
+Hino 500,2005,29.52,49.27,122799,Diesel,Dealer,Automatic,3
+Hino 500,2021,15.73,46.05,112185,Diesel,Individual,Manual,0
+Volvo FMX,2009,18.48,46.8,259385,Diesel,Dealer,Automatic,0
+Isuzu Giga,2007,23.0,46.59,91538,Diesel,Individual,Manual,0
+Freightliner Cascadia,2006,10.49,36.25,70343,Diesel,Individual,Automatic,2
+Volvo FMX,2007,26.21,39.39,286761,Diesel,Individual,Manual,0
+Actros,2012,20.73,36.36,261470,Diesel,Individual,Manual,1
+Isuzu Giga,2020,15.56,21.54,222304,Diesel,Individual,Manual,3
+Isuzu Giga,2010,11.23,42.37,170026,Diesel,Dealer,Automatic,3
+Kenworth T680,2017,13.25,35.16,284257,Diesel,Dealer,Automatic,3
+Kenworth T680,2020,27.9,39.43,103106,Diesel,Individual,Manual,2
+Scania,2020,23.72,35.08,164322,Diesel,Dealer,Manual,1
+Scania,2007,15.0,34.75,131227,Diesel,Individual,Automatic,0
+Tata Prima,2017,11.31,25.15,234151,Diesel,Individual,Manual,1
+Actros,2018,23.81,28.36,206100,Diesel,Individual,Manual,3
+MAN TGS,2012,21.45,24.77,92135,Diesel,Dealer,Automatic,0
+MAN TGS,2016,18.09,25.87,212138,Diesel,Individual,Automatic,3
+Kenworth T680,2012,17.27,49.19,169599,Diesel,Dealer,Manual,3
+Kenworth T680,2013,14.34,24.59,279789,Diesel,Individual,Automatic,3
+Kenworth T680,2005,23.39,28.08,133470,Diesel,Individual,Manual,1
+Freightliner Cascadia,2010,29.41,37.72,70910,Diesel,Dealer,Manual,1
+DAF XF,2015,13.51,38.31,294090,Diesel,Individual,Automatic,3
+Scania,2015,21.94,24.62,188213,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2017,18.48,43.81,95950,Diesel,Individual,Automatic,0
+Hino 500,2015,18.93,43.56,236795,Diesel,Individual,Automatic,3
+MAN TGS,2022,15.08,27.12,66225,Diesel,Individual,Manual,3
+Isuzu Giga,2019,26.5,28.66,281322,Diesel,Dealer,Automatic,3
+Scania,2005,19.71,48.14,268195,Diesel,Individual,Manual,3
+Volvo FMX,2011,20.87,44.77,82959,Diesel,Dealer,Automatic,1
+Hino 500,2017,16.1,40.93,99192,Diesel,Individual,Manual,3
+Scania,2016,13.64,22.47,129711,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2022,11.72,32.55,191123,Diesel,Dealer,Manual,3
+Actros,2019,24.28,36.78,252500,Diesel,Individual,Manual,1
+Isuzu Giga,2012,13.92,25.62,53449,Diesel,Individual,Automatic,2
+Scania,2014,23.8,33.45,222167,Diesel,Dealer,Manual,2
+DAF XF,2011,17.81,38.03,154213,Diesel,Dealer,Manual,3
+Kenworth T680,2022,18.32,29.82,259001,Diesel,Dealer,Manual,3
+Kenworth T680,2020,19.38,43.43,210262,Diesel,Individual,Manual,1
+Isuzu Giga,2010,17.35,45.21,150245,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2013,12.01,29.71,147069,Diesel,Dealer,Manual,2
+Kenworth T680,2017,16.19,45.16,207213,Diesel,Individual,Automatic,1
+Scania,2012,23.27,23.11,283597,Diesel,Dealer,Automatic,3
+Volvo FMX,2020,23.32,45.13,73908,Diesel,Dealer,Automatic,0
+MAN TGS,2017,15.72,24.58,154847,Diesel,Individual,Automatic,0
+MAN TGS,2017,19.2,22.49,170910,Diesel,Dealer,Manual,2
+Hino 500,2021,13.87,39.25,213394,Diesel,Individual,Manual,2
+Tata Prima,2009,14.21,34.16,231782,Diesel,Dealer,Automatic,3
+Actros,2021,10.46,47.24,64012,Diesel,Dealer,Manual,0
+Isuzu Giga,2013,27.93,30.9,215961,Diesel,Individual,Automatic,2
+Hino 500,2006,14.21,28.61,67412,Diesel,Dealer,Manual,3
+Tata Prima,2022,14.55,35.02,277222,Diesel,Individual,Manual,0
+Freightliner Cascadia,2013,15.59,33.68,160030,Diesel,Dealer,Automatic,1
+DAF XF,2010,12.55,30.33,74657,Diesel,Dealer,Manual,2
+DAF XF,2015,22.79,40.81,55656,Diesel,Individual,Automatic,1
+Actros,2010,11.5,42.79,190039,Diesel,Individual,Automatic,0
+Kenworth T680,2010,12.68,45.59,266030,Diesel,Dealer,Automatic,3
+Scania,2017,22.9,49.19,196836,Diesel,Dealer,Manual,3
+Hino 500,2015,16.79,28.0,65873,Diesel,Dealer,Manual,0
+Hino 500,2018,24.16,41.48,144485,Diesel,Individual,Automatic,1
+Isuzu Giga,2006,21.15,31.83,159383,Diesel,Individual,Manual,3
+Isuzu Giga,2012,15.12,40.31,232102,Diesel,Dealer,Automatic,2
+DAF XF,2007,23.02,34.28,248879,Diesel,Dealer,Automatic,1
+DAF XF,2007,12.33,49.81,51607,Diesel,Dealer,Manual,1
+Volvo FMX,2005,20.73,41.87,200595,Diesel,Individual,Automatic,2
+Volvo FMX,2022,18.74,48.57,98447,Diesel,Dealer,Manual,0
+Kenworth T680,2021,15.36,45.05,99757,Diesel,Individual,Manual,3
+Volvo FMX,2017,22.08,47.09,274598,Diesel,Individual,Manual,1
+Scania,2007,27.43,44.43,119201,Diesel,Dealer,Automatic,3
+Scania,2005,29.98,33.77,178765,Diesel,Individual,Automatic,3
+Hino 500,2008,22.16,27.55,262916,Diesel,Individual,Manual,1
+MAN TGS,2017,18.09,31.11,252460,Diesel,Dealer,Manual,0
+Scania,2021,14.5,20.61,55462,Diesel,Dealer,Automatic,1
+Tata Prima,2015,15.14,35.72,166832,Diesel,Dealer,Manual,0
+DAF XF,2006,19.59,35.15,212867,Diesel,Dealer,Manual,2
+Isuzu Giga,2020,17.35,35.76,250878,Diesel,Dealer,Automatic,0
+Volvo FMX,2006,28.28,49.22,98465,Diesel,Dealer,Automatic,0
+Hino 500,2020,17.37,47.34,242181,Diesel,Dealer,Automatic,1
+Actros,2013,17.47,24.85,140027,Diesel,Individual,Manual,3
+Isuzu Giga,2005,17.67,31.07,100528,Diesel,Dealer,Automatic,3
+Tata Prima,2014,26.73,32.72,86230,Diesel,Dealer,Automatic,0
+Volvo FMX,2005,23.02,30.82,98242,Diesel,Dealer,Automatic,0
+Tata Prima,2006,22.28,43.95,246955,Diesel,Dealer,Automatic,1
+DAF XF,2020,16.68,35.72,164688,Diesel,Dealer,Automatic,0
+DAF XF,2016,26.36,37.16,279438,Diesel,Dealer,Automatic,1
+Kenworth T680,2012,10.77,45.59,51783,Diesel,Individual,Automatic,2
+Hino 500,2022,27.42,44.18,78390,Diesel,Dealer,Manual,0
+Isuzu Giga,2006,20.25,23.97,189489,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2017,17.97,41.42,122102,Diesel,Dealer,Manual,0
+Freightliner Cascadia,2010,19.94,33.06,67426,Diesel,Individual,Manual,0
+Isuzu Giga,2010,23.35,28.84,80750,Diesel,Individual,Automatic,2
+Actros,2013,10.26,21.5,108188,Diesel,Individual,Manual,2
+Hino 500,2020,27.43,34.62,60872,Diesel,Dealer,Automatic,1
+Tata Prima,2015,18.93,30.66,144231,Diesel,Dealer,Manual,1
+Actros,2011,16.86,27.55,179860,Diesel,Dealer,Automatic,2
+MAN TGS,2014,12.76,40.84,229158,Diesel,Dealer,Manual,0
+Isuzu Giga,2014,18.79,43.08,116770,Diesel,Dealer,Automatic,1
+Tata Prima,2022,19.93,27.34,281360,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2013,18.07,21.48,275440,Diesel,Individual,Manual,3
+Scania,2019,23.57,45.46,174158,Diesel,Individual,Manual,1
+Kenworth T680,2008,18.42,20.3,133514,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2012,29.23,48.11,269249,Diesel,Dealer,Manual,1
+Hino 500,2013,21.99,38.83,142663,Diesel,Dealer,Automatic,3
+DAF XF,2017,26.15,29.66,215792,Diesel,Individual,Manual,2
+Scania,2013,12.19,27.39,199151,Diesel,Dealer,Automatic,0
+Kenworth T680,2008,17.95,20.27,198410,Diesel,Dealer,Manual,3
+Kenworth T680,2021,16.74,27.06,184363,Diesel,Dealer,Automatic,2
+MAN TGS,2020,21.39,24.13,255156,Diesel,Individual,Manual,1
+MAN TGS,2019,27.22,38.36,162808,Diesel,Individual,Automatic,2
+Volvo FMX,2007,11.57,25.0,160091,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2009,11.45,35.86,149272,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2009,27.01,37.7,99393,Diesel,Individual,Manual,0
+Freightliner Cascadia,2019,14.26,28.94,143558,Diesel,Dealer,Manual,2
+Volvo FMX,2022,23.38,21.05,119770,Diesel,Dealer,Automatic,2
+Actros,2019,20.86,21.12,76720,Diesel,Individual,Manual,2
+Kenworth T680,2006,26.66,20.79,287714,Diesel,Individual,Manual,2
+Scania,2017,12.5,42.17,286725,Diesel,Dealer,Automatic,3
+Hino 500,2008,12.6,29.54,63368,Diesel,Dealer,Automatic,3
+Kenworth T680,2014,21.14,43.89,235385,Diesel,Dealer,Automatic,2
+MAN TGS,2017,28.93,32.95,97969,Diesel,Individual,Automatic,2
+Tata Prima,2014,18.3,33.59,98838,Diesel,Individual,Manual,2
+DAF XF,2013,16.54,35.39,58734,Diesel,Dealer,Manual,1
+Volvo FMX,2012,22.13,41.39,157187,Diesel,Dealer,Manual,2
+Isuzu Giga,2007,28.61,28.21,149329,Diesel,Dealer,Automatic,2
+Tata Prima,2020,26.74,23.65,193269,Diesel,Dealer,Manual,3
+Hino 500,2018,29.91,36.68,118895,Diesel,Individual,Manual,3
+Freightliner Cascadia,2013,10.45,29.81,284633,Diesel,Dealer,Automatic,3
+MAN TGS,2015,12.26,33.27,170424,Diesel,Dealer,Manual,0
+MAN TGS,2007,22.19,39.41,237903,Diesel,Individual,Manual,1
+MAN TGS,2009,26.41,34.82,151255,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2014,15.7,38.61,108073,Diesel,Individual,Manual,3
+Isuzu Giga,2017,14.78,36.33,253997,Diesel,Individual,Automatic,0
+Volvo FMX,2008,25.74,42.19,294042,Diesel,Individual,Automatic,2
+Tata Prima,2017,11.13,41.18,261560,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2016,17.39,36.03,275683,Diesel,Individual,Manual,3
+Hino 500,2009,20.12,40.37,265547,Diesel,Dealer,Manual,2
+Volvo FMX,2014,21.21,46.21,293603,Diesel,Individual,Automatic,2
+Hino 500,2013,24.57,32.97,231374,Diesel,Individual,Automatic,2
+Volvo FMX,2011,17.1,32.38,65624,Diesel,Individual,Manual,3
+Isuzu Giga,2006,22.25,42.93,248343,Diesel,Dealer,Manual,0
+DAF XF,2011,21.71,37.48,74315,Diesel,Dealer,Automatic,2
+Hino 500,2012,20.95,22.13,67422,Diesel,Individual,Manual,0
+Freightliner Cascadia,2011,22.81,46.76,220209,Diesel,Dealer,Manual,2
+Volvo FMX,2018,15.19,20.92,122663,Diesel,Individual,Automatic,3
+MAN TGS,2009,11.69,42.45,151216,Diesel,Individual,Manual,0
+Kenworth T680,2022,12.39,42.76,229304,Diesel,Individual,Manual,3
+MAN TGS,2016,14.49,48.59,259214,Diesel,Individual,Manual,1
+Actros,2021,20.0,21.62,82743,Diesel,Dealer,Manual,2
+DAF XF,2017,26.81,37.91,280618,Diesel,Individual,Automatic,1
+DAF XF,2006,24.03,32.84,196708,Diesel,Dealer,Automatic,1
+MAN TGS,2017,25.78,29.92,271956,Diesel,Individual,Automatic,1
+Tata Prima,2011,17.02,22.71,60108,Diesel,Individual,Automatic,2
+Isuzu Giga,2014,18.09,36.88,254706,Diesel,Individual,Manual,3
+Hino 500,2010,17.87,34.37,86180,Diesel,Individual,Manual,1
+Freightliner Cascadia,2007,13.84,23.14,68883,Diesel,Individual,Manual,0
+DAF XF,2007,11.22,38.37,94400,Diesel,Dealer,Manual,2
+MAN TGS,2022,21.82,42.14,227071,Diesel,Dealer,Automatic,3
+MAN TGS,2015,29.78,43.02,97951,Diesel,Individual,Manual,3
+Isuzu Giga,2009,13.34,47.16,188232,Diesel,Dealer,Manual,1
+Isuzu Giga,2019,10.93,32.28,105262,Diesel,Dealer,Automatic,2
+Scania,2020,25.59,48.59,201001,Diesel,Individual,Automatic,1
+Scania,2013,15.05,45.96,133133,Diesel,Individual,Automatic,0
+Tata Prima,2008,26.59,28.9,192195,Diesel,Individual,Manual,3
+Tata Prima,2019,24.08,24.78,165106,Diesel,Individual,Automatic,3
+Actros,2016,28.91,33.06,209429,Diesel,Dealer,Manual,2
+Tata Prima,2007,18.18,32.06,120496,Diesel,Dealer,Manual,3
+Volvo FMX,2018,23.24,37.27,214628,Diesel,Dealer,Automatic,2
+Isuzu Giga,2021,19.3,37.5,264863,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2010,22.61,42.5,111934,Diesel,Individual,Automatic,0
+Volvo FMX,2008,18.99,35.3,128886,Diesel,Individual,Manual,2
+Hino 500,2011,13.77,23.14,80881,Diesel,Individual,Manual,1
+MAN TGS,2021,20.16,45.75,68409,Diesel,Individual,Manual,0
+Tata Prima,2020,20.57,29.29,236488,Diesel,Dealer,Automatic,3
+MAN TGS,2019,26.21,49.14,148171,Diesel,Dealer,Manual,0
+DAF XF,2012,24.71,23.54,249054,Diesel,Individual,Manual,0
+Actros,2012,23.28,48.75,211729,Diesel,Dealer,Manual,0
+DAF XF,2022,12.27,22.73,267815,Diesel,Dealer,Manual,3
+Actros,2020,24.41,26.93,98951,Diesel,Individual,Automatic,2
+Scania,2014,20.01,21.4,58752,Diesel,Dealer,Manual,2
+MAN TGS,2021,27.88,41.15,167339,Diesel,Individual,Automatic,0
+Actros,2017,28.4,45.51,194512,Diesel,Dealer,Automatic,1
+Kenworth T680,2017,11.1,33.02,94864,Diesel,Dealer,Manual,1
+Volvo FMX,2011,26.41,47.86,230763,Diesel,Individual,Manual,0
+Actros,2014,10.75,37.71,122035,Diesel,Individual,Automatic,0
+Actros,2006,17.34,38.9,136675,Diesel,Individual,Manual,1
+Volvo FMX,2008,20.85,45.36,261375,Diesel,Dealer,Automatic,0
+MAN TGS,2010,12.96,28.9,72343,Diesel,Individual,Manual,0
+MAN TGS,2022,24.93,30.63,274320,Diesel,Dealer,Manual,2
+Volvo FMX,2010,10.17,47.18,69673,Diesel,Individual,Automatic,2
+DAF XF,2021,13.37,47.03,241026,Diesel,Dealer,Manual,0
+Kenworth T680,2018,21.62,49.29,235770,Diesel,Individual,Automatic,0
+Freightliner Cascadia,2015,24.29,47.06,145024,Diesel,Individual,Automatic,3
+Hino 500,2006,28.33,23.82,76520,Diesel,Dealer,Manual,2
+Kenworth T680,2007,24.11,44.71,290713,Diesel,Dealer,Automatic,0
+MAN TGS,2015,23.44,32.3,295195,Diesel,Individual,Manual,3
+Freightliner Cascadia,2010,17.89,49.72,65784,Diesel,Dealer,Manual,3
+Scania,2018,10.03,34.17,167446,Diesel,Individual,Manual,3
+Tata Prima,2020,12.4,36.62,88079,Diesel,Dealer,Automatic,3
+Actros,2011,20.69,35.89,94220,Diesel,Dealer,Manual,2
+Volvo FMX,2012,23.5,29.65,201563,Diesel,Individual,Manual,3
+Volvo FMX,2020,18.35,22.25,162878,Diesel,Individual,Automatic,2
+Actros,2011,24.61,46.87,166583,Diesel,Dealer,Automatic,3
+Tata Prima,2013,20.44,44.08,98720,Diesel,Dealer,Automatic,3
+Hino 500,2017,11.48,24.19,281876,Diesel,Dealer,Automatic,1
+Tata Prima,2005,13.84,43.3,64718,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2012,26.8,38.78,216669,Diesel,Individual,Manual,1
+Tata Prima,2008,24.5,32.27,111217,Diesel,Individual,Manual,1
+Freightliner Cascadia,2007,27.9,27.62,279423,Diesel,Dealer,Manual,3
+Tata Prima,2007,12.35,45.79,150668,Diesel,Individual,Automatic,2
+Hino 500,2017,29.8,41.01,207904,Diesel,Dealer,Automatic,0
+Hino 500,2012,14.19,36.43,235890,Diesel,Dealer,Manual,3
+MAN TGS,2011,10.24,38.29,278470,Diesel,Dealer,Automatic,2
+Actros,2005,29.95,22.73,193936,Diesel,Individual,Automatic,1
+Hino 500,2020,15.62,34.22,138378,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2010,23.36,25.81,58177,Diesel,Individual,Automatic,3
+Hino 500,2011,13.53,26.25,227187,Diesel,Individual,Automatic,2
+MAN TGS,2016,21.6,39.84,172318,Diesel,Dealer,Manual,1
+Volvo FMX,2013,28.08,47.34,287307,Diesel,Individual,Manual,2
+Freightliner Cascadia,2015,16.4,32.11,237282,Diesel,Dealer,Automatic,2
+MAN TGS,2014,23.41,26.23,233026,Diesel,Dealer,Automatic,1
+DAF XF,2005,13.76,39.46,161145,Diesel,Individual,Manual,3
+DAF XF,2022,22.5,46.14,192916,Diesel,Dealer,Manual,0
+Scania,2008,16.73,42.45,255202,Diesel,Individual,Automatic,1
+Tata Prima,2009,14.22,46.06,63418,Diesel,Individual,Automatic,1
+Actros,2013,16.26,36.1,215926,Diesel,Individual,Automatic,3
+Isuzu Giga,2021,13.58,42.56,269716,Diesel,Dealer,Manual,3
+Kenworth T680,2007,28.04,24.2,257027,Diesel,Individual,Automatic,2
+MAN TGS,2020,17.94,30.45,138075,Diesel,Dealer,Automatic,1
+Volvo FMX,2009,14.91,31.69,290978,Diesel,Dealer,Automatic,2
+Kenworth T680,2020,18.97,35.34,225022,Diesel,Individual,Automatic,2
+Volvo FMX,2007,16.41,47.87,115227,Diesel,Individual,Automatic,3
+Kenworth T680,2019,24.89,46.23,193907,Diesel,Dealer,Automatic,3
+MAN TGS,2007,29.42,24.04,67533,Diesel,Individual,Automatic,2
+Isuzu Giga,2018,18.76,25.18,295822,Diesel,Individual,Automatic,1
+Kenworth T680,2020,27.22,30.73,276123,Diesel,Individual,Manual,1
+MAN TGS,2021,21.32,28.72,151457,Diesel,Dealer,Manual,2
+Hino 500,2022,13.14,38.44,157504,Diesel,Individual,Manual,0
+Isuzu Giga,2022,23.81,47.08,268930,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2018,20.27,48.87,191295,Diesel,Dealer,Manual,3
+Volvo FMX,2022,23.01,39.61,174202,Diesel,Individual,Manual,1
+DAF XF,2019,27.79,45.14,60273,Diesel,Individual,Manual,2
+Tata Prima,2019,18.81,35.76,83519,Diesel,Dealer,Manual,2
+DAF XF,2010,28.02,26.25,205232,Diesel,Dealer,Manual,1
+Isuzu Giga,2019,25.01,35.74,177024,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2022,19.77,36.65,255457,Diesel,Dealer,Manual,3
+Volvo FMX,2008,22.06,42.27,174540,Diesel,Individual,Automatic,0
+Freightliner Cascadia,2012,16.51,26.6,296460,Diesel,Dealer,Automatic,1
+Kenworth T680,2019,29.67,31.05,272264,Diesel,Individual,Manual,1
+Volvo FMX,2007,23.35,30.92,230060,Diesel,Dealer,Automatic,2
+Kenworth T680,2019,10.88,48.78,191420,Diesel,Individual,Manual,1
+MAN TGS,2017,16.53,33.32,133460,Diesel,Individual,Automatic,0
+Isuzu Giga,2013,22.47,42.65,298792,Diesel,Dealer,Automatic,1
+MAN TGS,2006,11.13,42.52,154471,Diesel,Individual,Manual,2
+Scania,2012,10.48,27.97,154668,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2021,19.0,37.16,117519,Diesel,Dealer,Automatic,2
+Kenworth T680,2017,16.65,46.83,140426,Diesel,Dealer,Automatic,1
+Hino 500,2005,18.77,34.26,64629,Diesel,Dealer,Automatic,3
+MAN TGS,2006,15.25,48.35,99056,Diesel,Individual,Automatic,1
+Scania,2019,13.29,26.43,61273,Diesel,Dealer,Automatic,1
+Actros,2016,23.78,22.22,170484,Diesel,Dealer,Automatic,2
+DAF XF,2018,20.29,46.74,147275,Diesel,Dealer,Automatic,3
+Volvo FMX,2006,14.0,45.43,221488,Diesel,Individual,Manual,1
+Scania,2022,16.39,49.78,188966,Diesel,Dealer,Automatic,0
+Isuzu Giga,2011,21.84,40.38,96073,Diesel,Individual,Manual,0
+MAN TGS,2010,11.44,48.1,95693,Diesel,Individual,Manual,2
+Isuzu Giga,2018,12.95,44.81,232538,Diesel,Dealer,Automatic,2
+DAF XF,2012,11.46,45.33,74343,Diesel,Individual,Automatic,3
+Hino 500,2006,26.25,37.07,93095,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2021,25.05,31.47,212246,Diesel,Individual,Manual,3
+Freightliner Cascadia,2009,25.07,48.04,231873,Diesel,Individual,Manual,1
+Isuzu Giga,2018,24.33,32.96,172388,Diesel,Dealer,Automatic,0
+Kenworth T680,2007,23.39,36.16,290787,Diesel,Individual,Automatic,0
+Hino 500,2009,19.54,33.38,253508,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2020,22.85,36.94,164441,Diesel,Individual,Manual,2
+Hino 500,2022,10.77,34.12,250408,Diesel,Dealer,Automatic,2
+Scania,2021,22.43,21.44,150782,Diesel,Dealer,Automatic,1
+Hino 500,2015,25.56,46.46,289343,Diesel,Dealer,Automatic,2
+Tata Prima,2021,20.01,33.33,223998,Diesel,Dealer,Automatic,3
+DAF XF,2020,17.15,37.67,122590,Diesel,Individual,Manual,0
+Freightliner Cascadia,2006,15.55,24.18,219899,Diesel,Dealer,Automatic,1
+Hino 500,2008,22.86,20.1,158263,Diesel,Dealer,Automatic,3
+Isuzu Giga,2011,23.86,27.36,225847,Diesel,Dealer,Manual,3
+Actros,2006,27.42,41.14,222273,Diesel,Dealer,Automatic,2
+Tata Prima,2010,16.85,22.98,79373,Diesel,Individual,Manual,2
+Tata Prima,2021,25.4,47.27,77525,Diesel,Dealer,Manual,0
+Kenworth T680,2011,21.23,26.45,177716,Diesel,Individual,Automatic,1
+Hino 500,2009,27.66,26.14,154513,Diesel,Dealer,Manual,3
+Kenworth T680,2009,20.56,25.45,253723,Diesel,Dealer,Automatic,2
+Kenworth T680,2020,20.35,20.42,179401,Diesel,Dealer,Manual,2
+Actros,2013,21.56,43.15,146643,Diesel,Dealer,Manual,1
+Scania,2009,24.99,46.25,211558,Diesel,Dealer,Automatic,1
+Hino 500,2012,29.29,38.42,259676,Diesel,Dealer,Manual,2
+MAN TGS,2013,11.47,25.65,199712,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2009,11.07,28.56,147694,Diesel,Individual,Automatic,0
+Kenworth T680,2014,28.75,34.28,242527,Diesel,Dealer,Automatic,1
+DAF XF,2006,20.6,48.63,86136,Diesel,Dealer,Automatic,3
+Volvo FMX,2013,22.3,27.42,243497,Diesel,Dealer,Manual,2
+DAF XF,2015,19.65,41.95,106539,Diesel,Individual,Automatic,2
+Actros,2008,11.87,33.18,262736,Diesel,Dealer,Manual,2
+Actros,2006,25.36,28.94,206014,Diesel,Individual,Automatic,2
+Isuzu Giga,2010,24.94,33.68,118363,Diesel,Individual,Manual,0
+Scania,2018,16.23,22.14,239668,Diesel,Individual,Manual,1
+Freightliner Cascadia,2005,16.12,43.96,131526,Diesel,Individual,Manual,2
+Kenworth T680,2022,26.76,27.3,85255,Diesel,Individual,Manual,1
+DAF XF,2011,11.45,41.76,243201,Diesel,Dealer,Automatic,3
+Volvo FMX,2005,27.62,22.05,266595,Diesel,Individual,Automatic,3
+Actros,2005,15.13,48.65,168209,Diesel,Individual,Manual,3
+Actros,2005,21.86,25.79,292723,Diesel,Dealer,Manual,3
+Scania,2008,28.72,46.48,243358,Diesel,Dealer,Automatic,1
+Volvo FMX,2008,23.56,44.28,136437,Diesel,Individual,Manual,3
+Volvo FMX,2022,18.29,49.04,197349,Diesel,Dealer,Manual,3
+Scania,2015,23.79,34.34,182715,Diesel,Dealer,Automatic,2
+Actros,2005,16.88,41.82,165900,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2014,15.55,31.12,73729,Diesel,Individual,Manual,2
+Hino 500,2013,29.93,25.53,267695,Diesel,Individual,Automatic,0
+Hino 500,2008,25.02,33.29,71818,Diesel,Dealer,Manual,2
+Scania,2010,22.89,24.97,115555,Diesel,Dealer,Automatic,3
+Volvo FMX,2020,17.11,49.46,148979,Diesel,Individual,Automatic,1
+Kenworth T680,2006,10.98,22.89,103629,Diesel,Individual,Automatic,3
+Scania,2022,10.62,37.68,165296,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2014,21.08,38.79,105438,Diesel,Individual,Manual,3
+Scania,2021,25.24,36.14,295821,Diesel,Individual,Automatic,0
+Tata Prima,2017,20.75,39.87,59457,Diesel,Dealer,Automatic,2
+DAF XF,2022,26.82,23.49,240701,Diesel,Dealer,Manual,3
+Volvo FMX,2017,10.67,36.65,83922,Diesel,Individual,Automatic,2
+Isuzu Giga,2021,17.34,28.62,190892,Diesel,Individual,Manual,0
+Isuzu Giga,2009,14.74,48.21,213822,Diesel,Individual,Automatic,0
+Volvo FMX,2015,18.95,42.86,158122,Diesel,Dealer,Automatic,2
+Freightliner Cascadia,2011,11.45,49.18,152020,Diesel,Dealer,Automatic,2
+Tata Prima,2014,29.08,21.13,284618,Diesel,Dealer,Automatic,1
+Tata Prima,2021,14.47,28.55,218862,Diesel,Dealer,Manual,2
+Actros,2019,28.45,25.86,138405,Diesel,Individual,Manual,2
+DAF XF,2022,18.52,20.33,166130,Diesel,Dealer,Manual,1
+Hino 500,2006,29.71,27.27,215493,Diesel,Dealer,Automatic,3
+MAN TGS,2008,21.08,40.36,118038,Diesel,Individual,Automatic,1
+Freightliner Cascadia,2007,28.62,26.93,299029,Diesel,Dealer,Automatic,3
+MAN TGS,2011,10.11,35.27,263273,Diesel,Individual,Manual,3
+MAN TGS,2022,24.96,46.63,112325,Diesel,Dealer,Automatic,3
+Volvo FMX,2014,28.06,40.81,75600,Diesel,Individual,Manual,1
+Isuzu Giga,2011,12.79,31.84,210466,Diesel,Individual,Manual,1
+Isuzu Giga,2012,11.92,31.17,260694,Diesel,Individual,Manual,0
+Hino 500,2010,18.49,33.67,217243,Diesel,Dealer,Automatic,3
+Volvo FMX,2005,28.67,25.31,280611,Diesel,Individual,Automatic,1
+MAN TGS,2008,20.85,39.02,111526,Diesel,Dealer,Automatic,0
+Kenworth T680,2018,20.55,30.92,63149,Diesel,Dealer,Automatic,3
+Isuzu Giga,2021,12.82,45.57,211466,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2022,10.02,42.7,195468,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2015,26.2,38.32,204396,Diesel,Dealer,Automatic,1
+Actros,2018,11.75,30.93,228270,Diesel,Dealer,Automatic,2
+Scania,2013,22.68,26.3,263777,Diesel,Individual,Automatic,0
+Kenworth T680,2019,28.29,43.28,162168,Diesel,Individual,Manual,1
+Isuzu Giga,2016,14.17,34.59,294882,Diesel,Dealer,Automatic,2
+Tata Prima,2014,23.31,26.74,159813,Diesel,Dealer,Manual,0
+Isuzu Giga,2010,11.57,25.86,141779,Diesel,Dealer,Manual,0
+Actros,2010,22.08,24.96,212088,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2012,13.28,43.31,184266,Diesel,Dealer,Manual,0
+MAN TGS,2005,24.72,26.87,82398,Diesel,Individual,Manual,2
+Tata Prima,2021,16.02,35.8,54789,Diesel,Individual,Manual,3
+Volvo FMX,2021,19.27,33.55,266767,Diesel,Dealer,Manual,1
+DAF XF,2019,21.99,37.39,114967,Diesel,Dealer,Automatic,2
+MAN TGS,2011,13.43,46.31,290014,Diesel,Individual,Automatic,0
+DAF XF,2007,24.83,46.03,242206,Diesel,Dealer,Automatic,0
+Kenworth T680,2015,16.05,33.53,251958,Diesel,Dealer,Manual,3
+Scania,2013,23.25,20.46,148837,Diesel,Dealer,Manual,3
+Tata Prima,2014,13.17,32.79,206049,Diesel,Individual,Automatic,3
+Hino 500,2006,23.76,38.19,151967,Diesel,Individual,Manual,3
+Tata Prima,2005,12.56,36.73,181201,Diesel,Dealer,Manual,3
+Isuzu Giga,2020,18.51,39.54,109683,Diesel,Individual,Manual,1
+Freightliner Cascadia,2022,14.94,24.62,95331,Diesel,Individual,Manual,2
+Isuzu Giga,2021,24.97,39.4,298719,Diesel,Dealer,Manual,3
+Isuzu Giga,2010,15.24,25.48,84626,Diesel,Individual,Manual,3
+Kenworth T680,2018,27.63,42.52,229575,Diesel,Individual,Manual,1
+MAN TGS,2019,27.84,30.17,208621,Diesel,Individual,Manual,2
+Hino 500,2018,13.93,41.3,62342,Diesel,Individual,Manual,3
+Hino 500,2007,22.28,21.44,86417,Diesel,Individual,Manual,2
+Isuzu Giga,2016,11.75,32.24,257586,Diesel,Individual,Manual,2
+DAF XF,2006,17.83,41.15,233321,Diesel,Dealer,Manual,1
+Kenworth T680,2007,24.27,26.81,102664,Diesel,Dealer,Automatic,1
+Isuzu Giga,2022,23.19,43.86,284236,Diesel,Dealer,Manual,3
+Scania,2005,22.49,38.92,288788,Diesel,Individual,Manual,0
+Freightliner Cascadia,2010,15.65,37.63,58833,Diesel,Dealer,Automatic,1
+MAN TGS,2009,17.56,30.61,110658,Diesel,Individual,Automatic,2
+Volvo FMX,2005,12.06,34.47,293511,Diesel,Individual,Automatic,2
+Scania,2005,24.38,37.92,280099,Diesel,Dealer,Manual,3
+DAF XF,2020,20.08,34.17,210545,Diesel,Individual,Manual,3
+Tata Prima,2016,24.18,40.95,181809,Diesel,Dealer,Automatic,3
+Tata Prima,2012,14.98,33.01,144965,Diesel,Individual,Automatic,2
+Scania,2020,16.49,26.07,227719,Diesel,Dealer,Automatic,1
+Isuzu Giga,2005,16.68,26.42,114054,Diesel,Dealer,Manual,0
+Volvo FMX,2008,10.51,20.17,51299,Diesel,Dealer,Manual,1
+Actros,2014,16.82,29.03,244353,Diesel,Dealer,Automatic,0
+Actros,2015,26.07,42.47,299240,Diesel,Individual,Manual,1
+DAF XF,2021,27.95,43.82,115875,Diesel,Dealer,Manual,3
+Isuzu Giga,2011,20.36,26.07,213992,Diesel,Individual,Automatic,2
+Hino 500,2016,19.11,48.77,235908,Diesel,Dealer,Automatic,0
+Hino 500,2011,10.62,35.07,223453,Diesel,Dealer,Automatic,1
+MAN TGS,2016,27.58,47.51,293131,Diesel,Dealer,Manual,2
+Volvo FMX,2019,10.26,41.2,164286,Diesel,Individual,Manual,0
+Volvo FMX,2006,28.9,41.67,266043,Diesel,Dealer,Manual,0
+Tata Prima,2018,19.78,22.55,148730,Diesel,Dealer,Manual,2
+Kenworth T680,2017,16.84,26.6,106298,Diesel,Individual,Manual,3
+DAF XF,2008,28.48,20.26,205581,Diesel,Dealer,Automatic,2
+Actros,2018,10.49,41.48,171035,Diesel,Individual,Manual,3
+DAF XF,2018,21.63,30.33,223167,Diesel,Dealer,Manual,1
+Hino 500,2020,20.98,43.6,232596,Diesel,Dealer,Automatic,1
+Hino 500,2011,14.39,30.17,159825,Diesel,Dealer,Automatic,2
+Scania,2006,18.58,44.58,165637,Diesel,Individual,Automatic,3
+MAN TGS,2014,23.05,23.92,247981,Diesel,Dealer,Automatic,1
+Volvo FMX,2022,24.54,25.2,122618,Diesel,Dealer,Manual,3
+Freightliner Cascadia,2021,10.01,30.23,75532,Diesel,Dealer,Manual,3
+DAF XF,2009,28.74,32.25,158197,Diesel,Individual,Automatic,3
+Hino 500,2016,13.29,30.46,180860,Diesel,Individual,Manual,2
+Kenworth T680,2010,14.67,42.91,110285,Diesel,Individual,Automatic,3
+Tata Prima,2013,15.27,22.91,68866,Diesel,Individual,Manual,2
+Actros,2005,10.76,30.54,188665,Diesel,Individual,Manual,1
+MAN TGS,2019,12.46,45.12,59495,Diesel,Individual,Manual,1
+Kenworth T680,2010,29.73,22.0,296130,Diesel,Dealer,Automatic,0
+MAN TGS,2022,16.3,48.27,57837,Diesel,Dealer,Automatic,0
+Scania,2010,12.31,49.59,257780,Diesel,Dealer,Manual,1
+Freightliner Cascadia,2017,12.14,22.66,199752,Diesel,Dealer,Manual,3
+Hino 500,2005,24.39,28.74,236548,Diesel,Dealer,Automatic,3
+Tata Prima,2017,27.09,31.17,80346,Diesel,Individual,Automatic,1
+Kenworth T680,2011,15.14,43.29,158621,Diesel,Individual,Manual,1
+MAN TGS,2019,10.42,37.88,73412,Diesel,Individual,Manual,0
+Volvo FMX,2016,14.46,39.33,269471,Diesel,Dealer,Automatic,3
+Scania,2005,11.13,42.73,168833,Diesel,Individual,Manual,1
+Volvo FMX,2019,12.07,23.54,211876,Diesel,Dealer,Automatic,0
+Tata Prima,2008,18.63,45.0,115206,Diesel,Individual,Automatic,0
+Kenworth T680,2017,14.6,41.17,60934,Diesel,Dealer,Manual,3
+Scania,2009,20.32,37.32,80723,Diesel,Individual,Manual,0
+Kenworth T680,2006,15.07,46.69,177968,Diesel,Dealer,Manual,0
+Hino 500,2005,28.81,41.01,201477,Diesel,Individual,Automatic,2
+Isuzu Giga,2020,28.12,26.05,199820,Diesel,Dealer,Automatic,1
+Scania,2010,21.34,32.89,251838,Diesel,Individual,Automatic,3
+Volvo FMX,2020,17.09,34.82,227485,Diesel,Dealer,Manual,1
+Tata Prima,2018,17.62,21.66,203426,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2007,18.24,48.64,255562,Diesel,Dealer,Automatic,3
+Hino 500,2019,24.55,23.86,171988,Diesel,Dealer,Automatic,1
+Isuzu Giga,2007,19.03,40.92,269747,Diesel,Individual,Manual,0
+Freightliner Cascadia,2006,27.13,35.19,291630,Diesel,Individual,Automatic,3
+Actros,2005,28.88,20.77,198460,Diesel,Individual,Manual,2
+Hino 500,2013,16.72,47.74,286433,Diesel,Dealer,Manual,0
+Tata Prima,2013,21.21,45.56,86523,Diesel,Individual,Automatic,2
+MAN TGS,2011,11.9,35.73,151150,Diesel,Dealer,Automatic,0
+Scania,2007,14.01,26.87,170950,Diesel,Individual,Automatic,1
+Kenworth T680,2022,18.27,23.65,238765,Diesel,Dealer,Automatic,1
+Tata Prima,2015,14.12,30.9,216804,Diesel,Individual,Automatic,1
+Scania,2011,27.53,27.66,91646,Diesel,Dealer,Manual,2
+Freightliner Cascadia,2013,13.17,35.2,202093,Diesel,Dealer,Automatic,3
+Kenworth T680,2005,19.11,48.99,274310,Diesel,Individual,Manual,1
+DAF XF,2018,22.11,37.25,292024,Diesel,Individual,Automatic,2
+Volvo FMX,2010,23.84,46.7,282131,Diesel,Individual,Automatic,0
+Actros,2011,17.66,39.53,102776,Diesel,Dealer,Automatic,1
+Hino 500,2014,27.38,34.26,69116,Diesel,Dealer,Automatic,0
+Tata Prima,2011,21.37,45.64,253081,Diesel,Dealer,Automatic,1
+Actros,2006,18.79,34.14,162858,Diesel,Individual,Automatic,0
+MAN TGS,2008,11.34,46.06,269343,Diesel,Dealer,Manual,2
+Scania,2021,19.29,28.75,281069,Diesel,Individual,Automatic,1
+Scania,2005,26.41,23.86,126620,Diesel,Dealer,Automatic,2
+Tata Prima,2014,22.29,45.66,225843,Diesel,Individual,Automatic,2
+Isuzu Giga,2019,26.64,37.62,209828,Diesel,Dealer,Automatic,0
+Isuzu Giga,2014,19.88,46.67,132604,Diesel,Dealer,Manual,1
+DAF XF,2016,12.37,48.13,144452,Diesel,Individual,Manual,3
+Volvo FMX,2020,10.27,21.61,183991,Diesel,Dealer,Manual,3
+Kenworth T680,2013,16.06,35.03,73550,Diesel,Dealer,Manual,2
+MAN TGS,2019,23.96,31.25,217596,Diesel,Individual,Manual,0
+Actros,2021,25.81,38.78,235678,Diesel,Dealer,Manual,0
+Isuzu Giga,2018,15.92,43.81,249891,Diesel,Individual,Automatic,0
+DAF XF,2022,19.91,28.42,120227,Diesel,Individual,Automatic,1
+DAF XF,2006,18.42,36.7,73212,Diesel,Dealer,Manual,1
+Tata Prima,2008,18.21,41.26,90118,Diesel,Dealer,Automatic,0
+MAN TGS,2022,14.63,24.03,78602,Diesel,Dealer,Automatic,3
+Freightliner Cascadia,2011,12.73,44.42,67540,Diesel,Individual,Automatic,3
+Kenworth T680,2017,13.93,38.18,216901,Diesel,Dealer,Automatic,1
+Volvo FMX,2019,11.11,48.49,237381,Diesel,Individual,Automatic,0
+Hino 500,2005,13.96,30.19,246475,Diesel,Dealer,Manual,3
+Tata Prima,2015,10.18,23.24,121455,Diesel,Dealer,Manual,3
+Kenworth T680,2014,22.55,35.2,72277,Diesel,Individual,Manual,1
+Hino 500,2009,16.33,22.57,169133,Diesel,Dealer,Manual,1
+Hino 500,2020,29.46,49.09,240745,Diesel,Dealer,Manual,3
+MAN TGS,2015,13.87,21.16,198748,Diesel,Dealer,Manual,0
+MAN TGS,2010,16.92,42.61,223916,Diesel,Dealer,Automatic,3
+Actros,2013,17.16,35.75,245780,Diesel,Dealer,Manual,3
+DAF XF,2017,10.17,31.06,59752,Diesel,Individual,Automatic,0
+Kenworth T680,2012,26.78,21.98,262620,Diesel,Dealer,Automatic,1
+Tata Prima,2018,10.64,38.67,255783,Diesel,Individual,Manual,0
+Scania,2005,28.8,37.56,221742,Diesel,Dealer,Manual,0
+Tata Prima,2021,27.84,28.43,248675,Diesel,Dealer,Manual,0
+Actros,2009,20.71,47.31,212550,Diesel,Individual,Automatic,0
+Volvo FMX,2006,20.87,29.12,207511,Diesel,Dealer,Manual,1
+DAF XF,2013,23.08,33.49,215819,Diesel,Dealer,Manual,3
+Scania,2008,17.74,36.31,297496,Diesel,Individual,Manual,2
+Isuzu Giga,2021,22.94,23.01,175332,Diesel,Individual,Automatic,1
+Volvo FMX,2021,10.9,47.96,210882,Diesel,Dealer,Manual,0
+MAN TGS,2022,11.08,31.24,68302,Diesel,Individual,Manual,3
+Hino 500,2020,19.14,22.42,116236,Diesel,Individual,Automatic,3
+Isuzu Giga,2012,20.99,31.62,114467,Diesel,Individual,Automatic,0
+Tata Prima,2015,27.76,38.01,152350,Diesel,Individual,Automatic,1
+Tata Prima,2022,12.09,35.41,215913,Diesel,Dealer,Manual,0
+MAN TGS,2014,26.45,40.84,225785,Diesel,Dealer,Manual,3
+Actros,2017,14.2,21.66,230618,Diesel,Individual,Automatic,3
+Kenworth T680,2021,17.88,28.54,53048,Diesel,Dealer,Manual,1
+Isuzu Giga,2022,16.33,44.58,299212,Diesel,Individual,Automatic,2
+Isuzu Giga,2014,18.0,22.4,214362,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2020,13.01,45.66,108906,Diesel,Dealer,Automatic,2
+Volvo FMX,2009,20.07,22.76,126637,Diesel,Individual,Automatic,3
+DAF XF,2017,26.03,45.03,79778,Diesel,Individual,Automatic,2
+Volvo FMX,2022,18.83,30.82,208497,Diesel,Dealer,Manual,0
+Kenworth T680,2021,19.81,38.37,288117,Diesel,Dealer,Manual,0
+Tata Prima,2013,26.98,24.59,264460,Diesel,Dealer,Manual,3
+Tata Prima,2018,24.12,21.99,170918,Diesel,Individual,Manual,1
+Tata Prima,2021,19.81,26.48,140036,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2008,15.15,23.84,239248,Diesel,Individual,Manual,3
+Tata Prima,2022,27.7,29.37,193746,Diesel,Individual,Automatic,0
+Kenworth T680,2019,21.54,35.43,243474,Diesel,Individual,Automatic,1
+MAN TGS,2015,14.42,37.66,269803,Diesel,Dealer,Manual,2
+DAF XF,2016,15.38,43.7,297181,Diesel,Individual,Manual,3
+Kenworth T680,2013,26.06,39.69,270979,Diesel,Dealer,Automatic,2
+DAF XF,2017,10.88,38.26,214125,Diesel,Individual,Manual,0
+Kenworth T680,2019,29.84,32.35,298505,Diesel,Dealer,Manual,1
+Tata Prima,2019,12.61,34.21,61957,Diesel,Dealer,Manual,0
+MAN TGS,2009,25.92,32.44,122644,Diesel,Individual,Manual,2
+Isuzu Giga,2018,17.9,45.26,234688,Diesel,Individual,Automatic,0
+Volvo FMX,2021,19.84,26.9,163294,Diesel,Dealer,Automatic,0
+Hino 500,2022,27.61,20.17,67829,Diesel,Dealer,Manual,3
+MAN TGS,2007,18.26,39.54,55837,Diesel,Individual,Automatic,3
+Isuzu Giga,2006,20.75,26.07,245213,Diesel,Individual,Automatic,0
+Actros,2005,10.99,46.7,196104,Diesel,Dealer,Manual,3
+Kenworth T680,2014,10.05,45.77,149770,Diesel,Dealer,Manual,0
+Actros,2021,14.9,22.3,76352,Diesel,Individual,Automatic,2
+Isuzu Giga,2016,23.61,23.19,80215,Diesel,Dealer,Automatic,3
+MAN TGS,2005,12.43,34.86,237391,Diesel,Individual,Automatic,0
+Kenworth T680,2016,12.28,38.28,255714,Diesel,Individual,Manual,3
+Hino 500,2021,18.22,28.25,91247,Diesel,Individual,Automatic,0
+Tata Prima,2007,22.96,41.5,275374,Diesel,Individual,Automatic,3
+Kenworth T680,2015,24.24,37.85,179692,Diesel,Dealer,Manual,1
+Kenworth T680,2021,13.57,29.74,224120,Diesel,Individual,Automatic,0
+MAN TGS,2007,11.59,20.76,285308,Diesel,Individual,Manual,1
+MAN TGS,2012,28.81,42.5,256604,Diesel,Dealer,Manual,0
+Isuzu Giga,2008,15.21,26.44,116714,Diesel,Dealer,Automatic,1
+Scania,2011,27.07,45.03,85319,Diesel,Individual,Manual,0
+Kenworth T680,2018,27.27,32.61,169058,Diesel,Individual,Manual,3
+Volvo FMX,2018,25.45,37.31,66025,Diesel,Individual,Automatic,1
+Kenworth T680,2008,13.38,46.19,59780,Diesel,Individual,Manual,3
+Isuzu Giga,2020,26.44,45.91,72706,Diesel,Individual,Automatic,0
+DAF XF,2005,25.39,31.15,223988,Diesel,Individual,Manual,3
+Actros,2021,21.93,26.27,125503,Diesel,Dealer,Manual,0
+Tata Prima,2014,16.74,43.25,211928,Diesel,Dealer,Automatic,3
+Scania,2020,15.25,32.99,153166,Diesel,Individual,Automatic,1
+Hino 500,2020,12.44,25.76,59179,Diesel,Dealer,Automatic,0
+Hino 500,2012,20.2,47.13,219695,Diesel,Dealer,Manual,3
+Hino 500,2011,21.71,25.94,198659,Diesel,Individual,Automatic,0
+MAN TGS,2010,17.19,20.77,204805,Diesel,Dealer,Manual,0
+Hino 500,2020,19.51,20.61,269378,Diesel,Dealer,Automatic,0
+Tata Prima,2020,17.27,38.67,149423,Diesel,Individual,Manual,2
+Actros,2011,22.82,39.85,173076,Diesel,Individual,Automatic,0
+Hino 500,2013,28.03,29.33,185047,Diesel,Individual,Manual,3
+Kenworth T680,2018,13.28,29.6,259527,Diesel,Dealer,Automatic,2
+Kenworth T680,2015,17.63,30.18,125138,Diesel,Individual,Manual,3
+MAN TGS,2018,12.82,40.4,226535,Diesel,Dealer,Manual,2
+Tata Prima,2011,22.5,21.74,280668,Diesel,Individual,Manual,0
+Actros,2005,24.58,47.87,223226,Diesel,Individual,Manual,1
+Scania,2017,28.64,26.68,256748,Diesel,Individual,Automatic,1
+Isuzu Giga,2007,15.58,49.99,299415,Diesel,Individual,Manual,0
+Actros,2008,29.0,25.15,136706,Diesel,Dealer,Automatic,2
+Isuzu Giga,2015,11.27,43.15,166905,Diesel,Dealer,Manual,3
+DAF XF,2006,22.06,26.7,78830,Diesel,Individual,Automatic,1
+Isuzu Giga,2018,11.14,22.43,160076,Diesel,Dealer,Manual,0
+Volvo FMX,2016,27.88,46.25,253198,Diesel,Individual,Manual,0
+Kenworth T680,2021,20.6,45.76,227817,Diesel,Individual,Automatic,2
+Tata Prima,2016,23.39,32.11,80609,Diesel,Dealer,Automatic,1
+Freightliner Cascadia,2016,26.63,41.07,67401,Diesel,Dealer,Manual,0
+MAN TGS,2005,13.01,36.71,208801,Diesel,Individual,Automatic,1
+Volvo FMX,2017,10.77,45.59,153480,Diesel,Individual,Automatic,3
+Isuzu Giga,2018,27.58,29.45,168278,Diesel,Individual,Automatic,0
+Hino 500,2006,16.3,35.71,226239,Diesel,Dealer,Manual,0
+Tata Prima,2016,12.58,34.56,275253,Diesel,Individual,Automatic,3
+Volvo FMX,2020,19.37,30.62,107391,Diesel,Individual,Manual,0
+MAN TGS,2008,21.97,46.74,176543,Diesel,Individual,Automatic,2
+Kenworth T680,2012,10.62,24.98,178886,Diesel,Individual,Automatic,3
+Tata Prima,2006,15.5,24.49,144583,Diesel,Individual,Manual,2
+MAN TGS,2014,10.66,37.31,239243,Diesel,Individual,Automatic,3
+DAF XF,2013,18.41,39.72,269168,Diesel,Dealer,Automatic,3
+DAF XF,2019,27.9,25.84,187719,Diesel,Individual,Automatic,2
+MAN TGS,2017,29.65,31.72,202178,Diesel,Individual,Automatic,3
+Volvo FMX,2021,22.74,48.4,56015,Diesel,Dealer,Automatic,1
+Tata Prima,2020,13.23,27.4,71506,Diesel,Dealer,Automatic,2
+Volvo FMX,2006,28.12,40.05,295221,Diesel,Individual,Automatic,3
+Scania,2018,20.32,42.2,74067,Diesel,Dealer,Manual,2
+Isuzu Giga,2007,13.07,33.44,180819,Diesel,Individual,Manual,3
+Scania,2016,28.43,48.13,297849,Diesel,Dealer,Manual,3
+DAF XF,2012,25.15,42.1,52056,Diesel,Dealer,Manual,1
+Kenworth T680,2006,24.63,33.74,278327,Diesel,Individual,Manual,1
+Actros,2008,24.18,37.08,79328,Diesel,Dealer,Automatic,1
+Isuzu Giga,2018,14.01,40.78,127712,Diesel,Individual,Manual,3
+DAF XF,2020,14.22,37.77,102832,Diesel,Dealer,Manual,1
+Volvo FMX,2006,23.77,46.36,92771,Diesel,Individual,Automatic,2
+Volvo FMX,2016,14.39,30.71,147421,Diesel,Dealer,Manual,3
+Volvo FMX,2018,18.77,29.0,267877,Diesel,Individual,Automatic,2
+Kenworth T680,2010,25.64,26.42,227587,Diesel,Individual,Automatic,1
+Scania,2017,25.68,21.13,114538,Diesel,Individual,Manual,3
+Actros,2008,19.07,21.29,249722,Diesel,Individual,Manual,2
+Volvo FMX,2022,25.84,46.1,260050,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2016,26.77,40.35,90151,Diesel,Individual,Automatic,2
+Isuzu Giga,2012,23.1,39.82,182701,Diesel,Dealer,Manual,3
+Tata Prima,2011,14.57,38.44,133463,Diesel,Dealer,Automatic,0
+Freightliner Cascadia,2020,15.48,45.48,146853,Diesel,Individual,Manual,1
+Actros,2010,16.3,34.41,139432,Diesel,Individual,Manual,1
+Kenworth T680,2015,12.34,46.11,78155,Diesel,Dealer,Manual,2
+Actros,2009,15.46,30.78,199360,Diesel,Dealer,Manual,1
+Tata Prima,2020,14.19,47.8,100588,Diesel,Dealer,Automatic,2
+Isuzu Giga,2011,19.11,40.96,268023,Diesel,Individual,Automatic,2
+Tata Prima,2009,28.17,27.72,217157,Diesel,Individual,Manual,2
+MAN TGS,2015,12.09,36.92,61251,Diesel,Dealer,Manual,2
+Isuzu Giga,2019,24.41,35.99,152420,Diesel,Dealer,Automatic,3
+Actros,2007,23.75,24.14,206646,Diesel,Dealer,Automatic,3
+Volvo FMX,2009,11.92,37.74,59623,Diesel,Individual,Automatic,0
+Actros,2009,28.45,29.44,267544,Diesel,Dealer,Automatic,0
+Actros,2013,21.37,21.57,104715,Diesel,Dealer,Automatic,1
+Isuzu Giga,2019,17.27,48.46,56123,Diesel,Dealer,Manual,3
+MAN TGS,2007,25.13,39.24,53061,Diesel,Dealer,Manual,0
+Actros,2010,15.15,46.31,156393,Diesel,Individual,Manual,3
+Freightliner Cascadia,2021,23.87,40.28,152035,Diesel,Dealer,Manual,3
+DAF XF,2012,10.79,30.71,89095,Diesel,Individual,Automatic,1
+Hino 500,2015,26.79,35.38,240690,Diesel,Individual,Automatic,1
+Hino 500,2010,18.96,40.27,209523,Diesel,Dealer,Manual,2
+Actros,2012,22.73,48.81,131897,Diesel,Individual,Manual,3
+Freightliner Cascadia,2014,14.42,27.61,131443,Diesel,Dealer,Automatic,2
+Volvo FMX,2007,23.54,46.25,168005,Diesel,Dealer,Manual,2
+Kenworth T680,2018,25.44,47.72,84814,Diesel,Dealer,Manual,2
+Kenworth T680,2018,19.46,40.11,298904,Diesel,Dealer,Automatic,3
+Isuzu Giga,2014,22.35,47.94,135141,Diesel,Dealer,Automatic,3
+Hino 500,2016,19.13,31.94,278864,Diesel,Individual,Automatic,2
+Actros,2010,27.88,48.59,257940,Diesel,Individual,Manual,3
+Kenworth T680,2016,19.96,41.08,218904,Diesel,Dealer,Automatic,2
+Actros,2018,26.84,21.26,276084,Diesel,Individual,Automatic,0
+Isuzu Giga,2006,26.03,47.21,190517,Diesel,Dealer,Manual,3
+Hino 500,2013,18.21,34.53,214562,Diesel,Individual,Automatic,1
+Tata Prima,2014,14.6,33.81,79767,Diesel,Individual,Manual,1
+DAF XF,2021,18.12,36.99,96057,Diesel,Dealer,Manual,2
+DAF XF,2021,26.52,24.48,261818,Diesel,Individual,Manual,0
+Kenworth T680,2007,14.55,34.07,270767,Diesel,Individual,Manual,3
+DAF XF,2005,20.49,44.93,254172,Diesel,Individual,Automatic,2
+Tata Prima,2016,26.12,20.46,222115,Diesel,Dealer,Manual,0
+Actros,2011,17.07,28.19,136755,Diesel,Individual,Automatic,0
+Isuzu Giga,2008,22.84,20.07,77946,Diesel,Individual,Automatic,3
+Tata Prima,2014,14.91,32.47,217659,Diesel,Individual,Automatic,1
+Isuzu Giga,2017,12.19,41.85,53364,Diesel,Individual,Automatic,1
+Isuzu Giga,2006,25.89,43.96,250926,Diesel,Individual,Automatic,0
+Hino 500,2014,11.98,48.36,237160,Diesel,Individual,Manual,1
+Actros,2008,15.43,38.26,298540,Diesel,Individual,Automatic,0
+Freightliner Cascadia,2022,27.1,27.64,127015,Diesel,Individual,Manual,0
+DAF XF,2009,16.93,47.72,188470,Diesel,Individual,Manual,0
+Freightliner Cascadia,2006,29.46,43.26,183524,Diesel,Dealer,Manual,1
+Hino 500,2016,29.59,37.23,137208,Diesel,Individual,Automatic,2
+Isuzu Giga,2021,15.37,40.87,173208,Diesel,Individual,Automatic,1
+Kenworth T680,2014,10.82,47.73,214265,Diesel,Individual,Automatic,2
+DAF XF,2006,24.1,41.37,260473,Diesel,Individual,Automatic,1
+DAF XF,2010,19.02,31.05,75345,Diesel,Individual,Manual,3
+Actros,2012,12.02,41.39,292883,Diesel,Dealer,Automatic,3
+MAN TGS,2015,24.15,21.21,135895,Diesel,Dealer,Automatic,1
+Scania,2016,10.62,31.59,255407,Diesel,Dealer,Manual,3
+Scania,2013,27.4,32.19,240268,Diesel,Dealer,Manual,3
+Scania,2006,12.77,25.01,204125,Diesel,Individual,Manual,3
+MAN TGS,2012,12.55,20.69,281500,Diesel,Individual,Manual,3
+Actros,2015,13.51,24.0,179022,Diesel,Individual,Manual,2
+MAN TGS,2008,29.21,39.64,264292,Diesel,Dealer,Manual,0
+Scania,2014,23.86,44.07,186087,Diesel,Dealer,Manual,2
+Hino 500,2020,26.03,49.65,278273,Diesel,Dealer,Automatic,0
+Tata Prima,2012,17.95,30.39,189729,Diesel,Dealer,Automatic,0
+Isuzu Giga,2008,16.73,37.98,101116,Diesel,Individual,Manual,1
+MAN TGS,2014,14.69,48.11,203023,Diesel,Individual,Manual,1
+Actros,2016,19.61,25.01,147599,Diesel,Dealer,Automatic,1
+Actros,2018,21.04,41.53,279351,Diesel,Individual,Manual,1
+Freightliner Cascadia,2020,22.64,42.65,76521,Diesel,Dealer,Manual,1
+Tata Prima,2022,15.14,22.67,104431,Diesel,Dealer,Manual,2
+Kenworth T680,2016,28.97,45.84,60731,Diesel,Dealer,Manual,2
+DAF XF,2022,13.4,44.39,199816,Diesel,Dealer,Manual,3
+Scania,2011,29.31,21.0,113094,Diesel,Individual,Automatic,2
+Kenworth T680,2011,10.3,22.73,68423,Diesel,Individual,Manual,2
+Freightliner Cascadia,2013,19.62,21.47,164612,Diesel,Dealer,Manual,1
+Scania,2005,16.67,30.04,198640,Diesel,Dealer,Manual,3
+Tata Prima,2010,18.98,35.28,228483,Diesel,Individual,Automatic,2
+Freightliner Cascadia,2010,21.41,35.97,53934,Diesel,Individual,Automatic,2
+Scania,2016,18.71,28.03,126945,Diesel,Dealer,Manual,3
+Tata Prima,2016,18.3,47.35,180443,Diesel,Dealer,Manual,0
+Volvo FMX,2014,24.65,31.05,146946,Diesel,Dealer,Manual,1
+Kenworth T680,2010,23.72,21.37,146344,Diesel,Dealer,Manual,2
+Kenworth T680,2021,26.67,29.01,189244,Diesel,Dealer,Automatic,2
+DAF XF,2022,15.0,35.93,77358,Diesel,Individual,Automatic,3
+Tata Prima,2010,22.19,32.25,247385,Diesel,Individual,Manual,2
+MAN TGS,2014,21.7,28.22,179774,Diesel,Dealer,Manual,1
+Volvo FMX,2012,17.39,23.94,69763,Diesel,Dealer,Automatic,2
+Hino 500,2010,19.72,44.57,229745,Diesel,Dealer,Automatic,0
+Scania,2011,16.28,49.88,281794,Diesel,Dealer,Manual,1
+Volvo FMX,2005,12.84,29.89,277778,Diesel,Individual,Manual,0
+Tata Prima,2022,14.28,31.45,135997,Diesel,Individual,Manual,3
+Isuzu Giga,2016,12.11,38.54,291830,Diesel,Dealer,Automatic,1
+Scania,2020,23.66,41.55,117975,Diesel,Individual,Automatic,2
+Actros,2014,23.21,31.76,188876,Diesel,Dealer,Automatic,1
+Kenworth T680,2014,29.01,47.15,292399,Diesel,Dealer,Automatic,1
+Tata Prima,2018,24.59,36.8,228666,Diesel,Individual,Manual,1
+Actros,2014,11.04,33.51,259820,Diesel,Dealer,Automatic,0
+DAF XF,2014,27.68,39.4,137189,Diesel,Individual,Automatic,3
+Freightliner Cascadia,2015,27.25,48.58,137507,Diesel,Dealer,Automatic,1
+Hino 500,2006,18.87,43.84,117525,Diesel,Dealer,Manual,2
+Hino 500,2012,21.72,21.2,254476,Diesel,Dealer,Automatic,1
+Actros,2011,29.52,29.97,288634,Diesel,Dealer,Automatic,1
+Kenworth T680,2012,20.65,34.12,149248,Diesel,Individual,Automatic,3
+DAF XF,2005,28.11,29.44,74604,Diesel,Dealer,Manual,2

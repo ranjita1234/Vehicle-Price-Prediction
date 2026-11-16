@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg bg-black">
+        <div class="container-fluid ">
+            <a class="navbar-brand text-white" href="#">
+                <img src="../static/img/vpp.webp" alt="Logo" width="35" height="35" class="d-inline-block align-text-top">
+                Vehicle Price Prediction
+            </a>
+          <button class="navbar-toggler text-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item ">
+                <a class="nav-link active text-white" aria-current="page" href="/">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white" href="/analytics">Analytics</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white" href="/about">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white" href="/contactus">Contact Us</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+    </nav>
+
+    {% if prediction %}
+    <div class="container mt-5 col-8">
+    <h2>Prediction Result:</h2>
+    <h1>{{ prediction }} Lakhs</h1>
+    <p>Car Name : {{Data[0]}}</p>
+    <p>Year : {{Data[1]}}</p>
+    <p>Present price (lakhs) : {{Data[2]}}</p>
+    <p>Driven (kms) : {{Data[3]}}</p>
+    <p>Fuel type : {{Data[4]}}</p>
+    <p>Selling type : {{Data[5]}}</p>
+    <p>Transmission : {{Data[6]}}</p>
+    </div>
+    {% else %}
+
+    <div class="container mt-5 col-6 offset-3">
+        <h2 class="text-center mb-4">Car Details Form</h2>
+        <form action="/car" method="POST" onsubmit="return validate()" novalidate class="p-4 border rounded shadow-sm needs-validation">
+            <div class="mb-3">
+                <label for="car_name" class="form-label">Car Name:</label>
+                <!-- <input type="text" id="car_name" name="car_name" class="form-control" required> -->
+                <select id="car_name" name="car_name" class="form-select" required>
+                    <option selected> [ select here ] </option>
+                    <option value="ritz">Ritz</option>
+                    <option value="sx4">SX4</option>
+                    <option value="ciaz">Ciaz</option>
+                    <option value="wagon r">Wagon R</option>
+                    <option value="swift">Swift</option>
+                    <option value="vitara brezza">Vitara Brezza</option>
+                    <option value="s cross">S Cross</option>
+                    <option value="alto 800">Alto 800</option>
+                    <option value="ertiga">Ertiga</option>
+                    <option value="dzire">Dzire</option>
+                    <option value="alto k10">Alto k10</option>
+                    <option value="ignis">Ignis</option>
+                    <option value="baleno">Baleno</option>
+                    <option value="omni">Omni</option>
+                    <option value="fortuner">Fortuner</option>
+                    <option value="innova">Innova</option>
+                    <option value="corolla altis">Corolla Altis</option>
+                    <option value="etios cross">Etios Cross</option>
+                    <option value="etios g">Etios G</option>
+                    <option value="etios liva">Etios Liva</option>
+                    <option value="corolla">Corolla</option>
+                    <option value="etios gd">Etios GD</option>
+                    <option value="camry">Camry</option>
+                    <option value="land cruiser">Land Cruiser</option>
+                </select>
+            </div>
+    
+            <div class="mb-3">
+                <label for="year" class="form-label">Year:</label>
+                <input type="number" id="year" name="year" class="form-control" min="1900" max="2024" required>
+            </div>
+    
+            <div class="mb-3">
+                <label for="present_price" class="form-label">Present Price (in Lakhs):</label>
+                <input type="number" id="present_price" name="present_price" class="form-control" step="0.01" required>
+            </div>
+    
+            <div class="mb-3">
+                <label for="driven_kms" class="form-label">Driven Kilometers:</label>
+                <input type="number" id="driven_kms" name="driven_kms" class="form-control" step="0.1" required>
+            </div>
+    
+            <div class="mb-3">
+                <label for="fuel_type" class="form-label">Fuel Type:</label>
+                <select id="fuel_type" name="fuel_type" class="form-select" required>
+                    <option value="Petrol">Petrol</option>
+                    <option value="Diesel">Diesel</option>
+                    <option value="CNG">CNG</option>
+                </select>
+            </div>
+    
+            <div class="mb-3">
+                <label for="selling_type" class="form-label">Selling Type:</label>
+                <select id="selling_type" name="selling_type" class="form-select" required>
+                    <option value="Dealer">Dealer</option>
+                    <option value="Individual">Individual</option>
+                </select>
+            </div>
+    
+            <div class="mb-3">
+                <label for="transmission" class="form-label">Transmission:</label>
+                <select id="transmission" name="transmission" class="form-select" required>
+                    <option value="Manual">Manual</option>
+                    <option value="Automatic">Automatic</option>
+                </select>
+            </div>
+    
+            <div class="mb-3">
+                <label for="owner" class="form-label">Number of Previous Owners:</label>
+                <input type="number" id="owner" name="owner" class="form-control" min="0" required>
+            </div>
+    
+            <button type="submit" class="btn btn-primary w-100">Submit</button>
+        </form>
+    </div>
+
+    {% endif %}
+
+
+
+    <footer class="footer d-flex justify-content-center align-items-center bg-black text-center text-white ">
+        <div class="f-logo flex-fill align-center">
+            <img src="../static/img/vpp.webp" alt="logo" width="150" height="150"/>
+        </div>
+        <div class="d-flex flex-column align-self-center">
+            <div class="f-links d-flex flex-column flex-fill list-unstyled p-3">
+                <a class="text-decoration-none text-white mx-4" href="/">Home</a>
+                <a class="text-decoration-none text-white mx-4" href="/about">About</a>
+                <a class="text-decoration-none text-white mx-4" href="/contactus">Contact</a>
+                <a class="text-decoration-none text-white mx-4" href="/analytics">Analytics</a>
+            </div>
+        </div>
+        <div class="d-flex flex-column flex-fill align-self-center">
+            <div class="f f-links flex-fill list-unstyled p-3 m-0">
+                <a class="text-decoration-none text-white mx-4" href="https://www.instagram.com/">
+                    <i class="fab fa-instagram"></i>&nbsp; Instagram
+                </a>
+                <a class="text-decoration-none text-white mx-4" href="https://www.facebook.com/">
+                    <i class="fab fa-facebook"></i>&nbsp; Facebook
+                </a>
+                <a class="text-decoration-none text-white mx-4" href="https://www.youtube.com/">
+                    <i class="fab fa-youtube"></i>&nbsp; Youtube
+                </a>
+            </div>
+            <div class="f f-brand flex-fill p-3 m-0">&copy; 2024 Vehicle Price Prediction</div>
+            <div class="f f-links flex-fill p-3">
+                <a href="/privacy-policy" class="f-links text-decoration-none text-white p-3 m-0">Privacy Policy</a>
+            </div>
+        </div>
+        <div class="f f-address flex-fill">
+            <p class="text-start">
+                <b>Address:</b><br />
+                Department Of CSE, <br>
+                Sri Taralabalu Jagadguru 
+                Institute of Technology, <br />
+                P B Road, <br />
+                Ranebennur - 581115,
+                Haveri, <br />
+                Karnataka.
+            </p>
+        </div>
+    </footer>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
+    <script>
+        let carlist = ['ritz', 'sx4', 'ciaz', 'wagon r', 'swift', 'vitara brezza',
+       's cross', 'alto 800', 'ertiga', 'dzire', 'alto k10', 'ignis',
+       '800', 'baleno', 'omni', 'fortuner', 'innova', 'corolla altis',
+       'etios cross', 'etios g', 'etios liva', 'corolla', 'etios gd',
+       'camry', 'land cruiser']
+  
+         let car = document.getElementById("car_name")
+         let year = document.getElementById("year")
+         let present_price = document.getElementById("present_price")
+         let driven_kms = document.getElementById("driven_kms")
+         let owner = document.getElementById("owner")
+
+          function validate(){
+            if(car.value.trim() === ""){
+              alert("Name is empty")
+              return false
+            }
+            if(year.value.trim() === ""){
+              alert("Year is empty")
+              return false
+            }
+            if(present_price.value.trim() === ""){
+              alert("Present Price is empty")
+              return false
+            }
+            if(driven_kms.value.trim() === ""){
+              alert("Driven kms is empty")
+              return false
+            }
+            if(owner.value.trim() === ""){
+              alert("Owner is empty")
+              return false
+            }
+  
+            if(!carlist.includes(car.value.trim())){
+              alert("Enter a valid vehicle name")
+              return false
+            }
+            return true
+          }
+      </script>
+
+
+</body>
+</html>

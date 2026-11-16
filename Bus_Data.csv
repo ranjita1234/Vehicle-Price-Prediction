@@ -1,0 +1,101 @@
+﻿Bus_Name,Year,Selling_Price,Present_Price,Driven_kms,Fuel_Type,Selling_type,Transmission,Owner
+Mercedes-Benz Citaro,2006,36.41,89.67,449209,Diesel,Dealer,Manual,1
+Mercedes-Benz Intouro,2019,11.27,100,34592,CNG,Owner,Automatic,1
+Mercedes-Benz Travego,2014,27.9,51.61,277791,CNG,Owner,Automatic,1
+Mercedes-Benz Tourismo,2010,74.02,25.1,144788,Diesel,Dealer,Manual,0
+Mercedes-Benz Sprinter City,2007,81.12,113.75,224963,Electric,Owner,Manual,0
+Mercedes-Benz OC 500 LE,2020,64.54,56.75,485761,Diesel,Owner,Manual,2
+Mercedes-Benz O 500 RSD,2006,93.37,69.36,253710,CNG,Dealer,Manual,1
+Mercedes-Benz Conecto,2018,68.6,102.96,225984,CNG,Owner,Manual,2
+Mercedes-Benz O 404,2022,92.35,85.95,377771,Electric,Dealer,Automatic,0
+Mercedes-Benz O 302,2010,86.5,92.2,337460,CNG,Dealer,Automatic,0
+Volvo 7900 Electric,2010,50.45,36.95,263067,Diesel,Dealer,Automatic,0
+Volvo 9700,2023,18.59,71.85,269512,Electric,Dealer,Automatic,0
+Volvo 9900,2020,43.37,88.06,82575,Diesel,Dealer,Manual,0
+Volvo B11R,2003,70.2,39,273799,Diesel,Dealer,Manual,0
+Volvo B8R,2007,69.93,33.37,242549,Electric,Dealer,Manual,0
+Volvo 7700 Hybrid,2023,63.22,118.13,75031,Diesel,Owner,Automatic,1
+Volvo B9TL,2002,34.72,69.25,474645,CNG,Dealer,Automatic,2
+Volvo B5LH,2021,60.51,42.39,489299,Diesel,Dealer,Manual,0
+Volvo Olympian,2020,44.46,119.61,92922,Electric,Owner,Manual,1
+Volvo Super Olympian,2001,97.45,116.37,453982,Electric,Owner,Automatic,1
+Scania Citywide,2023,86.4,73.62,129046,Electric,Owner,Automatic,2
+Scania Touring HD,2011,74.96,107.68,411619,Diesel,Dealer,Manual,0
+Scania OmniExpress,2005,31.24,34.81,37097,Electric,Owner,Manual,2
+Scania Interlink,2001,33.05,44.28,476873,Electric,Dealer,Automatic,0
+Scania OmniLink,2020,13.64,88.54,147038,Diesel,Dealer,Manual,1
+Scania K360UB,2000,73.96,103.9,129862,CNG,Dealer,Manual,1
+Scania K280UB,2011,19.98,104.91,235229,Diesel,Dealer,Manual,1
+Scania Metrolink,2021,49.54,57.47,123834,Electric,Owner,Automatic,1
+Scania Fencer,2011,28.15,108.22,98848,Electric,Owner,Automatic,2
+Scania K320UB,2016,90.62,104.35,57921,Diesel,Dealer,Automatic,0
+MAN Lion City,2009,52.78,113.24,185798,CNG,Dealer,Automatic,0
+MAN Lion Coach,2015,60.69,97.46,131141,Electric,Dealer,Automatic,2
+MAN A66,2014,72.6,85.24,186372,Electric,Owner,Automatic,0
+MAN SL 202,2014,22.54,75.97,289821,Electric,Dealer,Automatic,1
+MAN R07 Lion Coach Supreme,2018,64.4,54.09,60609,Diesel,Dealer,Manual,0
+MAN Neoplan Skyliner,2011,58.59,113.71,232897,Electric,Owner,Manual,1
+MAN A95,2022,28.28,117.23,454877,CNG,Owner,Manual,2
+MAN A21,2019,94.86,44.81,36024,Electric,Dealer,Manual,0
+MAN 18.280,2002,63.9,47.06,75313,Electric,Owner,Manual,2
+MAN SG 313,2004,72.53,65.99,394957,CNG,Owner,Manual,0
+Setra TopClass S 531 DT,2018,89.24,62.08,189078,Electric,Dealer,Manual,1
+Setra ComfortClass S 515 HD,2006,66.19,119.42,362429,Diesel,Owner,Automatic,2
+Setra MultiClass LE business,2020,36.61,33.47,413554,Diesel,Dealer,Automatic,0
+Setra S 431 DT,2008,19.49,16.9,466243,Diesel,Owner,Manual,1
+Setra S 517 HDH,2006,51.09,66.86,490988,CNG,Dealer,Manual,2
+Setra S 416 GT-HD,2017,29.66,33.78,118632,Electric,Dealer,Automatic,2
+Setra S 419 GT-HD,2003,47.49,53.48,478351,Diesel,Dealer,Manual,0
+Setra S 411 HD,2013,89.5,93.14,417724,CNG,Owner,Manual,0
+Setra S 415 HD,2017,39.19,90.7,256451,Electric,Dealer,Automatic,0
+Setra S 417 HDH,2008,20.99,47.35,8051,CNG,Owner,Manual,1
+Isuzu Novo Ultra,2020,42.07,71.97,184819,Diesel,Dealer,Automatic,0
+Isuzu Turquoise,2001,91.61,68.43,381836,Diesel,Dealer,Manual,2
+Isuzu Citiport,2019,34.49,81.81,485358,Diesel,Owner,Automatic,2
+Isuzu Visigo,2014,68.29,41.3,92235,CNG,Dealer,Automatic,0
+Isuzu Interliner,2006,10.05,76.94,452237,CNG,Dealer,Automatic,0
+Isuzu Grand Toro,2011,41.73,117.78,202484,Diesel,Owner,Manual,2
+Isuzu Cityport CNG,2007,37.43,66.11,194407,CNG,Dealer,Automatic,1
+Isuzu Gala Mio,2014,24.82,110.14,454395,Diesel,Dealer,Manual,0
+Isuzu Aero Ace,2002,58.07,60.61,430309,Diesel,Dealer,Manual,0
+Isuzu ERGA,2013,53.63,51.76,467894,Electric,Dealer,Manual,2
+Toyota Coaster,2016,72.32,82.74,216810,CNG,Owner,Manual,0
+Toyota HiAce Commuter,2003,34.25,85.24,437950,Diesel,Owner,Automatic,1
+Toyota Sora Fuel Cell Bus,2017,31.97,105.74,208687,Diesel,Dealer,Automatic,2
+Toyota Hino Poncho,2007,25.15,39.17,78523,CNG,Owner,Manual,0
+Toyota Sora FC Bus,2003,29.69,67.42,241175,Electric,Dealer,Manual,2
+Toyota Quick Delivery,2001,60.23,75.06,99476,Electric,Owner,Automatic,0
+Toyota Grand Ace,2005,46.35,95.7,238841,Diesel,Dealer,Manual,0
+Toyota JPN Taxi,2021,15.84,19.58,284163,CNG,Dealer,Automatic,0
+Toyota Microbus,2009,32.85,119.43,350757,Electric,Dealer,Manual,1
+Toyota Land Cruiser Bus,2003,32.22,64.34,227866,CNG,Dealer,Manual,1
+Tata Starbus Urban,2021,72.67,44.35,91672,CNG,Dealer,Automatic,2
+Tata Winger,2017,74.1,107.77,78847,Diesel,Dealer,Manual,0
+Tata LP 410,2011,23.33,93.51,349894,Electric,Owner,Automatic,0
+Tata Marcopolo,2001,99.8,115.07,215706,Diesel,Dealer,Manual,1
+Tata Cityride,2009,34.01,49.73,33251,Electric,Owner,Manual,0
+Tata Starbus Ultra,2003,97.9,73.04,108481,Electric,Dealer,Manual,1
+Tata Magna,2013,46.99,75.09,379710,Electric,Owner,Automatic,0
+Tata CNG Bus,2015,12.97,117.93,30945,Electric,Owner,Manual,2
+Tata Starbus Hybrid,2014,41.06,22.91,357996,Electric,Owner,Manual,0
+Tata Starbus EV,2007,67.09,47.1,37217,CNG,Dealer,Manual,0
+Ashok Leyland JanBus,2013,71.26,35.05,13308,Diesel,Dealer,Manual,1
+Ashok Leyland Oyster,2022,57.78,43.19,273093,CNG,Owner,Automatic,0
+Ashok Leyland Circuit,2007,50.3,65.95,188062,Electric,Dealer,Automatic,0
+Ashok Leyland Viking,2020,59.76,54.13,399366,Diesel,Owner,Manual,1
+Ashok Leyland Lynx,2015,63.34,56.44,225552,Electric,Dealer,Automatic,2
+Ashok Leyland Cheetah,2012,17.28,103.64,105235,Diesel,Owner,Manual,2
+Ashok Leyland Mitr,2017,43.27,112.65,79740,CNG,Owner,Manual,1
+Ashok Leyland Eagle,2014,31.79,22.39,383496,Diesel,Dealer,Manual,1
+Ashok Leyland Luxura,2020,82.28,36.94,333761,Diesel,Owner,Automatic,1
+Ashok Leyland Sunshine School Bus,2023,52.33,85.47,230913,Diesel,Dealer,Automatic,1
+ADL Enviro200,2012,98.51,52.66,284040,Diesel,Owner,Automatic,1
+ADL Enviro400,2008,45.89,41.69,397942,Diesel,Owner,Automatic,2
+ADL Enviro500,2014,83.48,46.01,182247,Electric,Dealer,Automatic,2
+ADL Enviro100EV,2012,81.85,48.87,143877,Diesel,Dealer,Automatic,1
+ADL Plaxton Panther,2000,23.56,104.11,10237,Diesel,Dealer,Automatic,0
+ADL Enviro350H,2006,55.74,29.35,25056,CNG,Owner,Automatic,1
+ADL Enviro400H,2008,72.62,89.44,181615,Diesel,Dealer,Automatic,0
+ADL Enviro21,2023,87.25,73.05,192628,CNG,Owner,Manual,1
+ADL Plaxton Elite,2000,39.34,46.13,119548,Electric,Owner,Automatic,1
+ADL Enviro33,2011,29.82,59.08,378632,Diesel,Dealer,Automatic,2
